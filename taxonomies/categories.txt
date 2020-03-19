@@ -19,6 +19,7 @@ synonyms:ru:макаронные изделия, изделия макаронн
 
 stopwords:fr:aux,au,de,le,du,la,a,et,avec,base
 stopwords:ca:als,a les,de,el,del,de la,la,té,i,amb,base
+stopwords:it:a,ai,al,all',alla,allo,base,con,da,dai,dal,dall',del,dell',della,delle,di,e,per
 stopwords:nl:bevat,en
 stopwords:nl_be:bevat,en
 stopwords:de:und,mit,von
@@ -30,6 +31,7 @@ es:Productos artesanales, Productos artesanos
 fi:artisaanituotteet
 fr:Produits artisanaux
 hu:Kézműves termékek
+it:Prodotti artigianali
 nl:Ambachtelijke producten, Ambachtelijk product, Ambachtelijk produkt
 nl_be:Ambachtelijke producten
 ro:Produse artizanale
@@ -43,6 +45,7 @@ es:Palitos de pan artesanales
 fi:käsintehdyt leipätikut
 fr:Gressins artisanaux
 hu:Kézzel készített termékek
+it:Grissini artigianali, Grissini fatti a mano
 nl:Handgemaakte broodstengels
 ro:Grisine artizanale
 
@@ -53,6 +56,7 @@ es:Alimentos infantiles, Alimentos para bebés, Alimentos para lactantes, Alimen
 fi:lasten ruuat
 fr:Aliments pour bébé, aliment pour bébé, alimentation pour bébé, aliment bébé, alimentation bébé, aliments bébé, alimentation infantile
 hu:Bébiételek
+it:Alimenti per neonati
 nl:Babyvoeding
 nl_be:Babyvoeding
 pl:Żywność dla niemowląt
@@ -71,6 +75,7 @@ es:Cereales para bebes
 fi:aamiaismuroja vauvoille
 fr:Céréales pour bébé, céréales bébé, céréales infantiles
 hu:Gabonafélék csecsemőknek
+it:Cereali per neonati
 nl:Baby ontbijtpappen, Baby ontbijtpap
 ro:Cereale pentru bebeluși, Cereale bebeluși
 
@@ -82,6 +87,7 @@ es:De 4 meses, A partir de 4 meses
 fi:4 kk alkaen
 fr:Dès 4 mois, Dès 04 mois
 hu:4 hónapos kortól
+it:Dal 4 mese, A partire dal 4 mese, Dal quarto mese, A partire dal quarto mese
 nl:Vanaf 4 maanden, Vanaf 4 maand
 
 <en:Baby foods
@@ -92,6 +98,7 @@ es:De 6 meses, A partir de 6 meses
 fi:Alkaen 6 kk
 fr:Dès 6 mois, Dès 06 mois
 hu:6 hónapos kortól
+it:Dal 6 mese, A partire dal 6 mese, Dal sesto mese, A partire dal sesto mese
 nl:Vanaf 6 maanden, Vanaf 6 maand
 ru:С 6 месяцев, Для детей от 6 месяцев
 
@@ -103,6 +110,7 @@ es:De 8 meses, A partir de 8 meses
 fi:8 kk alkaen
 fr:Dès 8 mois, Dès 08 mois
 hu:8 hónapos kortól
+it:Dall'8 mese, A partire dall'8 mese, Dall'ottavo mese, A partire dall'ottavo mese
 nl:Vanaf 8 maanden, Vanaf 8 maand
 ru:С 8 месяцев, Для детей от 8 месяцев
 
@@ -114,6 +122,7 @@ es:De 10 meses, A partir de 10 meses
 fi:10 kk alkaen
 fr:Dès 10 mois
 hu:10 hónapos kortól
+it:Dal 10 mese, A partire dal 10 mese, Dal decimo mese, A partire dal decimo mese
 nl:Vanaf 10 maanden, Vanaf 10 maand
 
 <en:Baby foods
@@ -124,6 +133,7 @@ es:De 12 meses, A partir de 12 meses, De 1 año, A partir de 1 año
 fi:12 kk alkaen
 fr:Dès 12 mois, dès 1 an, dès un an
 hu:12 hónapos kortól, 1 éves kortól, Egy éves kortól
+it:Dal 12 mese, A partire dal 12 mese, Dal dodicesimo mese, A partire dal dodicesimo mese, Dal 1 anno, A partire dal 1 anno, Dal primo anno, A partire dal primo anno 
 nl:Vanaf 12 maanden, Vanaf 12 maand
 
 <en:Baby foods
@@ -133,6 +143,7 @@ de:Ab 15 Monaten, Ab 15. Monat, Ab dem 15. Monat
 es:De 15 meses, A partir de 15 meses
 fr:Dès 15 mois
 hu:15 hónapos kortól
+it:Dal 15 mese, A partire dal 15 mese, Dal quindicesimo mese, A partire dal quindicesimo mese
 nl:Vanaf 15 maanden, Vanaf 15 maand
 
 <en:Baby foods
@@ -141,7 +152,8 @@ ca:Des dels 18 mesos
 de:Ab 18 Monaten, Ab 18. Monat, Ab dem 18. Monat
 es:De 18 meses, A partir de 18 meses
 fr:Dès 18 mois
-hu:18 hónapos kortól, Egy és fél éves kortól,
+hu:18 hónapos kortól, Egy és fél éves kortól
+it:Dal 18 mese, A partire dal 18 mese, Dal diciottesimo mese, A partire dal diciottesimo mese
 nl:Vanaf 18 maanden, Vanaf 18 maand
 
 <en:Baby foods
@@ -151,6 +163,7 @@ de:Ab 24 Monaten, Ab 24. Monat, Ab dem 24. Monat, Ab 2 Jahren
 es:De 24 meses, A partir de 24 meses
 fr:Dès 24 mois
 hu:24 hónapos kortól, 2 éves kortól, Két éves kortól
+it:Dal 24 mese, A partire dal 24 mese, Dal ventiquattresimo mese, A partire dal ventiquattresimo mese, Dal 2 anno, A partire dal 2 anno, Dal secondo anno, A partire dal secondo anno
 nl:Vanaf 24 maanden, Vanaf 24 maand
 
 <en:Baby foods
@@ -159,6 +172,7 @@ ca:Des dels 3 anys
 de:Ab 3 Jahren
 es:De 3 años, A partir de 3 años
 hu:3 éves kortól
+it:Dal 3 anno, A partire dal 3 anno, Dal terzo anno, A partire dal terzo anno
 nl:Vanaf 3 jaar
 ru:С 3-х лет, С 3 лет, С трёх лет
 
@@ -170,6 +184,7 @@ es:Snacks y postres para bebes
 fi:Naposteltavia ja jälkiruokia vauvoille
 fr:Goûters et desserts pour bébé, Goûters pour bébé, Desserts pour bébé
 hu:Snackek és desszertek csecsemőknek
+it:Snack e dessert per neonati
 nl:Snacks en toetjes voor babies
 ro:Snack-uri și deserturi bebeluși, Snack-uri și deserturi pentru bebeluși
 
@@ -180,6 +195,7 @@ de:Babykekse, Kekse für Babies
 es:Galletas para bebes
 fr:Biscuits pour bébé
 hu:Kekszek csecsemőknek
+it:Biscotti per neonati
 nl:Babykoekjes, Koekjes voor babies
 ro:Biscuiți pentru bebeluși, Biscuiți bebeluși
 
@@ -190,6 +206,7 @@ de:Getränke für Babies
 es:Bebidas para bebes
 fr:Boissons pour bébé, boisson pour bébé
 hu:Babaitalok
+it:Bevande per neonati
 nl:Babydranken, Babydrank
 ro:Băuturi pentru bebeluși, Băuturi bebeluși
 
@@ -200,6 +217,7 @@ de:Fruchtdesserts für Babies
 es:Postres de frutas para bebe, Postres de frutas para bebes
 fi:Hedelmäjälkiruuat vauvoillle
 fr:Desserts au fruit pour bébé
+it:Dessert alla frutta per neonati
 nl:Baby-vruchtentoetjes, Baby-vruchtentoetje
 ro:Deserturi cu fructe pentru bebeluși, Deserturi cu fructe bebeluși
 
@@ -211,6 +229,7 @@ es:Postres lácteos para bebe, Postres lácteos para bebes
 fi:Maitopohjaiset vauvan jälkiruuat
 fr:Desserts lactés pour bébé
 hu:Baba gyümölcs desszertek
+it:Dessert a base di latte per neonati
 nl:Babymelktoetjes, Babymelktoetje
 ro:Deserturi cu lactate pentru bebeluși, Deserturi cu lactate bebeluși
 
@@ -222,6 +241,7 @@ es:Leche para bebe, Leche para bebes
 fi:äidinmaitokorvikkeet
 fr:Laits pour bébé, laits bébé, laits infantiles
 hu:Babatejek
+it:Latte artificiale per neonati
 nl:Babymelk
 ro:Lapte pentru bebeluși, Lapte bebeluși, Lapte bebelusi, Lapte pentru bebelusi
 
@@ -233,6 +253,7 @@ es:Fórmula infantil, Leche de primera infancia, Leche hasta 6 meses
 fi:äidinmaitokorvikkeet
 fr:Laits 1er âge, lait 1er age, lait premier age, laits premier age
 hu:Anyatej-helyettesítő tápszerek a 6. hónapig
+it:Latte formulato fino al 6 mese, Latte adattato fino al 6 mese
 nl:Baby-startmelk tot 6 maanden
 ro:Formula pentru bebeluși, Formula bebeluși, Formula bebelusi, Formula pentru bebelusi
 
@@ -240,12 +261,14 @@ ro:Formula pentru bebeluși, Formula bebeluși, Formula bebelusi, Formula pentru
 en:Pre-food, Baby start milk from 6 months
 ca:Primera llet des dels 6 mesos
 de:Pre-Nahrung, Pre-Milch, Pre
+it:Latte formulato dal 6 mese, Latte adattato dal 6 mese
 nl:Baby-startmelk vanaf 6 maanden
 
 <en:Infant formulas
 en:Baby start milk from 10 months
 ca:Primera llet des dels 10 mesos
 de:1-Nahrung, 1er-Babymilch
+it:Latte formulato dal 10 mese, Latte adattato dal 10 mese
 nl:Baby-startmelk vanaf 10 maanden
 
 <en:Baby milks
@@ -253,6 +276,7 @@ en:Baby follow-on milk from 5 months
 ca:Llet de continuació des dels 5 mesos
 de:Folgenahrung, Folgemilch
 fr:Laits 2ème âge, lait 2eme age, lait deuxieme age, laits deuxieme age, laits à partir de 5 mois, laits de suite
+it:Latte di proseguimento dal 5 mese
 nl:Baby-opvolgmelk
 
 <en:Baby milks
@@ -260,6 +284,7 @@ en:Baby follow-on milk from 2 years
 ca:Llet de continuació des dels 2 anys
 de:2-Nahrung, 2er-Babymilch
 fr:Laits de suite à partir de 2 ans
+it:Latte di proseguimento dal 2 anno
 nl:Baby-opvolgmelk vanaf 2 jaar
 
 <en:Baby milks
@@ -267,6 +292,7 @@ en:Baby follow-on milk from 3 years
 ca:Llet de continuació des dels 3 anys
 de:3-Nahrung, 3er-Babymilch
 fr:Laits de suite à partir de 3 ans
+it:Latte di proseguimento dal 3 anno
 nl:Baby-opvolgmelk vanaf 3 jaar
 
 <en:Baby milks
@@ -275,23 +301,27 @@ ca:Llets de creixement
 de:Kindermilch
 fi:kasvumaidot
 fr:Laits de croissance, lait de croissance, lait destiné aux enfants à partir de 10 mois à 3 ans
+it:Latte di crescita
 nl:Peutermelk
 
 <en:Baby milks
 en:Anti-reflux milk
 ca:Llet contra els refluxs
 fr:Lait anti-reflux
+it:Latte anti reflusso, Latte anti rigurgito
 
 <en:Baby milks
 en:Hypoallergenic milks
 ca:Llets hipoal·lergèniques
 fr:Laits hypoallergéniques,Laits HA
+it:Latte ipoallergenico, Latte HA
 nl:Hypoallergene melk
 
 <en:Baby milks
 en:Milks for premature babies
 ca:Llets per nadons prematurs
 fr:Laits pour bébé prématurés
+it:Latte per neonati prematuri
 
 #fr:Laits maternisés
 
@@ -300,6 +330,7 @@ en:Evening meals for babies
 de:Babynahrung
 fi:ilta-aterioita vauvoille
 fr:Plats du soir pour bébé, Repas du soir pour bébé
+it:Pasti serali per neonati, Pappe serali per neonati
 nl:Baby-avondmaaltijden, Baby-avondmaaltijd
 ro:Cină pentru bebeluși, Cină bebeluși
 
@@ -309,6 +340,7 @@ de:Hauptgerichte für Babies
 es:Comidas para bebés
 fi:pääaterioita vauvoille
 fr:Plats principaux pour bébé, Plats principaux bébé
+it:Pasti principali per neonati, Pappe principali per neonati
 nl:Babymaaltijden, Babymaaltijd
 
 <en:Main meals for babies
@@ -316,18 +348,21 @@ en:Baby dishes
 de:Babygerichte
 fi:vauvanruuat
 fr:Assiettes pour bébé
+it:Piatti per neonati
 nl:Babyschotels, Babyschotel
 
 <en:Main meals for babies
 en:Vegetables menus for babies
 de:Gemüsegerichte für Babies
 fr:Menus Légumes pour bébé
+it:Pasti di verdure per neonati
 nl:Babygroentemaaltijden, Babygroentemaaltijd
 
 <en:Main meals for babies
 en:Fish menus for babies
 de:Fischgerichte für Babies
 fr:Menus Poissons pour bébé
+it:Pasti di pesce per neonati
 nl:Babyvismaaltijden, Babyvismaaltijd
 
 <en:Main meals for babies
@@ -336,16 +371,19 @@ en:Meat menus for babies
 de:Fleischgerichte für Babies
 fi:liharuokia vauvoille
 fr:Menus Viandes pour bébé
+it:Pasti di carne per neonati
 nl:Babyvleesmaaltijden, Babyvleesmaaltijd
 
 <en:Main meals for babies
 fr:Petits pots pour bébé, petits pots bébé, petit pot bébé, petits pots pour bébés, petits pots, petit pot
+it:Omogenizzati
 nl:Babypotjes, Babypotje
 
 <en:Main meals for babies
 en:Soups for babies, Soups for baby, Soup for babies, Soup for baby
 de:Babysuppen
 fr:Potages pour bébé
+it:Zuppe per neonati
 nl:Babysoepen, Babysoep
 
 en:Bee products, products from bees, Products of the hive, Hive products
@@ -355,7 +393,7 @@ es:Productos apícolas, Productos de la abeja
 fi:Mehiläistuotteet
 fr:Produits de la ruche
 hu:Méh termékek, Méhészeti termékek
-it:Prodotti delle api
+it:Prodotti dell'alveare, Prodotti dell'apicoltura, Prodotti delle api
 nl:Bijenproducten, Bijenproduct, Bijenprodukt
 pl:Produkty pszczele
 pt:Produtos des abelhas, produtos de colmeia
@@ -391,7 +429,7 @@ hr:Matična mliječ
 hu:Méhpempő
 hy:Մեղվակաթ
 id:Royal jelly
-it:Pappa Reale
+it:Pappa reale
 ja:ローヤルゼリー
 ka:ფუტკრის რძე
 kk:Ара сүті
@@ -435,6 +473,7 @@ en:Pollens
 de:Pollen
 es:Polen
 fr:Pollens
+it:Polline
 nl:Pollen
 nl_be:Pollen
 ro:Polen
@@ -445,6 +484,7 @@ wikidata:en:Q79932
 en:Propolis
 de:Propolis
 fr:Propolis
+it:Propoli
 nl:Propolis
 nl_be:Propolis
 ro:Propolis
@@ -458,18 +498,21 @@ en:Honey-based preparations
 de:Honigbasierte Zubereitung, Zubereitung auf Honigbasis
 fi:Hunajavalmisteet
 fr:Préparations à base de miel
+it:Preparati a base di miele
 nl:Bereidingen op basis van honing
 
 <en:Honey-based preparations
 en:Blends of honey and propolis
 de:Honig und Propolis Mischungen
 fr:Préparations à base de miel et propolis, mélanges de miel et propolis
+it:Miscele di miele e propoli, Preparati con miele e propoli
 nl:Mengsels van honing en propolis, Mengelingen van honing en propolis
 
 <en:Honey-based preparations
 en:Honey and royal jelly mixtures
 de:Honig und Gelée Royale Mischungen
 fr:Préparations à base de miel et gelée royale, mélanges de miel et gelée royale
+it:Miscele di miele e pappa reale, Preparati con miele e pappa reale
 nl:Mengsels van honing en koninginnegelei, Mengelingen van koninginnegelei
 
 en:Beverages, Drinks
@@ -502,7 +545,7 @@ es:Comidas fermentadas, Alimentos fermentados
 fi:fermentoidut ruuat
 fr:Produits fermentés
 hu:Erjesztett ételek
-it:Cibi fermentati
+it:Prodotti fermentati
 ja:発酵食品
 nl:Gefermenteerde levensmiddelen
 pt:Alimentos Fermentados
@@ -582,7 +625,7 @@ es:Bebidas alcohólicas
 fi:alkoholijuomat
 fr:Boissons alcoolisées, boisson alcoolisée, alcool, alcools
 hu:Alkoholos italok, Alkohol tartalmú italok
-it:Bevande alcoliche
+it:Bevande alcoliche, Alcolici
 ja:酒, さけ
 nl:Alcoholische dranken
 nl_be:Alcoholische dranken
@@ -601,6 +644,7 @@ pnns_group_2:en:Alcoholic beverages
 <en:Alcoholic beverages
 fr:Pastis
 de:Pastis
+it:Pastis
 nl:Pastis, Anijsdranken
 ro:Pastis
 
@@ -609,6 +653,7 @@ en:Sake
 de:Sake
 fr:Saké
 hu:Szaké, Sake
+it:Sakè, Sake
 ja:日本酒, にほんしゅ
 nl:Saké
 ro:Sake
@@ -633,7 +678,7 @@ de:Aromatisierte Biere
 fi:maustetu oluet
 fr:Bières aromatisées
 hu:Ízesített sörök
-it:Birre aromatizzate, birre con aroma
+it:Birre aromatizzate, birre con aromi
 nl:Gearomatiseerde bieren
 ro:Beri aromatizate, Beri aromate, Bere aromatizata, Bere aromata, Bere aromată, Bere aromatizată
 en-GB:Flavoured beers, flavoured beer
@@ -645,6 +690,7 @@ de:Craft Spirituosen
 fi:Artisaani-viinat
 fr:Alcools artisanaux
 hu:Kézmüves szezek, Kézműves alkohol tartalmú italok
+it:Bevande alcoliche artigianali, Alcolici artigianali
 nl:Ambachtelijke alcoholica
 ro:Băuturi alcoolice artizanale, Bauturi alcoolice artizanale
 
@@ -655,12 +701,14 @@ de:Craft Cider, Craft Apfelschaumwein, Cidre artisanal
 fi:artisaanisiiderit
 fr:Cidres artisanaux, Cidre artisanal
 hu:Almaborok
+it:Sidri artigianali
 nl:Ambachtelijke ciders
 ro:Cidru
 
 <en:Alcoholic beverages
 <en:Mixed drinks
 de:Biermischgetränk, Biermixgetränk
+it:Cocktail di birra
 wikidata:en:Q13527031
 
 <en:Alcoholic beverages
@@ -745,13 +793,14 @@ en:Abbey beer, Abbey ale
 de:Abteibier
 fi:luostariolut
 fr:Bières d'abbayes, Bières d'abbaye
+it:Birre d'abbazia, Birre trappiste
 hu:Apátsági sör
 nl:Abdijbieren
 
 <en:Beers
 en:American beers, Beers from the USA
 fr:Bières américaines, Bières des Etats-Unis, Bières des USA
-it:Birre americane, Birre dagli USA, Birre dagli Stati Uniti d'America
+it:Birre statunitensi, Birre americane, Birre degli USA, Birre degli Stati Uniti d'America
 nl:Bier uit de Verenigde Staten van Amerika, Amerikaanse bieren
 
 <en:Beers
@@ -761,7 +810,7 @@ es:Cervezas francesas, Cervezas de Francia
 fi:ranskalaiset oluet
 fr:Bières françaises, Bières de France
 hu:Francia sörök
-it:Birre francesi, birre dalla Francia
+it:Birre francesi, birre della Francia
 nl:Franse bieren, Bieren uit Frankrijk
 ro:Beri franțuzești, Beri frantuzesti, Bere franțuzească, Bere frantuzeasca, Bere franta, Bere franța
 
@@ -770,6 +819,7 @@ en:Corsican beers
 de:Korsikanische Biere, Korsische Biere
 fr:Bières corses
 hu:Korzikai sörök
+it:Birre corse, Birre della Corsica
 nl:Corsicaanse bieren, Bieren uit Corsica
 
 <en:Beers
@@ -779,7 +829,7 @@ es:Cervezas organicas
 fi:luomuoluet
 fr:Bières bio
 hu:Bio sörök
-it:Birre biologiche, birre bio
+it:Birre biologiche, Birre bio
 nl:Biologische bieren
 ro:Beri bio, Bere bio
 
@@ -787,6 +837,7 @@ ro:Beri bio, Bere bio
 en:Brittany Beers
 de:Bretonische Biere
 fr:Bières bretonnes, Bières de bretagne
+it:Birre bretoni, Birre della Bretagna
 nl:Bretonse bieren
 
 <en:Beers
@@ -794,6 +845,7 @@ en:Beers from Ireland, Irish beers
 de:Irische Biere
 fr:Bières irlandaises
 hu:Ír sörök
+it:Birre irlandesi, Birre dell'Irlanda
 nl:Ierse bieren
 ro:Beri irlandeze, Beri irlanda, Bere irlandeză, Bere irlanda, Bere irlandeza
 
@@ -802,7 +854,7 @@ en:Italian beers, Beers from Italy
 de:Italienische Biere
 fr:Bières italiennes
 hu:Olasz sörök, Olaszországi sörök
-it:Birre italiane, birre dall'italia
+it:Birre italiane, birre dell'italia
 nl:Italiaanse bieren
 ro:Beri italiene, Beri italia, Bere italia, Bere italiana, Bere italiană
 
@@ -811,7 +863,7 @@ en:Double beer
 de:Doppelte Biere
 fr:Bière double
 hu:Dubbel sör
-it:Birra doppia, doppia birra
+it:Birra doppia, Doppia birra
 nl:Dubbelgegist bier
 
 <en:Beers
@@ -820,7 +872,7 @@ de:Dreifache Biere
 fi:Triple-olut
 fr:Bière triple
 hu:Tripel sör
-it:Birra tripla, tripla birra
+it:Birra tripla, Tripla birra
 nl:Tripel bieren
 
 <en:Beers
@@ -828,6 +880,7 @@ en:Quadruple beer
 de:Vierfache Biere
 fr:Bière quadruple
 hu:Quadrupel sör
+it:Birra quadrupla
 nl:Quadrupel bieren
 
 <en:Beers
@@ -837,6 +890,7 @@ es:Cervezas belgas
 fi:belgialaiset oluet
 fr:Bières belges, Bières de Belgique
 hu:Belga sörök, Sörök belgumból
+it:Birre belghe, Birre del Belgio
 nl:Belgische bieren, Bieren uit België
 ro:Beri belgiene, Beri Belgia, Bere Belgiană, Bere Belgia, Bere Belgiana
 
@@ -845,38 +899,47 @@ en:Beers from Czech republic
 de:Tschechische Biere
 fr:Bières de République tchèque
 hu:Cseh sörök, Sörök csehországból
+it:Birre ceche, Birre della Repubblica Ceca, Birre della Cechia
 nl:Tsjechische bieren
 
 <en:Beers from Czech republic
 cz:Březnický ležák
+it:Březnický ležák
 country:en:Czech republic
 
 <en:Beers from Czech republic
 cz:Brněnské pivo/Starobrněnské pivo
+it:Brněnské pivo, Starobrněnské pivo
 country:en:Czech Republic
 
 <en:Beers from Czech republic
 cz:Budějovické pivo
+it:Budějovické pivo
 country:en:Czech Republic
 
 <en:Beers from Czech republic
 cz:Budějovický měsťanský var
+it:Budějovický měsťanský var
 country:en:Czech Republic
 
 <en:Beers from Czech republic
 cz:České pivo
+it:České pivo
 country:en:Czech Republic
 
 <en:Beers from Czech republic
 cz:Českobudějovické pivo
+it:Českobudějovické pivo
 country:en:Czech Republic
 
 <en:Beers from Czech republic
 cz:Černá Hora
+it:Černá Hora
 country:en:Czech Republic
 
 <en:Beers from Czech republic
 cz:Znojemské pivo
+it:Znojemské pivo
 country:en:Czech Republic
 
 <en:Beers
@@ -886,6 +949,7 @@ es:Cervezas de alemania
 fi:saksalaiset oluet
 fr:Bières allemandes, Bières d'Allemagne
 hu:Német sörök, Sörök németországból
+it:Birre tedesche, Birre della Germania
 nl:Duitse bieren
 ro:Beri germane, Beri Germania, Bere germană, Bere Germania, Bere germana
 country:en:Germany
@@ -895,6 +959,7 @@ en:Bavarian beers
 de:Bayerische Biere, Bayerisches Bier
 fr:Bières bavaroises
 hu:Bajor sörök
+it:Birre bavaresi, Birre della Bavaria
 nl:Beierse bieren, Bieren uit Beieren
 ro:Beri bavareze, Bere bavareză, Bere bavareza
 country:en:Germany
@@ -903,6 +968,7 @@ country:en:Germany
 en:Beers from Bremen
 de:Bremer Biere, Bremer Bier
 hu:Sörök Bremenből, Bremen sörök
+it:Birre di Brema
 nl:Bremense bieren, Bieren uit Bremen
 country:en:Germany
 
@@ -910,29 +976,35 @@ country:en:Germany
 en:Beers from Dortmund
 de:Dortmunder Biere, Dortmunder Bier
 hu:Dortmundi sörök
+it:Birre di Dortmund
 nl:Dortmunder bieren
 country:en:Germany
 
 <en:Beers from Germany
 de:Hofer Biere, Hofer Bier
+it:Birre di Hof
 country:en:Germany
 
 <en:Beers from Germany
 en:Kölsch
 de:Kölsch
+it:Kölsch
 nl:Keulse bieren
 country:en:Germany
 
 <en:Beers from Germany
 de:Kulmbacher Biere, Kulmbacher Bier
+it:Birre di Kulmbach
 country:en:Germany
 
 <en:Beers from Germany
 de:Mainfranken Biere, Mainfranken Bier
+it:Birre di Franconia
 country:en:Germany
 
 <en:Beers from Germany
 de:Münchener Biere, Münchener Bier
+it:Birre di Monaco
 country:en:Germany
 
 <en:Beers from Germany
@@ -941,27 +1013,33 @@ country:en:Germany
 
 <en:Beers from Germany
 de:Reuther Biere, Reuther Bier
+it:Birre di Reuth bei Erbendorf, Birre di Reuth
 country:en:Germany
 
 <en:Beers from Germany
 de:Wernesgrüner Biere, Wernesgrüner Bier
+it:Birre di Wernesgrün
 country:en:Germany
 
 <en:Beers
 en:Beers from United Kingdom
 de:Biere aus dem Vereinigten Königreich
+it:Birre del Regno Unito
 nl:Britse bieren
 
 <en:Beers from United Kingdom
 en:Kentish ale, Kentish strong ale
+it:Birre del Kent
 country:en:United Kingdom
 
 <en:Beers from United Kingdom
 en:Newcastle Brown Ale
+it:Birre di Newcastle
 country:en:United Kingdom
 
 <en:Beers from United Kingdom
 en:Rutland bitter
+it:Rutland bitter
 country:en:United Kingdom
 
 <en:Beers
@@ -969,6 +1047,7 @@ en:Amber beers, Amber ale
 de:Amber ales
 es:Cerveza ambar
 fr:Bières ambrées
+it:Birre ambrate
 nl:Amber bier
 nl_be:Amber bier
 zh:爱尔淡啤酒
@@ -980,6 +1059,7 @@ de:Fruchtbiere
 fi:hedelmäoluet
 fr:Bieres aromatisées aux fruits, Bières avec des fruits, Bieres aux fruits
 hu:Gyümölcsös sörök
+it:Birre fruttate, Birre alla frutta
 nl:Vruchtenbieren
 ro:Beri cu fructe, Bere cu fructe
 
@@ -989,6 +1069,7 @@ de:Kirschbier
 es:Cervezas de cereza
 fr:Bières à la cerise
 hu:Cseresznye ízű sör
+it:Birre alla ciliegia
 nl:Krieken, Kersenbieren
 nl_be:Kriek
 
@@ -996,12 +1077,14 @@ nl_be:Kriek
 en:Beers with chestnut
 de:Biere mit Kastanien
 fr:Bières à la chataigne
+it:Birre alla castagna
 nl:Kastanjebieren
 
 <en:Beers with fruits
 en:Beers with pear
 de:Birnenbier
 fr:Bières à la poire
+it:Birre alla pera
 nl:Peerbieren
 
 <en:Beers
@@ -1012,7 +1095,7 @@ es:Cerveza blanca
 fi:Valko-olut
 fr:Bières blanches, bière blanche
 hu:Búzasör
-it:Birra bianca
+it:Birre bianche, Birre di frumento
 nl:Witbieren
 nl_be:Witbieren, Witbier
 no:Hveteöl
@@ -1028,6 +1111,7 @@ es:Cerveza rubia
 fi:lagerit
 fr:Bières blondes, bière blonde
 hu:Lágerek, Világos sörök
+it:Birre bionde, Lager
 nl:Lagers, Lager, Blonde bieren
 ro:Beri blonde, Bere blondă, Bere blonda
 wikidata:en:Q2792509
@@ -1037,6 +1121,7 @@ en:Stout, stout
 de:Stouts
 fi:stout
 fr:Bières brunes, bière brune
+it:Birre scure, Birre Stout
 nl:Stout
 zh:烈性黑啤酒
 wikidata:en:Q2905033
@@ -1046,6 +1131,7 @@ en:Black beers
 de:Schwarzbier
 es:Cervezas negras
 fr:Bières noires
+it:Birre nere
 nl:Donkere bieren
 
 <en:Beers
@@ -1055,6 +1141,7 @@ es:Cervezas fuertes
 fi:vahvat oluet
 fr:Bières fortes
 hu:Erős sörök
+it:Birre forti
 nl:Sterke bieren
 
 <en:Beers
@@ -1080,7 +1167,7 @@ es:Cervezas sin alcohol
 fi:alkoholittomat oluet
 fr:Bières sans alcool, bière sans alcool
 hu:Alkoholmentes sörök
-it:Birre analcoliche, birre senza alcol
+it:Birre analcoliche, Birre senza alcol
 nl:Alcoholvrije bieren Alcoholvrij bier
 pl:Piwo bezalkoholowe
 ro:Beri fără alcool, Bere fără alcool, Bere nealcoolizată, Bere nealcoolizata
@@ -1092,7 +1179,7 @@ en:Ginger beer
 de:Ingwerbier
 fr:Bière de gingembre, ginger beer
 hu:Ginger beer
-it:Birre ginger
+it:Birre allo zenzero, Birre al ginger
 nl:Gemberbieren, Gemberbier
 ro:Bere de ghimbir
 zh:姜啤
@@ -1103,6 +1190,7 @@ en:Non-Alcoholic wheat beers, Non-Alcoholic wheat beer
 de:Alkoholfreie Weizenbiere, Alkoholfreies Weizenbier, Alkoholfreie Weißbiere, Alkoholfreies Weißbier
 fr:Bières de blé sans alcool
 hu:Alkoholmentes buza sör
+it:Birre analcoliche di frumento
 nl:Alcoholvrije witbieren, Alcoholvrij witbier
 
 <en:Alcoholic beverages
@@ -1112,6 +1200,7 @@ es:Bebidas destiladas
 fi:viinat
 fr:Alcools forts, alcool fort
 hu:Égetett szeszek, likőrök, rövidek
+it:Superalcolici
 nl:Sterke alcoholica
 ro:Băuturi spirtoase
 zh:硬酒
@@ -1122,6 +1211,7 @@ en:Distilled beverages
 de:Spirituosen, Spirituose
 fr:boissons spiritueuses
 hu:Égetett szesz
+it:Distillati, Acqueviti, Bevande distillate
 nl:Gedestilleerde dranken
 wikidata:en:Q56139
 
@@ -1149,6 +1239,7 @@ de:Brandys, Brandies
 es:Brandys, Brandies, Brandis
 fr:Brandys
 hu:Brandy
+it:Brandy
 nl:Brandies, Brandy
 wikidata:en:Q146470
 
@@ -1158,6 +1249,7 @@ de:Obstbrand
 en:Fruit brandy
 fi:Hedelmäviina
 hu:Gyümölcspárlat
+it:Brandy alla frutta
 no:Obstler
 sv:Obstler
 bar:Obstla
@@ -1189,11 +1281,13 @@ wikidata:en:Q782901
 <en:Pálinka
 en:Hungarian Pálinka
 hu:Magyar pálinka
+it:Pálinka ungherese, Pálinka dell'Ungheria
 country:en:Hungary
 
 <en:Pálinka
 en:Austrian Pálinka
 hu:Osztrák pálinka, Ausztriai pálinka
+it:Pálinka austriaca, Pálinka dell'Austria
 country:en:Austria
 
 <fr:Eaux-de-vie
@@ -1203,7 +1297,7 @@ es:Whiskies, Whiskys, Whisky, Whiskey, Whiskeys, Güisquis, wiski
 fi:viski
 fr:Whiskys, whiskies, whiskey, whiskeys
 hu:Whisky, Viszki
-it:Whisky, whiskey
+it:Whisky, Whiskey
 nl:Whiskey, Whisky
 ro:Whisky, whiskey
 wikidata:en:Q281
@@ -1212,6 +1306,7 @@ wikidata:en:Q281
 fr:Blended whisky, blend
 de:Blended Whisky
 hu:Kevert Whisky
+it:Whisky miscelato
 nl:Blended whiskies
 wikidata:en:Q883744
 
@@ -1219,24 +1314,28 @@ wikidata:en:Q883744
 en:Rye whisky
 de:Roggenwhiskey, Rye Whiskey, Rye Whisky
 fr:whisky de seigle
+it:Whisky di segale
 nl:Rye whisky
 wikidata:en:Q2535077
 
 <en:Whisky
 en:Corn whiskey
 de:Mais whiskey
+it:Whisky di mais
 nl:Maïswhiskey
 wikidata:en:Q1350656
 
 <en:Whisky
 en:Wheat whiskey
 de:Weizen-Whiskey
+it:Whisky di frumento
 nl:Tarwewhiskey
 wikidata:en:Q7991845
 
 <en:Whisky
 en:Buckwheat whisky
 de:Buchweizen-Whisky
+it:Whisky di grano saraceno
 nl:Boekweitwhiskey
 wikidata:en:Q20713240
 
@@ -1245,6 +1344,7 @@ en:American whiskeys, American whiskey
 de:Amerikanische Whiskeys
 es:Whiskies americanos, Whiskys americanos
 fr:Whisky américain
+it:Whisky statunitensi, Whisky degli Stati Uniti, Whisky degli USA, Whisky americani
 nl:Amerikaanse whiskies
 ro:Whisky american, whiskey american
 wikidata_category:en:Q8126582
@@ -1254,6 +1354,7 @@ en:Bourbon whiskeys, Bourbon whiskey
 de:Bourbon Whiskeys
 es:Bourbons
 fr:Bourbons
+it:Bourbon
 nl:Bourbons, Bourbon
 ro:Bourbon
 wikidata:en:Q543127
@@ -1262,6 +1363,7 @@ wikidata:en:Q543127
 en:Tennessee whiskey
 de:Tennessee Whiskeys
 fr:Whisky du Tennessee
+it:Whisky del Tennessee
 nl:Tennessee whiskeys, Tennessee whiskey
 wikidata:en:Q1088701
 
@@ -1269,12 +1371,14 @@ wikidata:en:Q1088701
 en:Belgian Whisky
 de:Belgische Whiskys
 fr:Whisky belge
+it:Whisky belgi, Whisky del Belgio
 nl:Belgische whiskies
 
 <en:Whisky
 en:Canadian whiskeys
 de:Kanadische Whiskeys
 fr:Whisky canadiens, Whisky canadien, Whiskey canadien, Whiskeys canadiens
+it:Whisky canadesi, Whisky del Canada
 nl:Canadese whiskies
 zh:加拿大威士忌
 wikidata:en:Q536976
@@ -1286,6 +1390,7 @@ de:Schottischer Whisky
 es:Whiskies escoceses
 fi:skottilainen viski
 fr:Whisky écossais
+it:Whisky scozzesi, Whisky della Scozia
 nl:Schotse whiskies, Schotse whisky
 wikipediacategory:en:Q8718387
 
@@ -1294,12 +1399,14 @@ wikipediacategory:en:Q8718387
 en:Blended scotch whisky
 de:Schottische Blended Whiskys
 fr:Blend écossais, Blends écossais
+it:Whisky scozzesi miscelati, Whisky della Scozia miscelati
 nl:Schotse blended whiskies, Schotse blended whisky
 
 <en:Whisky
 en:French Whisky
 de:Französische Whiskys
 fr:Whisky français
+it:Whisky francesi, Whisky della Francia
 nl:Franse whiskies
 zh:法国威士忌
 wikipediacategory:en:Q15975338
@@ -1308,6 +1415,7 @@ wikipediacategory:en:Q15975338
 en:Alsatian whiskey
 de:Whisky aus dem Elsass
 fr:Whisky alsacien
+it:Whisky alsaziani, Whisky dell'Alsazia
 nl:Elzasser whiskies
 zh:阿尔萨斯威士忌
 
@@ -1315,30 +1423,35 @@ zh:阿尔萨斯威士忌
 en:Breton whiskey
 de:Whisky aus der Bretagne
 fr:Whisky breton
+it:Whisky bretoni, Whisky della Bretagna
 nl:Bretonse whiskies
 
 <en:French Whisky
 en:Corsican whiskey
 de:Whisky aus Korsika
 fr:Whisky corse
+it:Whisky corsi, Whisky della Corsica
 nl:Corsicaanse whiskies
 
 <en:French Whisky
 en:Whisky from Lorraine
 de:Whisky aus Lothringen
 fr:Whisky lorrain
+it:Whisky lorenesi, Whisky della Lorena
 nl:Lotharingse whiskies
 
 <en:French Whisky
 en:Norman Whisky, Whisky from Normandy
 de:Whisky aus der Normandie
 fr:Whisky normand
+it:Whisky normanni, Whisky della Normandia
 nl:Normandische whiskies
 
 <en:Whisky
 en:Welsh Whisky
 de:Whisky aus Wales
 fr:Whisky gallois
+it:Whisky gallesi, Whisky del Galles
 nl:Welshe whiskies
 wikidata:en:Q7982042
 
@@ -1347,6 +1460,7 @@ en:Irish whiskey
 de:Irische Whiskeys
 es:Whiskies irlandeses
 fr:Whisky irlandais
+it:Whisky irlandesi, Whisky dell'Irlanda
 nl:Ierse whiskies
 wikidata:en:Q909747
 
@@ -1354,6 +1468,7 @@ wikidata:en:Q909747
 en:Japanese whiskey
 de:Japanische Whiskys
 fr:Whisky japonais
+it:Whisky giapponesi, Whisky del Giappone
 nl:Japanse whiskies
 wikidata:en:Q901367
 
@@ -1361,34 +1476,40 @@ wikidata:en:Q901367
 en:German Whiskeys, German Whisky, German Whiskey, German Whiskys
 de:Deutsche Whiskys
 fr:Whiskys allemands, Whisky allemand, Whiskey allemand, Whiskeys allemands, Whiskys d’Allemagne, Whisky d’Allemagne, Whiskey d’Allemagne, Whiskeys d’Allemagne
+it:Whisky tedeschi, Whisky della Germania
 nl:Duitse whiskies
 
 <fr:Eaux-de-vie
 fr:Aquavit
 de:Aquavit
+it:Aquavit
 nl:Aquavits, Aquavit
 
 <fr:Eaux-de-vie
 fr:Armagnacs, Armagnac
 de:Armagnac, Branntwein aus de Gascogne
+it:Armagnac
 nl:Armagnacs, Armagnac
 wikidata_category:en:Q9469550
 
 <fr:Armagnacs
 fr:Armagnac-Ténarèze
-de:Armagnac aus dem Anbaugebiet Ténarèze
+de:Armagnac aus dem Anbaugebiet 
+it:Armagnac-Ténarèze
 nl:Armagnac uit Ténarèze
 country:en:France
 
 <fr:Armagnacs
 fr:Bas-Armagnac
 de:Armagnac aus dem Anbaugebiet Bas-Armagnac
+it:Bas-Armagnac
 country:en:France
 wikidata:en:Q2201024
 
 <fr:Armagnacs
 fr:Blanche Armagnac
 de:Weißer Armagnac
+it:Armagnac bianco
 nl:Witte Armagnac
 country:en:France
 
@@ -1396,6 +1517,7 @@ country:en:France
 <en:Wines from France
 fr:Calvados
 de:Calvados
+it:Calvados
 nl:Calvados
 country:en:France
 instanceof:fr:IGP
@@ -1404,6 +1526,7 @@ wikidata:en:Q3268
 <fr:Eaux-de-vie
 fr:Cognac
 de:Cognacs
+it:Cognac
 nl:Cognacs, Cognac
 ro:Coniacuri, Coniac
 wikidata:en:Q284
@@ -1596,11 +1719,13 @@ wikidata:en:Q80680
 <fr:Eaux-de-vie
 fr:Gentiane
 de:Enzian
+it:Genziana
 nl:Gentiaan
 
 <fr:Eaux-de-vie
 fr:Kirsch
 de:Kirsch, Kirschwasser
+it:Kirsch
 nl:Kirsch
 nl_be:Kirsch
 wikidata:en:Q279034
@@ -1608,12 +1733,14 @@ wikidata:en:Q279034
 <fr:Eaux-de-vie
 fr:Lambig
 de:Lambig
+it:Lambig
 nl:Lambig
 wikidata:en:Q3216660
 
 <fr:Eaux-de-vie
 fr:Raki, Rakı
 de:Raki, Anisbrand aus der Türkei
+it:Raki
 nl:Raki
 wikidata:en:Q638290
 
@@ -1686,12 +1813,14 @@ wikidata:en:Q83376
 en:Barbadian rum
 de:Rum aus Barbados
 fr:Rhums barbadiens, Rhum barbadien
+it:Rum barbadoregni, Rum barbadiani, Rum delle Barbados
 nl:Barbados rums, Barbados-rum, Barbados rum
 
 <en:Rums
 en:Cuban rums, Rums from Cuba
 de:Kubanische Rums
 fr:Rhums cubains,Rhum cubain
+it:Rum cubani, Rum di Cuba
 nl:Cubaanse rums, Rum uit Cuba
 ro:Rom cubanez, Rom Cuba
 
@@ -1699,24 +1828,28 @@ ro:Rom cubanez, Rom Cuba
 en:Dominican rums
 de:Dominikanische Rums
 fr:Rhums dominicains,Rhum dominicain
+it:Rum dominicani, Rum della Repubblica Dominicana
 nl:Dominicaanse rums, Dominicaanse rum
 
 <en:Rums
 en:French rums
 de:Französische Rums
 fr:Rhums français, Rhum français
+it:Rum francesi, Rum della Francia
 nl:Franse rums, Franse rum
 
 <en:Rums
 en:Haitian rums, Rums from Haiti
 de:Haitianische Rums
 fr:Rhums haïtiens
+it:Rum haitiani, Rum di Haiti
 nl:Haitiaanse rums, Rum uit Haïti
 
 <en:Rums
 en:Jamaican rum, Rums from Jamaica
 de:Jamaikanische Rums
 fr:Rhums jamaïcains
+it:Rum giamaicani, Rum della Giamaica
 nl:Jamaicaanse rums, Rum uit Jamaica
 ro:Rom jamaican, Rom Jamaica
 
@@ -1724,6 +1857,7 @@ ro:Rom jamaican, Rom Jamaica
 en:Agricultural rums, rhums agricoles
 de:Rhum agricole, Agricole Rum
 fr:Rhums agricoles, rhum agricole
+it:Rum agricoli, Rum agricole
 nl:Agrarische rums
 wikidata:en:Q3429796
 
@@ -1731,6 +1865,7 @@ wikidata:en:Q3429796
 en:Amber rum, dark rum
 de:Dunkler Rum
 fr:Rhums ambrés, rhum ambré
+it:Rum ambrati
 nl:Donkere rums
 
 <en:Rums
@@ -1738,6 +1873,7 @@ en:White rums, white rum
 de:Weiße Rums
 fi:vaaleat rommit
 fr:Rhums blancs, rhum blanc
+it:Rum bianchi
 nl:Blanke rums, Blanke rum
 ro:Rom alb
 
@@ -1745,17 +1881,20 @@ ro:Rom alb
 en:Brown rum
 de:Braune Rums
 fr:Rhums bruns, rhum brun
+it:Rum scuri
 nl:Bruine rums, Bruine rum
 
 <en:Rums
 fr:Rhums industriels, rhum industriel
 de:Industrieller Rum
+it:Rum industriali
 nl:Industriële rums
 
 <en:Rums
 en:old rums, old rum
 de:Alter Rum
 fr:Rhums vieux, rhum vieux
+it:Rum invecchiati
 nl:Oude rums, Oude rum
 
 <fr:Eaux-de-vie
@@ -1773,12 +1912,13 @@ wikidata:en:Q374
 
 <en:Vodka
 en:Flavored vodka, flavoured vodka
-it:Vodka aromatizzato, Vodka con aroma
+it:Vodka aromatizzate, Vodka con aromi
 
 <en:Vodka
 en:Polish vodkas
 de:Polnische Wodkas
 fr:Vodkas polonaises
+it:Vodka polacche, Vodka della Polonia
 nl:Poolse wodkas, Poolse wodka
 
 <en:Vodka
@@ -1786,6 +1926,7 @@ en:Russian vodkas
 de:Russische Wodkas
 fr:Vodkas russes
 nl:Russische wodkas, Russiche wodka
+it:Vodka russe, Vodka della Russia
 ro:Vodcă rusească, Vodcă Rusia, Vodca ruseasca, Vodka ruseasca, vodka Rusia
 ru:Русская водка
 zh:俄罗斯伏特加, 俄罗斯伏特加酒
@@ -1794,30 +1935,35 @@ zh:俄罗斯伏特加, 俄罗斯伏特加酒
 en:Ukrainian vodkas
 de:Ukraninische Wodkas
 fr:Vodkas ukrainiennes
+it:Vodka ucraine, Vodka dell'Ucraina
 nl:Ukraïnse wodkas
 
 <en:Vodka
 en:Estonian vodkas
 de:Estonische Wodkas
 fr:Vodkas estoniennes
+it:Vodka estoni, Vodka dell'Estonia
 nl:Estse wodkas
 
 <en:Vodka
 en:Latvian vodkas
 de:Litauische Wodkas
 fr:Vodkas lettones
+it:Vodka lettoni, Vodka della Lettonia
 nl:Letse wodkas
 
 <en:Vodka
 en:Lettische vodkas
 de:Lettischer Wodka
 fr:Vodkas lithuaniennes
+it:Vodka lituane, Vodka della Lituania
 nl:Litouwse wodkas
 
 <en:Vodka
 en:Czech vodkas
 de:Tschechische Wodkas
 fr:Vodkas tchèques
+it:Vodka ceche, Vodka della Repubblica Ceca, Vodka della Cechia
 nl:Tsjechische wodkas
 
 <en:Hard liquors
@@ -1825,6 +1971,7 @@ en:Gins, Gin
 de:Gins
 es:Ginebras
 fr:Gins, Gin
+it:Gin
 nl:Gins
 ro:Gin
 wikidata:en:Q959362
@@ -1834,12 +1981,14 @@ en:Wine-based drinks
 de:Weinbasierte Getränke, Getränke auf Weinbasis
 es:Bebidas a base de vino
 fr:Boissons à base de vin
+it:Bevande a base di vino
 nl:Draken op basis van wijn
 
 #do not confuse with the biscuit spritz
 <en:Wine-based drinks
 en:Spritz cocktails
 fr:Cocktails spritz
+it:Cocktail spritz
 
 <en:Alcoholic beverages
 en:Ciders
@@ -1858,17 +2007,20 @@ en:Sparkling ciders, sparkling cider
 de:Sprudelnde Apfelweine, Apfelschaumwein, Apfelperlwein
 fi:siiderit
 fr:Cidres bouchés, Cidre bouché
+it:Sidri frizzanti
 nl:Mousserende ciders
 
 <en:Ciders
 fr:Cidres de glace, Cidre de glace
 de:Cidre de Glace, Eis-Cidre
+it:Sidri di ghiaccio
 nl:IJsciders
 wikidata:en:Q2972307
 
 <en:Ciders
 fr:Cidres demi-secs, Cidre demi-sec, Cidres bruts, Cidre brut
 de:Cidre halbtrocken
+it:Sidri semisecchi
 nl:Halfdroge ciders
 
 <en:Ciders
@@ -1876,24 +2028,28 @@ en:Sweet ciders, sweet cider
 de:Süße Apfelweine
 fi:makeat siiderit
 fr:Cidres doux, Cidre doux
+it:Sidri dolci
 nl:Zoete ciders
 
 <en:Ciders
 en:Pink ciders
 de:Rosé Cidre
 fr:Cidres rosés
+it:Sidri rosati, Sidri rosé
 nl:Roséciders
 
 <en:Ciders
 en:Traditional ciders
 de:Traditioneller Cidre
 fr:Cidres traditionnels
+it:Sidri tradizionali
 nl:Traditionele ciders, Appelwijnen
 
 <en:Alcoholic beverages
 en:Schnapps
 de:Schnäppse, Schnäpse, Schnapps, Schnaps
 fr:schnaps
+it:Schnapps, Schnaps
 nl:Schapps
 wikidata:en:Q1815494
 
@@ -1904,6 +2060,7 @@ de:Liköre, Likör
 es:Licores, Licor
 fi:liköörit
 fr:Liqueurs, liqueur
+it:Liquori
 nl:Likeuren
 ro:Lichior
 wikidata:en:Q178780
@@ -1912,11 +2069,13 @@ wikidata:en:Q178780
 en:Herbal liqueur, Kräuterlikör
 de:Kräuterschnäppse, Kräuterliköre, Kräuterschnaps, Kräuterlikör
 fr:Liqueur herbale
+it:Liquori alle erbe
 nl:Kruidenlikeur
 wikidata:en:Q1883967
 
 <en:Liqueurs
 fr:Crèmes de cassis
+it:Crema di cassis
 wikidata:en:Q968019
 
 <en:Liqueurs
@@ -1965,7 +2124,7 @@ es:Bebidas carbonatadas
 fi:hiilihapotetut juomat
 fr:Boissons gazeuses, boissons à bulles, boissons effervescentes, boissons pétillantes, boisson gazeuse, boisson à bulles, boisson effervescente, boisson pétillante
 hu:Szénsavas italok
-it:Bevande effervescente, bevande gassate, bevande frizzanti
+it:Bevande gassate, Bevande gasate, Bevande effervescenti, Bevande frizzanti
 nl:Koolzuurhoudende dranken
 pl:Napoje gazowane
 pt:Bebidas carbonatadas
@@ -1982,7 +2141,7 @@ es:Sodas, Gaseosas
 fi:virvoitusjuomat
 fr:Sodas, soda, boissons sucrées gazeuses, boissons gazeuses sucrées
 hu:Szódák, Szódavízek, Szíkvízek
-it:Bibite gassate, soft drink
+it:Bibite gassate, Bibite gasate, Soft drink
 nl:Frisdranken
 pl:Napoje gazowane
 pt:Sodas, bebidas refrescantes, bebidas refrescantes com gazozo
@@ -2000,6 +2159,7 @@ eo:Toniko
 fi:tonic water
 fr:Eau tonique
 hu:Tonik
+it:Acqua tonica
 nl:Tonics, Tonic water
 ru:Тоник
 zh:通宁水
@@ -2012,6 +2172,7 @@ de:Kalorienarme Erfrischungsgetränke, Kalorienreduzierte Erfrischungsgetränke,
 es:Sodas light
 fi:dieetti-virvoitusjuomat
 fr:Sodas light, soda light, sodas édulcorés, sodas avec édulcorants, sodas sans sucres, soda sans sucre, soda allégé en sucre, sodas allégés en sucre
+it:Bibite gassate dietetiche, Bibite gassate light, Bibite gassate senza zucchero
 nl:Light frisdranken
 wikidata:en:Q3246353
 
@@ -2020,6 +2181,7 @@ wikidata:en:Q3246353
 en:Light orange soft drinks
 de:Kalorienarme Orangenlimonaden, Kalorienreduzierte Orangenlimonaden
 fr:Sodas à l'orange light, soda à l'orange light, soda à la pulpe d'orange light, sodas à la pulpe d'orange light
+it:Bibite gassate dietetiche all'arancia, Bibite gassate light all'arancia, Bibite gassate senza zucchero all'arancia
 nl:Light sinaasappelfrisdranken
 
 <en:Lemon soft drinks
@@ -2027,6 +2189,7 @@ nl:Light sinaasappelfrisdranken
 en:Light lemon soft drinks
 de:Kalorienarme Zitronenlimonaden, Kalorienreduzierte Zitronenlimonaden
 fr:Sodas au citron light, soda au citron light
+it:Bibite gassate dietetiche al limone, Bibite gassate light al limone, Bibite gassate senza zucchero al limone
 nl:Light citroenfrisdanken
 
 <en:Diet sodas
@@ -2035,6 +2198,7 @@ en:Light fruit sodas
 de:Kalorienarme Fruchtlimonaden, Kalorienreduzierte Fruchtlimonaden
 fi:Kevyet hedelmävirvoitusjuomat
 fr:Sodas aux fruits light, soda aux fruits light
+it:Bibite gassate dietetiche alla frutta, Bibite gassate light alla frutta, Bibite gassate senza zucchero alla frutta
 nl:Light vruchtenfrisdranken
 
 <en:Diet sodas
@@ -2043,6 +2207,7 @@ en:Diet cola soft drink
 de:Kalorienarme Colas, Kalorienreduzierte Colas, Light Colas
 fi:Dieettikola
 fr:Sodas au cola light, colas light, cola light
+it:Cole dietetiche, Cole light, Cole senza zucchero
 nl:Light cola's
 ro:Cola light
 
@@ -2054,6 +2219,7 @@ es:Sodas a base de frutas
 fi:Hedelmävirvoitusjuomat
 fr:Sodas aux fruits
 hu:Szénsavas gyümölcs ital, gyümölcs fröccs
+it:Bibite gassate alla frutta, Bibite gasate alla frutta
 nl:Vruchtenfrisdranken
 ro:Băuturi carbogazoase cu fructe, Bauturi carbogazoase cu fructe, Băuturi carbogazoase din fructe, Bauturi carbogazoase din fructe
 ru:Напитки на основе фруктов
@@ -2063,6 +2229,7 @@ zh:水果汽水
 <en:Colas
 <en:Fruit sodas
 de:Cola Mix, Cola-Mix, Cola-Mischgetränk, Spezi
+it:Cola Mix, Cola-Mix, Spezi
 wikidata:en:Q1422578
 #Spezi is the name of a brand for mixtures of cola and orange lemonade
 
@@ -2071,6 +2238,7 @@ en:Apple soft drinks, Apple sodas
 de:Apfellimonaden
 es:Sodas a base de manzana, Sodas de manzana
 fr:Sodas à la pomme, sodas aux pommes, soda à la pomme
+it:Bibite gassate alla mela
 nl:Appelfrisdranken
 
 <en:Fruit sodas
@@ -2079,6 +2247,7 @@ de:Zitronenlimonaden
 es:Sodas a base de limón, Sodas de limón‎
 fi:Sitruunavirvoitusjuomat
 fr:Sodas au citron, soda citron, soda au citron
+it:Bibite gassate al limone
 nl:Citroenfrisdranken
 
 <en:Fruit sodas
@@ -2088,6 +2257,7 @@ es:Sodas a base de naranja, Sodas de naranja
 fi:appelsiinivirvoitusjuomat
 fr:Sodas à l'orange, soda orange, soda à l'orange
 hu:Narancsos üdítőitalok
+it:Bibite gassate all'arancia
 nl:Sinas, Sinasappelfrisdranken
 wikidata:en:Q17069317
 
@@ -2095,6 +2265,7 @@ wikidata:en:Q17069317
 en:Sodas with exotic fruits
 de:Exotische Fruchtlimonaden
 fr:Sodas aux fruits exotiques, soda aux fruits exotiques
+it:Bibite gassate alla frutta tropicale, Bibite gassate alla frutta esotica
 nl:Exotische vruchtenfrisdranken
 
 <en:Beverages
@@ -2104,6 +2275,7 @@ es:Bebidas energéticas, Bebidas hipertónicas, Bebidas energizantes
 fi:energiajuomat
 fr:Boissons énergisantes, Boissons énergétiques
 hu:Energiaitalok
+it:Bevande energetiche, Energy drinks
 nl:Energiedranken
 ro:Băuturi energizante, Bauturi energizante
 ru:Энергетические напитки, Энергетический напиток, Напитки энергетические, Напиток энергетический
@@ -2145,7 +2317,7 @@ hu:limonádé
 hy:Լիմոնադ
 id:Limun
 io:Limonado
-it:limonata, Bibita gassata
+it:Limonate
 ja:レモネード
 kk:Лимонад
 ko:레모네이드
@@ -2197,6 +2369,7 @@ es:Bebidas de cola
 fi:colat
 fr:Sodas au cola, soda au cola, colas, sodas colas
 hu:Kólák
+it:Cole
 nl:Cola's, Colas
 nl_be:Cola's, Colas
 ro:Cola
@@ -2207,6 +2380,7 @@ wikidata:en:Q134041
 en:Cola sodas without caffeine
 de:Koffeinfreie Colas
 fr:Sodas au cola sans caféine
+it:Cole senza caffeina
 nl:Caffeinevrije colas
 ro:Cola fără cafeină
 
@@ -2234,7 +2408,7 @@ de:Kokoswasser
 es:Agua de coco
 fi:kookosvedet
 fr:Eaux de coco, Eau de coco, Eaux de noix de coco, Eau de noix de coco
-it:Acqua di cocco
+it:Acque di cocco, Acque di noce di cocco
 nl:Kokoswater
 wikidata:en:Q633401
 
@@ -2247,7 +2421,7 @@ es:Zumos y néctares
 fi:mehut ja nektarit
 fr:Jus et nectars
 hu:Levek és nektárok
-it:Succo e nettare
+it:Succhi e nettari
 nl:Sappen en Nectars
 nl_be:Sappen en Nectars
 pl:Soki i nektary
@@ -2259,6 +2433,7 @@ th:น้ำผลไม้
 <en:Juices and nectars
 en:Fruit and vegetable juices
 fr:Jus de fruits et légumes
+it:Succhi di frutta e verdura
 
 <en:Plant-based beverages
 en:Fruit-based beverages
@@ -2282,12 +2457,14 @@ es:Bebidas con naranja
 fi:appelsiinijuomat
 fr:Boissons à l'orange
 hu:Narancs alapú italok
+it:Bevande all'arancia
 nl:Dranken met sinaasappel
 
 <en:Fruit-based beverages
 en:Beverages with cranberry
 es:Bebidas con arándanos
 fr:Boissons à la canneberge
+it:Bevande all'ossicocco, Bevande al cranberry, Bevande al mirtillo palustre, Bevande alla mortella di palude
 nl:Dranken met veenbessensmaak, Veenbessendranken
 
 <en:Plant-based beverages
@@ -2296,6 +2473,7 @@ de:Smoothies
 fi:smoothiet
 fr:Smoothies
 hu:Gyümölcsturmixok
+it:Frullati, Smoothie
 nl:Smoothies
 nl_be:Smoothies
 wikidata:en:Q13290
@@ -2305,6 +2483,7 @@ en:Fruit smoothies
 de:Fruchtsmoothies
 fi:hedelmäsmoothiet
 fr:Smoothies aux fruits
+it:Frullati alla frutta, Smoothie alla frutta
 nl:Fruit smoothie
 
 #should contain only juices (beverage with 100% fruit) and not nectars (beverage with fruit, water and eventually sugar)
@@ -2317,7 +2496,7 @@ es:Zumos de frutas, Zumo de frutas, Jugos de frutas
 fi:Hedelmämehut
 fr:Jus de fruits, jus de fruit
 hu:Gyümölcslevek és nektárok
-it:Succhi di frutta
+it:Succhi di frutta, Succhi di frutta al 100%
 nl:Vruchtensappen, Fruitsappen
 nl_be:Vruchtensap, Fruitsappen
 pl:Soki owocowe
@@ -2336,7 +2515,7 @@ es:Zumos de manzana
 fi:omenamehut
 fr:Jus de pomme, jus de pommes
 hu:Alma levek
-it:Succo di mela
+it:Succhi di mela
 nl:Appelsappen,  Appelsap
 nl_be:Appelsap
 pl:Soki jabłkowe
@@ -2350,6 +2529,7 @@ en:Clementine juices
 de:Mandarinensäfte, Clementinensäfte
 fr:Jus de clémentine, jus de clémentines
 hu:Clementine gyümölcslevek
+it:Succhi di clementina, Succhi di mandarancio
 nl:Clementinesappen, Clementinesap
 
 <en:Fruit juices
@@ -2359,6 +2539,7 @@ de:Zitronensäfte
 fi:sitruunamehu
 fr:Jus de citron, jus de citrons, jus de citron pressé
 hu:Citromlé
+it:Succhi di limone
 nl:Citroensappen, Citroensap
 nl_be:Citroensap
 ru:Лимонный сок
@@ -2372,7 +2553,7 @@ de:Apfelsäfte aus Konzentrat, Apfeldicksaft
 es:Zumos de manzana procedentes de concentrado
 fi:omenamehutiivisteet
 fr:Jus de pomme à base de concentré, jus de pomme à base de jus concentré
-it:Succo di mela da concentrato
+it:Succhi di mela da concentrato
 nl:Geconcentreerd appelsap
 nl_be:Geconcentreerd appelsap
 
@@ -2381,6 +2562,7 @@ nl_be:Geconcentreerd appelsap
 en:Refrigerated squeezed apple juices, Refrigerated pressed apple juices
 de:Gekühlte Apfeldirektsäfte, Gekühlte gepresste Apfelsäfte
 es:Zumos de manzana exprimidos refrigerados
+it:Succhi di mela da spremuta refrigerati 
 nl:Gekoelde geperste appelsappen, Gekoeld geperst appelsap
 
 <en:Apple juices
@@ -2390,6 +2572,7 @@ de:Apfeldirektsäfte
 es:Zumos de manzana exprimidos no refrigerados, Zumos de manzana exprimidos, Zumos de manzana exprimidos ambiente
 fi:puristetut omenamehut
 fr:Jus de pommes pur jus, jus de pomme pur jus, jus de pommes 100% pur jus, jus de pomme 100% pur jus, pur jus de pomme, pur jus de pommes
+it:Succhi di mela da spremuta non refrigerati, Succhi di mela da spremuta a temperatura ambiente
 nl:Appelsappen, Appelsap
 
 <en:Fruit juices
@@ -2397,7 +2580,7 @@ en:Apricot juices
 de:Aprikosensäfte, Aprikosensaft
 es:Zumos de albaricoque
 fr:Jus d'abricot
-it:Succo di albicocca
+it:Succhi di albicocca
 nl:Abrikozensappen, Abrikozensap
 wikidata:en:Q3337673
 
@@ -2407,7 +2590,7 @@ en:Concentrated apricot juices
 de:Aprikosensäfte aus Konzentrat
 es:Zumos de albaricoque procedente de concentrado
 fr:Jus d'abricot à base de concentré, jus d'abricot à base de jus concentré
-it:Succo di albicocca da concentrato
+it:Succhi di albicocca da concentrato
 nl:Abrikozensappen op basis van concentraat, Abrikozensap op basis van concentraat
 
 <en:Fruit juices
@@ -2415,7 +2598,7 @@ en:Blueberry juices
 de:Heidelbeersäfte, Blaubeersäfte
 es:Zumos de arándanos, Zumos de arándano
 fr:Jus de myrtilles
-it:Succo di mirtillo
+it:Succhi di mirtillo
 nl:Blauwe bessensappen, Blauwe bessensap
 
 <en:Blueberry juices
@@ -2424,7 +2607,7 @@ en:Concentrated blueberry juices
 de:Heidelbeersäfte aus Konzentrat, Blaubeersäfte aus Konzentrat
 es:Zumos de arándanos procedente de concentrado
 fr:Jus de myrtilles à base de concentré
-it:Succo di mirtillo da concentrato
+it:Succhi di mirtillo da concentrato
 nl:Blauwe bessensappen op basis van concentraat, Blauwe bessensap op basis van concentraat
 
 <en:Blueberry juices
@@ -2433,6 +2616,7 @@ en:Squeezed blueberry juices, Non-refrigerated squeezed blueberry juices
 de:Heidelbeerdirektsäfte, Blaubeerdirektsäfte
 es:Zumos de arándanos exprimidos no refrigerados, Zumos de arándanos exprimidos, Zumos de arándanos exprimidos ambiente
 fr:Jus de myrtilles pur jus
+it:Succhi di mirtillo da spremuta non refrigerati, Succhi di mirtillo da spremuta a temperatura ambiente
 nl:Geperste blauwe bessensappen, Geperste blauwe bessensap
 
 <en:Fruit juices
@@ -2443,7 +2627,7 @@ es:Zumos procedentes de concentrado
 fi:Mehutiivisteet
 fr:Jus de fruits à base de concentré, jus de fruit à base de concentré, jus de fruits à base de concentrés
 hu:Gyümölcslé koncentrátumok
-it:Succo di frutta da concentrato
+it:Succhi di frutta da concentrato
 nl:Vruchtensappen op basis van concentraat, Vruchtensap op basis van concentraat
 pl:Zagęszczone soki owocowe
 
@@ -2454,7 +2638,7 @@ de:Orangensäfte aus Konzentrat
 es:Zumos de naranja procedente de concentrado
 fi:appelsiinimehutiivisteet
 fr:Jus d'orange à base de concentré
-it:Succo di arancia da concentrato
+it:Succhi di arancia da concentrato, Succhi d'arancia da concentrato
 nl:Sinaasappelsappen uit concentraat, Sinaasappelsap uit concentraat
 
 <en:Fruit juices
@@ -2463,7 +2647,7 @@ de:Traubensäfte, Traubensaft
 es:Zumos de uva, Zumos de uvas
 fi:rypälemehut
 fr:Jus de raisin, jus de raisins
-it:Succo di uva
+it:Succhi di uva, Succhi d'uva
 nl:Druivensappen, Druivensap
 pl:Soki winogronowe, sok winogronowy
 zh:葡萄汁
@@ -2475,7 +2659,7 @@ en:Concentrated grape juices
 de:Traubensäfte aus Konzentrat, Traubensaft aus Konzentrat
 es:Zumos de uva procedente de concentrado
 fr:Jus de raisin à base de concentré, Jus de raisins à base de concentré
-it:Succo di uva da concentrato
+it:Succhi di uva da concentrato, Succhi d'uva da concentrato
 nl:Druivensappen uit concentraat, Druivensap uit concentraat
 
 <en:Grape juices
@@ -2484,6 +2668,7 @@ en:Squeezed grape juices, Non-refrigerated squeezed grape juices
 de:Traubendirektsäfte
 es:Zumos de uva exprimidos no refrigerados, Zumos de uva exprimidos, Zumos de uva exprimidos ambiente
 fr:Jus de raisin pur jus
+it:Succhi di uva da spremuta non refrigerati, Succhi d'uva da spremuta non refrigerati, Succhi di uva da spremuta a temperatura ambiente, Succhi d'uva da spremuta a temperatura ambiente
 nl:Pure Druivensappen, Pure Druivensap
 
 <en:Fruit juices
@@ -2492,6 +2677,7 @@ de:Grapefruitsäfte
 es:Zumos de pomelo, zumos de toronja
 fi:greippimehut
 fr:Jus de pamplemousse, jus de pamplemousses
+it:Succhi di pompelmo
 nl:Grapefruitsappen, Grapefruitsap
 ru:Сок грейпфрутовый, грейпфрутовый сок
 wikidata:en:Q1138468
@@ -2502,6 +2688,7 @@ en:Concentrated grapefruit juices
 de:Grapefruitsäfte aus Konzentrat
 es:Zumos de pomelo procedente de concentrado
 fr:Jus de pamplemousse à base de concentré, jus de pamplemousses à base de concentré, jus de pamplemousse à base de jus concentré
+it:Succhi di pompelmo da concetrato
 nl:Grapefruitsappen uit concentraat, Grapefruitsap uit concentraat
 ru:Сок грейпфрутовый концентрированный, концентрированный грейпфрутовый сок
 
@@ -2511,12 +2698,14 @@ en:Fresh grapefruit juice, Refrigerated squeezed grapefruit juices
 de:Gekühlte Grapefruitdirektsäfte, Frische Grapefruitdirektsäfte
 es:Zumos de pomelo exprimido refrigerados
 fr:Jus de pamplemousse frais, Jus de pamplemousses frais
+it:Succhi di pompelmo da spremuta refrigerati
 nl:Verse grapefruitsappen, Verse grapefruitsap
 
 
 <en:Grapefruit juices
 fr:Jus de pamplemousse rose, Jus de pamplemousses roses
 de:Pink Grapefruit Säfte
+it:Succhi di pompelmo rosa
 nl:Roze grapefruitsappen, Roze grapefruitsap
 
 <en:Fruit juices
@@ -2524,7 +2713,7 @@ en:Mango juices
 de:Mangosäfte
 es:Zumos de mango
 fr:Jus de mangue, Jus de mangues
-it:Succo di mango
+it:Succhi di mango
 nl:Mangosappen, Mangosap
 zh:芒果汁
 
@@ -2534,7 +2723,7 @@ en:Concentrated mango juices
 de:Mangosäfte aus Konzentrat
 es:Zumos de mango procedente de concentrado
 fr:Jus de mangue à base de concentré, Jus de mangues à base de concentré
-it:Succo di mango da concentrato
+it:Succhi di mango da concentrato
 nl:Mangosappen uit concentraat, Mangosap uit concentraat
 
 <en:Fruit juices
@@ -2544,6 +2733,7 @@ de:Multifruchtsäfte
 es:Zumos multifruta, Zumos multifrutas
 fi:Monihedelmämehut
 fr:Jus multifruits, Jus multifruit
+it:Succhi multifrutta, Succhi di frutta mista
 nl:Multi-vruchtensappen, Multi-vruchtensap
 pl:Soki wieloowocowe
 
@@ -2554,6 +2744,7 @@ de:Multifruchtsäfte aus Konzentrat
 es:Zumos multifruta procedente de concentrado
 fi:tiivistetyt monihedelmämehut
 fr:Jus multifruits à base de jus concentré, jus multifruits à base de concentrés
+it:Succhi multifrutta da concentrato, Succhi di frutta mista da concentrato
 nl:Multivruchtensappen uit concentraat, Multivruchtensap uit concentraat
 
 <en:Multifruit juices
@@ -2561,6 +2752,7 @@ nl:Multivruchtensappen uit concentraat, Multivruchtensap uit concentraat
 en:Squeezed multifruit juices
 fi:puristetut monihedelmämehut
 fr:Jus multifruits pur jus
+it:Succhi multifrutta da spremuta, Succhi di frutta mista da spremuta
 
 <en:Multifruit juices
 <en:Refrigerated squeezed juices
@@ -2568,6 +2760,7 @@ en:Refrigerated squeezed multifruit juices
 de:Gekühlte Multifruchtdirektsäfte
 es:Zumos multifruta exprimidos refrigerados, Zumos multifruta exprimido refrigerados
 fr:Jus multifruits frais, jus multifruit frais
+it:Succhi multifrutta da spremuta refrigerati, Succhi di frutta mista da spremuta refrigerati
 nl:Gekoelde Verse Multivruchtensappen, Gekoelde Verse Multivruchtensap
 
 <en:Multifruit juices
@@ -2576,6 +2769,7 @@ en:Squeezed multifruit juices, Non-refrigerated squeezed multifruit juices
 de:Multifruchtdirektsäfte
 es:Zumos multifruta exprimidos no refrigerados, Zumos multifruta exprimidos, Zumos multifruta exprimidos ambiente
 fi:puristetut monihedelmämehut
+it:Succhi multifrutta da spremuta non refrigerati, Succhi di frutta mista da spremuta non refrigerati, Succhi multifrutta da spremuta a temperatura ambiente, Succhi di frutta mista da spremuta a temperatura ambiente
 nl:Verse Multivruchtensappen, Verse Multivruchtensap
 
 <en:Fruit juices
@@ -2586,7 +2780,7 @@ es:Zumos de naranja, zumos de naranjas, zumo de naranja
 fi:appelsiinimehut
 fr:Jus d'orange, jus d'oranges
 hu:Narancslék
-it:Succo di arancia
+it:Succhi di arancia, Succhi d'arancia
 nl:Sinaasappelsappen, Jus d'Oranges, Sinaasappelsap, Jus d'Orange, Sinasappelsap
 pl:Soki pomarańczowe
 pt:Sumos de laranja
@@ -2596,6 +2790,7 @@ wikidata:en:Q1781317
 <en:Orange juices
 fr:Jus d'orange sanguine, jus d'oranges sanguines
 de:Blutorangensäfte
+it:Succhi di arance rosse, Succhi d'arance rosse, Succhi di arance sanguigne, Succhi d'arance sanguigne
 nl:Bloedsinaasappelsappen, Bloedsinaasappelsap
 
 <en:Fruit juices
@@ -2603,7 +2798,7 @@ en:Peach juices
 de:Pfirsichsäfte, Pfirsichsaft
 es:Zumos de melocotón
 fr:Jus de pêche, jus de pêches
-it:Succo di pesca
+it:Succhi di pesca
 nl:Perzikkensappen, Perzikkensap
 zh:桃子汁, 桃汁
 
@@ -2613,7 +2808,7 @@ en:Concentrated peach juices
 de:Pfirsichsäfte aus Konzentrat
 es:Zumos de melocotón procedente de concentrado
 fr:Jus de pêche à base de concentré, jus de pêches à base de concentré
-it:Succo di pesca da concentrato
+it:Succhi di pesca da concentrato
 nl:Perzikkensappen uit concentraat, Perzikkensap uit concentraat
 
 <en:Fruit juices
@@ -2622,7 +2817,7 @@ de:Birnensäfte, Birnensaft
 es:Zumos de pera, Zumos de peras
 fi:päärynämehut
 fr:Jus de poire, jus de poires
-it:Succo di pera
+it:Succhi di pera
 nl:Perensappen, Perensap
 zh:梨汁
 wikidata:en:Q15951991
@@ -2633,7 +2828,7 @@ en:Concentrated pear juices
 de:Birnensäfte aus Konzentrat
 es:Zumos de pera procedente de concentrado
 fr:Jus de poire à base de concentré, jus de poires à base de concentré
-it:Succo di pera da concentrato
+it:Succhi di pera da concentrato
 nl:Perensappen uit concentraat, Perensap uit concentraat
 
 <en:Pear juices
@@ -2642,12 +2837,14 @@ en:Squeezed pear juices, Non-refrigerated squeezed pear juices
 de:Birnendirektsäfte
 es:Zumos de pera exprimidos no refrigerados, Zumos de pera exprimidos, Zumos de pera exprimidos ambiente
 fr:Jus de poire pur jus
+it:Succhi di pera da spremuta
 nl:Verse perensappen, Verse perensap
 
 <en:Fruit juices
 en:strawberry juice
 de:Erdbeersäfte, Erdbeersaft
 fr:Jus de fraise
+it:Succhi di fragola
 nl:Aardbeiensappen, Aardbeiensap
 wikidata:en:Q1068602
 
@@ -2656,6 +2853,7 @@ en:cranberry juice
 de:Preiselbeersäfte, Preiselbeerensäfte
 fi:karpalomehu
 fr:Jus de canneberge, Jus de cranberry
+it:Succhi di ossicocco, Succhi di cranberry, Succhi di mirtillo palustre, Succhi di mortella di palude
 nl:Cranberrysappen, Cranberrysap
 wikidata:en:Q865448
 
@@ -2667,7 +2865,7 @@ es:Zumos de piña
 fi:ananasmehut
 fr:Jus d'ananas
 hu:Ananászlevek, Ananászlé
-it:Succo di ananas
+it:Succhi di ananas, Succhi d'ananas
 nl:Ananassappen, Ananassap
 nl_be:Ananassappen
 pl:Soki ananasowe, sok z ananasa
@@ -2680,7 +2878,7 @@ en:Concentrated pineapple juices
 de:Ananassäfte aus Konzentrat
 es:Zumos de piña procedente de concentrado
 fr:Jus d'ananas à base de concentré
-it:Succo di ananas da concentrato
+it:Succhi di ananas da concentrato, Succhi d'ananas da concentrato
 nl:Ananassappen uit concentraat, Ananassap uit concentraat
 
 <en:Pineapple juices
@@ -2689,6 +2887,7 @@ en:Refrigerated squeezed pineapple juices
 de:Gekühlte Ananasdirektsäfte, Gekühlter gepresster Ananassaft
 es:Zumos de piña exprimidos refrigerados
 fr:Jus d'ananas frais
+it:Succhi di ananas da spremuta refrigerati, Succhi d'ananas da spremuta refrigerati
 nl:Verse Ananassappen, Verse Ananassap
 
 <en:Fruit juices
@@ -2696,6 +2895,7 @@ en:Plum juices
 de:Pflaumensäfte
 es:Zumos de ciruela
 fr:Jus de prune, jus de prunes
+it:Succhi di prugna
 nl:Pruimensappen, Pruimensap
 
 <en:Fruit juices
@@ -2703,6 +2903,7 @@ en:Prune juice
 de:Backpflaumensäfte, Dörrpflaumensäfte
 fi:luumumehu
 fr:Jus de pruneaux
+it:Succhi di prugna secca
 nl:Pruimedantensappen, Pruimedantensap
 
 <en:Plum juices
@@ -2711,6 +2912,7 @@ en:Concentrated plum juices
 de:Pflaumensäfte aus Konzentrat
 es:Zumos de ciruela procedente de concentrado
 fr:Jus de prune à base de concentré, jus de prunes à base de concentré
+it:Succhi di prugna da concentrato
 nl:Pruimensappen uit concentraat, Pruimensap uit concentraat
 
 <en:Plum juices
@@ -2719,6 +2921,7 @@ en:Squeezed plum juices, Non-refrigerated squeezed plum juices
 de:Pflaumendirektsäfte
 es:Zumos de ciruela exprimidos no refrigerados, Zumos de ciruela exprimidos, Zumos de ciruela exprimidos ambiente
 fr:Jus de prune frais
+it:Succhi di prugna da spremuta non refrigerati, Succhi di prugna da spremuta a temperatura ambiente
 nl:Verse pruimensappen, Verse pruimensap
 
 <en:Fruit juices
@@ -2727,6 +2930,7 @@ de:Granatapfelsäfte
 es:Zumos de granada
 fi:Granaattiomenamehu
 fr:Jus de grenade, jus de grenades
+it:Succhi di melagrana, Succhi di melograno
 nl:Granaatappelsappen, Granaatappelsap
 ru:Сок гранатовый, Гранатовый сок
 wikidata:en:Q3567034
@@ -2737,6 +2941,7 @@ en:Concentrated pomegranate juices
 de:Granatapfelsäfte aus Konzentrat
 es:Zumos de granada procedente de concentrado
 fr:Jus de grenade à base de concentré, jus de grenades à base de concentré
+it:Succhi di melagrana da concentrato, Succhi di melograno da concentrato
 nl:Granaatappelsappen uit concentraat, Granaatappelsap uit concentraat
 
 <en:Pomegranate juices
@@ -2745,6 +2950,7 @@ en:Squeezed pomegranate juices, Non-refrigerated squeezed pomegranate juices
 de:Granatapfeldirektsäfte
 es:Zumos de granada exprimidos no refrigerados, Zumos de granada exprimidos, Zumos de granada exprimidos ambiente
 fr:Jus de grenade pur jus
+it:Succhi di melagrana da spremuta non refrigerati, Succhi di melograno da spremuta non refrigerati, Succhi di melagrana da spremuta a temperatura ambiente, Succhi di melograno da spremuta a temperatura ambiente
 nl:Verse granaatappelsappen, Verse granaatappelsap
 
 <en:Fruit juices
@@ -2753,6 +2959,7 @@ de:Gekühlte Direktsäfte
 es:Zumos exprimidos refrigerados
 fi:jäähdytetyt puristetut mehut
 fr:Jus de fruits frais
+it:Succhi di frutta da spremuta refrigerati
 nl:Verse vruchtensappen, Verse vruchtensap
 
 <en:Orange juices
@@ -2761,6 +2968,7 @@ en:Refrigerated squeezed orange juices
 de:Gekühlte Orangendirektsäfte
 es:Zumos de naranja exprimidos refrigerados
 fr:Jus d'orange frais, jus d'oranges frais
+it:Succhi di arancia da spremuta refrigerati, Succhi d'arancia da spremuta refrigerati
 nl:Gekoelde verse sinaasappelsappen, Gekoelde verse sinaasappelsap
 
 <en:Fruit juices
@@ -2771,6 +2979,7 @@ es:Zumos exprimidos no refrigerados, Zumos exprimidos, Zumos exprimidos ambiente
 fi:puristetut mehut
 fr:Jus de fruits pur jus, jus de fruits 100% pur jus, jus de fruit 100% pur jus, jus de fruit pur jus, pur jus de fruits
 hu:Préselt gyümöcslevek
+it:Succhi di frutta non refrigerati, Succhi di frutta a temperatura ambiente
 nl:Verse ongekoelde vruchtensappen, Verse ongekoelde vruchtensap
 pl:Świeżo wyciskane soki
 zh:鲜榨果汁
@@ -2782,6 +2991,7 @@ de:Grapefruitdirektsäfte
 es:Zumos de pomelo exprimidos no refrigerados, Zumos de pomelo exprimido, Zumos de pomelo exprimido ambiente
 fi:puristetut greippimehut
 fr:Jus de pamplemousse pur jus, jus de pamplemousse 100% pur jus, Jus de pamplemousses 100% pur jus, 100% pur jus de pamplemousses
+it:Succhi di pompelmo da spremuta non refrigerati, Succhi di pompelmo da spremuta a temperatura ambiente
 nl:Verse grapefruitsappen
 
 <en:Orange juices
@@ -2791,6 +3001,7 @@ de:Orangendirektsäfte
 es:Zumos de naranja exprimidos no refrigerados, Zumos de naranja exprimidos, Zumos de naranja exprimidos ambiente
 fi:puristetut appelsiinimehut
 fr:Jus d'orange pur jus, jus d'orange 100% pur jus, Jus d'oranges 100% pur jus, 100% pur jus d'oranges
+it:Succhi di arancia da spremuta non refrigerati, Succhi d'arancia da spremuta non refrigerati, Succhi di arancia da spremuta a temperatura ambiente, Succhi d'arancia da spremuta a temperatura ambiente
 nl:Vers geperste sinaasappelsappen, Vers geperst sinaasappelsap
 
 <en:Pineapple juices
@@ -2800,6 +3011,7 @@ de:Ananasdirektsäfte
 es:Zumos de piña exprimidos no refrigerados, Zumos de piña exprimidos, Zumos de piña exprimidos ambiente
 fi:puristetut ananasmehut
 fr:Jus d'ananas pur jus, pur jus d'ananas
+it:Succhi di ananas da spremuta non refrigerati, Succhi d'ananas da spremuta non refrigerati, Succhi di ananas da spremuta a temperatura ambiente, Succhi d'ananas da spremuta a temperatura ambiente
 nl:Vers geperste ananassappen, Vers geperst ananassap
 
 <en:Fruit juices
@@ -2807,6 +3019,7 @@ en:Tangerine juices
 de:Mandarinensäfte
 es:Zumos de mandarina
 fr:Jus de mandarine, jus de mandarines
+it:Succhi di mandarino
 nl:Mandarijnensappen, Mandarijnensap
 ro:Suc de mandarine, Suc cu mandarine
 zh:橘子汁, 柑橘汁
@@ -2818,6 +3031,7 @@ en:Concentrated tangerine juices
 de:Mandarinensäfte aus Konzentrat
 es:Zumos de mandarina procedente de concentrado, Zumos de clementina procedente de concentrado
 fr:Jus de mandarine à base de concentré
+it:Succhi di mandarino da concentrato
 nl:Manderijnensappen uit concentraat, Manderijnensap uit concentraat
 
 <en:Tangerine juices
@@ -2826,6 +3040,7 @@ en:Refrigerated squeezed tangerine juices
 de:Gekühlte Mandarinendirektsäfte
 es:Zumos de mandarina exprimidos refrigerados, Zumos de clementina exprimidos refrigerados
 fr:Jus de mandarine pur jus frais
+it:Succhi di mandarino da spremuta refrigerati
 nl:Gekoelde geperste mandarijnensappen, Gekoeld geperst mandarijnensap
 
 <en:Tangerine juices
@@ -2834,6 +3049,7 @@ en:Squeezed tangerine juices, Non-refrigerated squeezed tangerine juices
 de:Mandarinendirektsäfte
 es:Zumos de mandarina exprimidos no refrigerados, Zumos de mandarina exprimidos, Zumos de mandarina exprimidos ambiente, Zumos de clementina exprimidos no refrigerados, Zumos de clementina exprimidos, Zumos de clementina exprimidos ambiente
 fr:Jus de mandarine pur jus
+it:Succhi di mandarino da spremuta non refrigerati, it:Succhi di mandarino da spremuta a temperatura ambiente
 nl:Vers geperste mandarijnensappen, Vers geperste mandarijnensap
 
 <en:Fruit-based beverages
@@ -2845,7 +3061,7 @@ es:Néctares de frutas, Néctares
 fi:hedelmänektaarit
 fr:Nectars de fruits, nectar de fruits, nectars, nectar
 hu:Gyümölcslevek
-it:Nettare di frutta
+it:Nettari di frutta
 nl:Vruchtennectars, Vruchtennectar
 pt:Néctares de frutas, néctares
 ru:Плодовые нектары, Нектары плодовые
@@ -2857,7 +3073,7 @@ de:Apfelnektare
 es:Néctares de manzana
 fi:omenanektarit
 fr:Nectars de pomme, nectar de pommes, nectar de pomme, nectar pomme, nectars pomme
-it:Nettare di mela
+it:Nettari di mela
 nl:Appelnectars, Appelnectar
 ru:Нектары яблочные, Яблочные нектары, Нектар яблочный, Яблочный нектар
 zh:苹果花蜜
@@ -2868,7 +3084,7 @@ de:Aprikosennektare
 es:Néctares de albaricoque
 fi:aprikoosinektarit
 fr:Nectars d'abricot, nectar d'abricot, nectars d'abricots, nectar abricot
-it:Nettare di albicocca
+it:Nettari di albicocca
 nl:Abrikozennectars, Abrikozennectar
 
 <en:Fruit nectars
@@ -2876,7 +3092,7 @@ en:Banana nectars
 de:Bananennektare
 es:Néctares de plátano
 fr:Nectars de banane, nectar de banane, nectar banane, nectars banane
-it:Nettare di banana
+it:Nettari di banana
 nl:Bananennectars, Bananennectar
 zh:香蕉花蜜
 
@@ -2885,7 +3101,7 @@ en:Blueberry nectars
 de:Heidelbeernektare, Blaubeerennektare
 es:Néctares de arándanos
 fr:Nectars de myrtilles
-it:Nettare di mirtillo
+it:Nettari di mirtillo
 nl:Blauwe bessennectars, Blauwe bessennectar
 zh:蓝莓花蜜
 
@@ -2894,7 +3110,7 @@ en:Grape nectars
 de:Weintraubennektare, Traubennektare
 es:Néctares de uva
 fr:Nectars de raisin, nectar de raisin, nectar de raisins, nectars de raisins, nectar raisin
-it:Nettare di uva
+it:Nettari di uva, Nettari d'uva
 nl:Druivennectars, Druivennectar
 zh:葡萄花蜜
 
@@ -2903,7 +3119,7 @@ en:Grapefruit nectars
 de:Grapefruit-Nektare
 es:Néctares de pomelo
 fr:Nectars de pamplemousse
-it:Nettare di pompelmo
+it:Nettari di pompelmo
 nl:Grapefruitnectars, Grapefruitnectar
 
 <en:Fruit nectars
@@ -2912,7 +3128,7 @@ de:Guavennektare
 es:Néctares de guayaba
 fi:guavanektarit
 fr:Nectars de goyave, nectar de goyave, nectar goyave
-it:Nettare di guaiava
+it:Nettari di guaiava, Nettari di guava, Nettari di guayaba
 nl:Guavanectars, Guavanectar
 
 <en:Fruit nectars
@@ -2921,7 +3137,7 @@ de:Mangonektare
 es:Néctares de mango
 fi:mangonektarit
 fr:Nectars de mangue, nectar de mangue, nectar mangue, nectars mangue
-it:Nettare di mango
+it:Nettari di mango
 nl:Mangonectars, Mangonectar
 zh:芒果花蜜
 
@@ -2930,7 +3146,7 @@ en:Melon nectars
 de:Melonennektare
 es:Néctares de melón
 fr:Nectars de melon
-it:Nettare di melone
+it:Nettari di melone
 nl:Meloennectars, Meloennectar, Meloenennectar
 zh:甜瓜花蜜
 
@@ -2940,6 +3156,7 @@ de:Mehrfrucht-Nektare
 es:Néctares multifruta, Néctares multifrutas
 fi:monihedelmänektarit
 fr:Nectars multifruits
+it:Nettari multifrutta, Nettari di frutta mista
 nl:Multivruchtennectars, Multivruchtennectar
 zh:多果子花蜜, 多果蜜
 
@@ -2949,7 +3166,7 @@ de:Orangennektare
 es:Néctares de naranja
 fi:appelsiininektarit
 fr:Nectars d'orange
-it:Nettare di arancia
+it:Nettari di arancia, Nettari d'arancia
 nl:Sinaasappelnectars, Sinaasappelnectar
 zh:橙花蜜, 橙子花蜜
 
@@ -2958,6 +3175,7 @@ en:Passion fruit nectars, Passionfruit nectars
 de:Maracujanektare, Passionsfruchtnektare
 es:Néctares de maracuyá, Néctares de fruta de la pasión
 fr:Nectars de fruit de la passion, nectar de fruit de la passion, nectar fruit de la passion, nectar passion, nectars passion, nectars de fruits de la passion
+it:Nettari di frutto della passione, Nettari di maracuja
 nl:Passievruchtnectars, Passievruchtnectar
 
 <en:Fruit nectars
@@ -2966,7 +3184,7 @@ de:Pfirsichnektare
 es:Néctares de melocotón, Néctares de durazno
 fi:persikkanektarit
 fr:Nectars de pêche, nectar de pêche, nectar pêche
-it:Nettare di pesca
+it:Nettari di pesca
 nl:Perzikkennectars, Perzikkennectar
 zh:桃花蜜, 桃子花蜜
 
@@ -2976,32 +3194,32 @@ de:Birnennektare
 es:Néctares de pera
 fi:päärynänektarit
 fr:Nectars de poire
-it:Nettare di pera
+it:Nettari di pera
 nl:Perennectars, Perennectar
 zh:梨花蜜, 梨子花蜜
 
 <en:Fruit nectars
 en:Strawberry nectars
 fr:Nectars de fraise
-it:Nettare di fragola
+it:Nettari di fragola
 nl:Aardbeiennectar
 
 <en:Fruit nectars
 en:Raspberry nectars
 fr:Nectars de framboise
-it:Nettare di lamponi
+it:Nettari di lampone
 
 <en:Fruit nectars
 en:Cherry nectars
 fr:Nectars de cerise
-it:Nettare di ciliegia
+it:Nettari di ciliegia
 
 <en:Fruit nectars
 en:Pineapple nectars
 de:Annanasnektare
 es:Néctares de piña, néctar de piña
 fr:Nectars d'ananas
-it:Nettari di ananas, nettare di ananas
+it:Nettari di ananas, Nettari d'ananas
 nl:Ananasnectars, Ananasnectar
 
 <en:Fruit nectars
@@ -3014,7 +3232,7 @@ en:Pomegranate nectars
 de:Granatapfelnektare
 es:Néctares de granada
 fr:Nectars de grenade
-it:Nettari di melograno, nettare di melograno, nettari di melagrana, nettare di melagrana
+it:Nettari di melograno, Nettari di melagrana
 nl:Granaatappelnectars, Granaatappelnectar
 
 <en:Fruit nectars
@@ -3022,7 +3240,7 @@ en:Tangerine nectars
 de:Mandarinennektare
 es:Néctares de mandarina, Néctares de clementina
 fr:Nectars de mandarine, nectars de clémentine
-it:Nettari di mandarino, nettare di mandarino
+it:Nettari di mandarino
 nl:Mandarijnennectars, Mandarijnennectar
 
 <en:Vegetable-based foods and beverages
@@ -3032,6 +3250,7 @@ de:Gemüse basierte Getränke
 es:Bebidas a base de verduras y hortalizas
 fi:kasvispohjaiset juomat
 fr:Boissons aux légumes, boissons à base de légumes
+it:Bevande a base di verdure
 nl:Groentedranken, Groentedrank, Groentendrank
 
 <en:Vegetable-based beverages
@@ -3041,7 +3260,7 @@ de:Gemüsesäfte
 es:Zumos de verduras y hortalizas
 fi:kasvismehut
 fr:Jus de légumes
-it:Succhi di verdura, succo di verdura
+it:Succhi di verdura
 nl:Groentesappen, Groentesap, Groentensap
 zh:蔬菜汁
 wikidata:en:Q1501257
@@ -3052,7 +3271,7 @@ de:Karottensäfte
 es:Zumos de zanahoria
 fi:porkkanamehut
 fr:Jus de carotte, jus de carottes
-it:Succo di carota
+it:Succhi di carota
 nl:Wortelsappen, Wortelsap
 zh:胡萝卜汁
 wikidata:en:Q1190074
@@ -3062,12 +3281,12 @@ en:Concentrated carrot juices
 de:Karottensäfte aus Kartottenkonzentrat
 es:Zumos de zanahoria procedente de concentrado
 fr:Jus de carotte à base de concentré, jus de carottes à base de concentré
-it:Succo di carota da concentrato
+it:Succhi di carota da concentrato
 nl:Wortelsappen uit concentraat, Wortelsap uit concentraat
 
 <en:Vegetable juices
 fr:Jus de betterave
-it:Succo di barbabietola
+it:Succhi di barbabietola
 nl:Rode bietensappen, Rode bietensap
 
 <en:Vegetable juices
@@ -3077,6 +3296,7 @@ de:Tomatensaft, Tomatensäfte
 es:Zumos de tomate
 fi:tomaattimehut
 fr:Jus de tomates, jus de tomate
+it:Succhi di pomodoro
 nl:Tomatensappen, Tomatensap
 pl:Soki pomidorowe, sok pomidorowy
 ro:Suc de roșii
@@ -3089,13 +3309,14 @@ en:Concentrated tomato juices
 de:Tomatensaft aus Tomatensaftkonzentrat
 es:Zumos de tomate procedente de concentrado
 fr:Jus de tomates à base de concentré, jus de tomate à base de concentré
+it:Succhi di pomodoro da concentrato
 nl:Tomatensappen uit concentraat, Tomatensap uit concentraat
 
 <en:Tomatoes and their products
 en:Strained tomatoes, Passata
 de:Passierte Tomaten
 fr:Coulis de tomates, coulis de tomate
-it:Passata
+it:Passate di pomodoro, Passate
 nl:Gezeefde tomaten, Passata, Tomatencoulis
 
 <en:Plant-based beverages
@@ -3104,6 +3325,7 @@ de:Furchtsäfte und Sojagetränke
 es:Bebidas a base de zumo de frutas y soja, Bebidas de zumo de frutas y soja
 fi:soijamehujuomat
 fr:Boissons à base de jus de fruits et de soja
+it:Bevande a base di succo di frutta e soia
 nl:Vruchten- en sojadranken, Vruchten- en sojadrank
 
 <en:Fruit juice and soy drinks
@@ -3111,6 +3333,7 @@ en:Apple juice and soy drinks
 de:Apfelsäfte und Sojagetränke
 es:Bebidas a base de zumo de manzana y soja, Bebidas de zumo de manzana y soja
 fr:Boissons à base de jus de pomme et de soja
+it:Bevande a base di succo di mela e soia
 nl:Appel-sojadranken, Appel-sojadrank
 
 <en:Fruit juice and soy drinks
@@ -3118,6 +3341,7 @@ en:Multifruit juice and soy drinks
 de:Mehrfruchtsaft und Sojagetränke
 es:Bebidas a base de zumo multifruta y soja, Bebidas de zumo multifruta y soja
 fr:Boissons à base de jus multifruits et de soja
+it:Bevande a base di succo multifrutta e soia, Bevande a base di succo di frutta mista e soia
 nl:Multifruitsojadranken
 
 <en:Fruit juice and soy drinks
@@ -3125,6 +3349,7 @@ en:Orange juice and soy drinks
 de:Orangensäfte und Sojagetränke
 es:Bebidas a base de zumo de naranja y soja, Bebidas de zumo de naranja y soja
 fr:Boissons à base de jus d'orange et de soja
+it:Bevande a base di succo di arancia e soia, it:Bevande a base di succo d'arancia e soia
 nl:Sinaasappelsojadranken, Sinaasappelsojadrank
 
 <en:Fruit juice and soy drinks
@@ -3132,6 +3357,7 @@ en:Peach juice and soy drinks
 de:Pfirsichsäfte und Sojagetränke
 es:Bebidas a base de zumo de melocotón y soja, Bebidas de zumo de melocotón y soja
 fr:Boissons à base de jus de pêche et de soja
+it:Bevande a base di succo di pesca e soia
 nl:Perzikkensojadranken, Perzikkensojadrank
 
 <en:Fruit juice and soy drinks
@@ -3139,6 +3365,7 @@ en:Pineapple juice and soy drinks
 de:Annanasssäfte und Sojagetränke
 es:Bebidas a base de zumo de piña y soja, Bebidas de zumo de piña y soja
 fr:Boissons à base de jus d'ananas et de soja
+it:Bevande a base di succo di ananas e soia, it:Bevande a base di succo d'ananas e soia
 nl:Ananassojadranken, Ananassojadrank
 
 <en:Beverages
@@ -3169,6 +3396,7 @@ es:Plantas para infusiones, Infusiones, Tisanas
 fi:yrttiteet
 fr:Infusions, Tisanes, Infusion
 hu:Gyógynövényes teák
+it:Tisane, Infusi
 nl:Kruidentheeën, Kruidenthee
 pt:Chás de ervas, infusões de ervas, infusões
 wikidata:en:Q379932
@@ -3180,6 +3408,7 @@ es:Plantas para infusiones en bolsitas, Infusiones en bolsitas, Tisanas en bolsi
 fi:Yrttipussiteet
 fr:Infusions en sachets
 hu:Gyógynövényes teák tasakban
+it:Tisane in bustina, Infusi in bustina
 nl:Kruidenthee in zakjes, Kruidenthee in buidels
 ru:Чай в пакетиках
 zh:袋茶, 茶包, 袋泡茶
@@ -3192,6 +3421,7 @@ de:Wermuttee
 es:Ajenjo
 fr:Absinthe
 hu:Abszint
+it:Assenzio
 la:Artemisia absinthium
 nl:Absint
 wikidata:en:Q25686
@@ -3201,6 +3431,7 @@ en:Alexandrian senna
 de:Sennes, Senna
 es:Senna, Sen
 fr:Senna angustifolia
+it:Senna, Cassia angustifolia
 la:Senna alexandrina, Cassia angustifolia, Senna angustifolia
 nl:Sennapeul
 wikidata:en:Q132675
@@ -3210,6 +3441,7 @@ en:Boldo
 de:Boldo
 es:Boldo
 fr:Boldo
+it:Boldo
 la:Peumus boldus
 nl:Boldo
 wikidata:en:Q833994
@@ -3221,6 +3453,7 @@ es:Manzanilla
 fi:kamomilla
 fr:Camomille
 hu:Kamilla
+it:Camomilla
 nl:Kamille
 wikidata:en:Q14169150
 
@@ -3230,6 +3463,7 @@ de:Deutsche Kamille
 es:Manzanilla dulce, Manzanilla de Castilla, Manzanilla alemana
 fr:Camomille sauvage
 hu:Német kamilla
+it:Camomilla comune, Camomilla tedesca, Matricaria chamomilla
 la:Matricaria chamomilla, Matricaria recutita
 nl:Echte Kamille
 wikidata:en:Q28437
@@ -3240,6 +3474,7 @@ de:Römische Kamille
 es:Manzanilla amarga, Manzanilla común, Manzanilla romana
 fr:Camomille romaine
 hu:Román kamilla
+it:Camomilla romana, Chamaemelum nobile
 la:Chamaemelum nobile, Anthemis nobilis
 nl:Roomse Kamille
 wikidata:en:Q5723577
@@ -3250,6 +3485,7 @@ de:Brennessel
 es:Ortiga verde, Ortiga mayor
 fr:Grande ortie, Ortie dioïque, Ortie commune
 hu:Csalán
+it:Ortica
 la:Urtica dioica
 nl:Brandnetel
 wikidata:en:Q155909
@@ -3259,6 +3495,7 @@ en:Cotton lavender, Lavender-cotton
 de:Heiligenkraut
 es:Manzanilla de Mahón, Abrótano hembra
 fr:Santoline petit cyprès
+it:Santolina, Crespolina
 la:Santolina chamaecyparissus
 nl:Heiligenbloem
 wikidata:en:Q1543811
@@ -3268,6 +3505,7 @@ en:Dandelion, Common dandelion
 de:Löwenzahn
 es:Diente de león
 fr:Pissenlit commun, Pissenlit officinal
+it:Dente di leone, Tarassaco
 la:Taraxacum officinale
 nl:Paardenbloem, Paardebloem
 ro:Păpădie
@@ -3278,6 +3516,7 @@ en:Devil's claw, Grapple plant, Wood spider
 de:Teufelskralle
 es:Harpagofito
 fr:Harpagophyton, Griffe du diable, Sengaparile
+it:Artiglio del diavolo
 la:Harpagophytum procumbens
 nl:Duivelsklauw
 wikidata:en:Q386675
@@ -3288,6 +3527,7 @@ de:Holunderprodukte
 es:Productos del saúco
 fr:Produits de sureau noir
 hu:Bodza alapú termékek
+it:Prodotti del sambuco
 la:Sambucus nigra
 nl:Gewone vlier
 wikidata:en:Q22701
@@ -3299,6 +3539,7 @@ de:Holunderblüte
 es:Flores de saúco, Flores de saúco común
 fr:Fleurs de sureau noir
 hu:Bodza virág
+it:Fiori di sambuco
 nl:Gewone vlierbloemen
 
 <en:Herbal teas
@@ -3307,6 +3548,7 @@ de:Eukalyptus
 es:Eucalipto
 fr:Eucalyptus
 hu:Eukaliptusz
+it:Eucalipto, Eucaliptus, Eucalitto
 la:Eucalyptus
 nl:Eucalyptus
 ro:Eucalipt
@@ -3317,6 +3559,7 @@ en:Field horsetail, Common horsetail
 de:Schachtelhalm
 es:Cola de caballo
 fr:Prêle des champs
+it:Equiseto dei campi
 la:Equisetum arvense
 nl:Heermoes
 wikidata:en:Q107592
@@ -3328,6 +3571,7 @@ es:Infusiones con frutas
 fi:hedelmäteet
 fr:Infusions aux fruits
 hu:Gyümölcs teák
+it:Tisane alla frutta, Infusi alla frutta
 nl:Vruchtentheeën, Vruchtenthee
 ro:Ceaiuri de fructe, Ceai de fructe
 zh:水果茶
@@ -3338,12 +3582,14 @@ en:Citrus fruit teas
 de:Zitronentees
 fr:Infusions aux agrumes, Infusions agrumes, Infusion agrumes, Infusion aux agrumes
 hu:Citrus teák
+it:Tisane agli agrumi, Infusi agli agrumi
 nl:Citrusvruchtentheeën, Citrusvruchtenthee
 
 <en:Fruit teas
 en:Red fruit teas
 de:Rote Früchtetees
 fr:Infusions aux fruits rouges, Infusion aux fruits rouges
+it:Tisane ai frutti di bosco, Infusi ai frutti di bosco, Tisane ai frutti rossi, Infusi ai frutti rossi
 nl:Rode vruchtentheeën, Rode vruchtenthee
 
 <en:Fruit teas
@@ -3351,6 +3597,7 @@ nl:Rode vruchtentheeën, Rode vruchtenthee
 en:Herbal fruit teas in tea bags
 es:infusiones con frutas en bolsitas
 fr:Infusions aux fruits en sachets
+it:Tisane alla frutta in bustina, Infusi alla frutta in bustina
 
 <en:Herbal teas
 en:Ginkgo
@@ -3358,6 +3605,7 @@ de:Gingko
 es:Ginkgo
 fr:Ginkgo
 hu:Ginkgo, Gkgo biloba
+it:Ginko, Ginco, Ginkgo biloba, Albero di capelvenere
 la:Ginkgo biloba
 nl:Gingko
 ro:Ginkgo biloba
@@ -3370,32 +3618,38 @@ es:Mezclas de plantas para infusiones
 fi:yrttiteesekoitukset
 fr:Tisanes de plantes mélangées
 hu:Gyógynövény tea keverékek
+it:Tisane di piante miste, Infusi di piante miste, Tisane di erbe miste, Infusi di erbe miste
 nl:Gemengde Kruidentheeën, Gemengde Kruidenthee
 
 <en:Herbal tea blends
 en:Good nightrest tea blends
 de:Gute Nacht Tee, Gute-Nacht-Tee
 fr:Infusions Bonne Nuit, Infusions douce nuit, Infusions nuit calme
+it:Tisane della buona notte, Tisane della buonanotte, Infusi della buona notte, Infusi della buonanotte
 nl:Goede nachtrusttheeën, Goede nachtrustthee
 
 <en:Herbal tea blends
 es:Infusiones relajantes
+it:Tisane rilassanti, Infusi rilassanti
 
 <en:Herbal tea blends
 en:Weight-loss tea blends
 de:Abnehm-Tee
 fr:Infusions minceur, Tisanes minceur, Infusion minceur, Tisane minceur
+it:Tisane dimagranti, Infusi dimagranti
 nl:Afslank thee melanges, Afslank thee melange
 
 <en:Weight-loss tea blends
 en:Weight-loss Teas
 fr:Thés minceur, Thé minceur
+it:Tisane dimagranti di piante miste, Infusi dimagranti di piante miste, Tisane dimagranti di erbe miste, Infusi dimagranti di erbe miste
 nl:Afslank theeën, Afslank thee
 
 <en:Herbal tea blends
 en:Verbena Peppermint
 de:Verbene-Pfefferminz
 fr:Verveine menthe, Verveines menthe
+it:Menta piperita
 nl:Verveine pepermunt
 
 <en:Herbal teas
@@ -3403,6 +3657,7 @@ en:Hibiscus
 de:Hibiskus
 es:Hibisco
 fr:Hibiscus
+it:Ibisco, Hibiscus
 la:Hibiscus
 nl:Hibiscus
 wikidata:en:Q157124
@@ -3411,6 +3666,7 @@ wikidata:en:Q157124
 en:Roselle
 es:Rosa de Jamaica
 fr:Oseille de Guinée, Roselle
+it:Karkadè, Carcadè
 la:Hibiscus sabdariffa
 nl:Roelle
 wikidata:en:Q319390
@@ -3420,6 +3676,7 @@ en:Honeybush
 de:Honigbusch
 es:Honeybush
 fr:Honeybush
+it:Honeybush
 la:Cyclopia
 nl:Honeybush
 wikidata:en:Q1627092
@@ -3429,6 +3686,7 @@ en:Juniper berries
 de:Wacholderbeere
 es:Bayas de enebro
 fr:Baies de genévrier
+it:Bacche di ginepro
 la:Juniperus communis
 nl:Jeneverbes, Jeneverbessen
 wikidata:en:Q3251025
@@ -3438,6 +3696,7 @@ en:Lavender
 de:Lavendel
 es:Espliego
 fr:Lavande officinale
+it:Lavanda, Lavandula
 la:Lavandula spica, Lavandula angustifolia
 nl:Lavendel
 ro:Levănțică, Lavandă
@@ -3448,6 +3707,7 @@ en:Lemon balm
 de:Zitronenmelisse
 es:Melisa, Toronjil
 fr:Mélisse officinale, Mélisse citronnelle
+it:Melissa vera
 la:Melissa officinalis
 nl:Citroenmelisse
 wikidata:en:Q148396
@@ -3457,6 +3717,7 @@ en:Limeflower tea, Lime trees, Linden
 de:Lindenblüten
 es:Tila
 fr:Tilleul
+it:Tiglio
 la:Tilia
 nl:Linde
 wikidata:en:Q127849
@@ -3466,6 +3727,7 @@ en:Large-leaved lime, Large-leaved linden
 de:Sommerlinde
 es:Tila de hoja ancha
 fr:Tilleul à grandes feuilles
+it:Tiglio nostrano, Tiglio nostrale
 la:Tilia platyphyllos
 nl:Zomerlinde
 wikidata:en:Q156831
@@ -3475,6 +3737,7 @@ en:Small-leaved lime, Small-leaved linden
 de:Winterlinde
 es:Tila de hoja pequeña
 fr:Tilleul à petites feuilles
+it:Tiglio selvatico
 la:Tilia cordata
 nl:Winterlinde
 wikidata:en:Q158746
@@ -3515,7 +3778,7 @@ hy:քաղցրարմատ
 id:Akar manis
 io:Regoliso
 is:Lakkrísrót
-it:liquirizia
+it:Liquirizia
 ja:スペインカンゾウ
 ka:ძირტკბილა
 kk:Қызылмия
@@ -3573,6 +3836,7 @@ en:Mallow, Common mallow
 de:Malve
 es:Malva, Malva común
 fr:Grande mauve, Mauve sylvestre, Mauve des bois
+it:Malva
 la:Malva sylvestris
 nl:Groot kaasjeskruid, Kaasjeskruid
 wikidata:en:Q156835
@@ -3582,6 +3846,7 @@ en:Marsh-mallow, Marsh mallow, Common marshmallow
 de:Echter Eibisch
 es:Malvavisco
 fr:Guimauve officinale, Guimauve sauvage, Mauve blanche
+it:Altea
 la:Althaea officinalis
 nl:Echte heemst, Heemst
 wikidata:en:Q158496
@@ -3591,6 +3856,7 @@ en:Maypop, Purple passionflower, True passionflower
 de:Passionsblume
 es:Pasiflora
 fr:Liane de grenade, Encore maypop
+it:Passiflora
 la:Passiflora incarnata
 nl:Passiebloem
 wikidata:en:Q128939
@@ -3600,6 +3866,7 @@ en:Midland hawthorn
 de:Weißdorn
 es:Espino blanco
 fr:Aubépine à deux styles, Aubépine lisse
+it:Biancospino
 la:Crataegus oxyacantha
 nl:Tweestijlige meidoorn, Meidoorn
 wikidata:en:Q159553
@@ -3625,6 +3892,7 @@ en:Olive leaves
 de:Olivenblätter
 es:Hojas de olivo
 fr:Feuilles d'olivier
+it:Foglie d'olivo
 nl:Olijfboomblad
 wikidata:en:Q7087231
 
@@ -3633,6 +3901,7 @@ en:Orange blossom
 de:Orangenblüte
 es:Azahar, Flor de azahar
 fr:Fleur d'oranger
+it:Fiori d'arancio
 nl:Oranjebloesem
 wikidata:en:Q1152711
 
@@ -3641,6 +3910,7 @@ en:Perforate St John's-wort, Common Saint John's wort, St John's wort
 de:Johanniskraut
 es:Hipérico, Hierba de San Juan
 fr:Millepertuis perforé
+it:Iperico, Erba di San Giovanni
 la:Hypericum perforatum
 nl:Sint-janskruid
 wikidata:en:Q158289
@@ -3650,6 +3920,7 @@ en:Ribwort Plantain, English plantain, Narrowleaf plantain
 de:Spitzwegerich
 es:Llantén, Llantén menor
 fr:Plantain lancéolé, Plantain étroit
+it:Piantaggine lanciuola, Lanciola, Piantaggine minore, Lingua di cane
 la:Plantago lanceolata
 nl:Smalle weegbree
 wikidata:en:Q157408
@@ -3660,6 +3931,7 @@ de:Rotbusch
 es:Rooibos
 fi:rooibos
 fr:Rooibos, Infusions au rooibos, Infusion au rooibos, Thé rooibos
+it:Rooibos
 la:Aspalathus linearis
 nl:Rooibos
 wikidata:en:Q272181
@@ -3669,6 +3941,7 @@ en:Rose hip
 de:Hagebutte
 es:Escaramujo
 fr:Cynorrhodon
+it:Cinorrodo
 la:Rosa Canina
 nl:Rozebottel
 
@@ -3677,6 +3950,7 @@ en:Rough bindweed, Common smilax, Sarsaparille
 de:Stechwinde, Sarsaparilla
 es:Zarzaparrilla
 fr:Salsepareille
+it:Salsapariglia, Salsapariglia nostrana
 la:Smilax regelii, Smilax aspera
 nl:Sarsaparilla
 wikidata:en:Q161119
@@ -3687,6 +3961,7 @@ de:Stevia
 es:Estevia y sus derivados, Estevia, Stevia
 fi:stevia ja steviasta valmistetut tuotteet
 fr:Stévia et dérivés, Stévia
+it:Stevia e derivati, Stevia
 la:Stevia rebaudiana
 nl:Stevia
 nl_be:Stevia
@@ -3698,6 +3973,7 @@ en:Stevia leaves
 de:Steviablätter
 es:Hojas de estevia
 fr:Feuilles de stévia
+it:Foglie di stevia
 nl:Steviabladeren, Steviablad
 
 <en:Stevia leaves
@@ -3705,6 +3981,7 @@ en:Fresh stevia, Fresh stevia leaves
 de:Frische Steviablätter
 es:Estevia fresca, Hojas de estevia fresca
 fr:Stévia fraîche, Feuilles de stévia fraîche
+it:Foglie di stevia fresche
 nl:Verse steviabladeren, Verse steviablad
 
 <en:Stevia leaves
@@ -3712,6 +3989,7 @@ en:Ground dried stevia, Ground dried stevia leaves
 de:Gemahlene Steviablätter
 es:Estevia seca molida, Hojas de estevia seca molida
 fr:Stévia sèche moulu, Feuilles de stévia sèche moulue
+it:Foglie di stevia secche
 nl:Gedroogde steviabladeren, Gedroogde steviablad
 
 <en:Stevia leaves
@@ -3720,6 +3998,7 @@ en:Potted stevia
 de:Steviapflanze
 es:Macetas de estevia
 fr:Stévia en pot
+it:Stevia in vaso
 nl:Steviaplant
 
 <en:Hot beverages
@@ -3749,6 +4028,7 @@ de:Teebeutel, Tee in Beuteln, Tee in Teebeuteln
 es:Bolsitas de té, Tés en bolsas, Tés en bolsas de té
 fi:teepussit
 fr:Thés en sachets
+it:Tè in bustina
 nl:Theezakjes
 pt:Saquinhos de chá, chás em sacos, chás em saquinhos de chá
 # should not be in pnns_group_2:en:Teas and herbal teas and coffees
@@ -3760,6 +4040,7 @@ de:Schwarztees, Schwarze Tees
 es:Tés negros
 fi:mustat teet
 fr:Thés noirs, Thé noir
+it:Tè neri
 nl:Zwarte theeën, Zwarte thee
 ro:Ceauri negre, Ceai negru
 ru:Чай чёрный, Чёрный чай, Чай черный, Черный чай
@@ -3772,6 +4053,7 @@ en:Flavored black teas
 de:Aromatisierte Schwarztees
 fi:maustetut mustat teet
 fr:Thés noirs aromatisés
+it:Tè neri aromatizzati, Tè con aromi
 nl:Gearomatiseerde zwarte theeën, Gearomatiseerde zwarte thee
 
 <en:Flavored black teas
@@ -3779,23 +4061,27 @@ nl:Gearomatiseerde zwarte theeën, Gearomatiseerde zwarte thee
 en:Lemon flavored black teas
 de:Schwarztees mit Zitronenaroma
 fr:Thés noirs aromatisés au citron
+it:Tè neri aromatizzati al limone
 nl:Zwarte theeën met citroenaroma, Zwarte thee met citroenaroma, Zwarte thee met citroensmaak
 
 <en:Flavored teas
 en:Teas with bergamot, Bergamot teas
 fr:Thés à la bergamote
+it:Tè aromatizzati al bergamotto
 nl:Bergamottheeën, Bergamotthee
 
 <en:Flavored black teas
 <en:Teas with bergamot
 en:Bergamot flavored black teas
 fr:Thés noirs aromatisés à la bergamote
+it:Tè neri aromatizzati al bergamotto
 nl:Zwarte theeën gearomatiseerd met bergamot, Zwarte thee gearomatiseerd met bergamot
 
 <en:Teas
 en:Chaï teas
 de:Chai, Chai Tee
 fr:Thés chaï, thé au lait et aux épices
+it:Tè chai, Chai
 nl:Chai, Chai thee
 zh:印度奶茶
 #wikidata:en:Q877661
@@ -3806,6 +4092,7 @@ de:Entkoffeinierte Tees
 es:Tés descafeinados
 fi:kofeiinittomat teet
 fr:Thés décaféinés
+it:Tè deteinati, Tè decaffeinati
 nl:Caffeïnevrije theeën, Caffeïnevrije thee
 
 <en:Teas
@@ -3814,6 +4101,7 @@ en:Fermented teas
 de:Fermentierte Tees
 es:Tés fermentados
 fr:Thés sombres, Thé sombre
+it:Tè fermentati
 nl:Gefermenteerde theeën, Gefermenteerde thee
 wikidata:en:Q16241634
 
@@ -3823,6 +4111,7 @@ de:Aromatisierte Tees
 es:Tés aromatizados
 fi:maustetut teet
 fr:Thés aromatisés, Thé aromatisé, thés parfumés
+it:Tè aromatizzati, Tè con aromi
 nl:Gearomatiseerde theeën, Gearomatiseerde thee
 pl:Herbaty aromatyzowane
 pt:Chás com sabor
@@ -3830,6 +4119,7 @@ pt:Chás com sabor
 <en:Teas
 en:Ceylan teas
 fr:Thés de ceylan
+it:Tè di Ceylon
 nl:Ceylontheeën, Ceylon thee, Ceylonthee, Theeën uit Ceylon, Theeën uit Sri Lanka
 
 <en:Teas
@@ -3840,6 +4130,7 @@ es:Tés verdes
 fi:vihreät teet
 fr:Thés verts, Thé vert, Thés vert
 hu:Zöld teák
+it:Tè verdi
 nl:Groene theeën, Groene thee
 pt:Chás verdes
 ro:Ceauri verzi, Ceai verde
@@ -3851,11 +4142,13 @@ wikidata:en:Q484083
 en:Roasted Japanese green teas
 de:Geröstete japanische Grüntees
 fr:Thés verts torréfiés japonais
+it:Tè verdi tostati giapponesi, Tè verdi tostati del Giappone
 nl:Geroosterde Japanse groene theeën, Geroosterde Japanse groene thee
 
 <en:Roasted Japanese green teas
 fr:Thés Hojicha, Hojicha, Bancha Hojicha
 de:Hōjicha
+it:Tè Hojicha
 nl: Hojicha
 wikidata:en:Q1652744
 
@@ -3865,6 +4158,7 @@ de:chinesische Grüntees, chinesische Grüne Tees
 es:Tés verdes chinos
 fr:Thés verts chinois, Thé vert chinois
 hu:Kínai zöld teák
+it:Tè verdi cinesi, Tè verdi della Cina
 nl:Chinese groene theeën, Chinese groene thee
 zh:中国绿茶
 
@@ -3872,6 +4166,7 @@ zh:中国绿茶
 en:Maojian teas, Mao Jian teas
 es:Tés Maojian, Tés Mao Jian
 fr:Mao Jian
+it:Tè Mao Jian
 nl:Mao Feng
 zh:毛尖
 wikidata:en:Q10888066
@@ -3880,6 +4175,7 @@ wikidata:en:Q10888066
 en:Long Jing green teas, Dragon Well
 es:Tés Long Jing, Tés Longjing
 fr:Thés verts Long Jing, puits du dragon
+it:Tè Long Jing
 nl:Longjingtheeën, Longjingthee
 zh:龙井, 龙井绿茶
 wikidata:en:Q1069130
@@ -3890,6 +4186,7 @@ de:japanische Grüntees, japanische Grüne Tees
 es:Tés verdes japoneses
 fr:Thés verts japonais, Thés verts du Japon, Thé vert du Japon
 hu:Japán zöld teák
+it:Tè verdi giapponesi, Tè verdi del Giappone
 nl:Japanse groene theeën, Japanse groene thee
 zh:日本绿茶
 
@@ -3898,6 +4195,7 @@ en:Bancha teas, Bancha
 de:Benchatees
 es:Tés Bancha, Bancha
 fr:Thés bancha, bancha
+it:Tè Bancha
 nl:Bancha, Banchatheeën, Banchathee
 zh:番茶
 wikidata:en:Q789960
@@ -3907,6 +4205,7 @@ en:Genmaicha teas, Genmaicha, Brown Rice Tea
 de:Genmaichatees
 es:Tés Genmaicha, Genmaicha
 fr:Thés Genmaicha
+it:Tè Genmaicha
 nl:Genmaicha, Genmaicha theeën, Genmaicha thee
 wikidata:en:Q519365
 
@@ -3915,6 +4214,7 @@ en:Sencha teas, Sencha, Broiled tea
 de:Senchatees
 es:Tés Sencha, Sencha
 fr:Thés Sencha, Sencha
+it:Tè Sencha
 nl:Sencha, Sencha theeën, Sencha thee
 zh:煎茶
 wikidata:en:Q1334390
@@ -3924,12 +4224,14 @@ en:Fukuju teas, Fukuju
 de:Fukujutees
 es:Tés Fukuju, Fukuju
 fr:Thés Fukuju, Fukuju
+it:Tè Fukuju
 nl:Fukuju, Fukujutheeën, Fukujuthee
 
 <en:Japanese green teas
 en:Roasted Green teas
 de:Geröstete Grüntees
 fr:Thés verts torréfiés, Thé vert torréifié
+it:Tè verdi tostati
 nl:Geroosterde groene theeën, Geroosterde groene thee
 
 <en:Teas
@@ -3938,6 +4240,7 @@ de:Zitronentees
 es:Tés con limón, Té sabor limón
 fi:sitruunateet
 fr:Thés au citron, Thé au citron
+it:Tè al limone
 nl:Theeën met citroen, Thee met citroen, Citroentheeën, Citroenthee
 zh:柠檬茶
 
@@ -3945,6 +4248,7 @@ zh:柠檬茶
 en:Vanilla teas
 de:Vanilletees
 fr:Thés à la vanille
+it:Tè alla vaniglia
 nl:Vanilletheeën, Vanillethee
 zh:香草茶
 
@@ -3955,6 +4259,7 @@ es:Tés con hierbabuena, Tés a la menta
 fi:minttuteet
 fr:Thés à la menthe, Thé à la menthe
 hu:Menta teák
+it:Tè alla menta
 nl:Munttheeën, Muntthee
 zh:薄荷茶
 wikidata:en:Q937101
@@ -3964,6 +4269,7 @@ en:Green teas with mint
 de:Grüntees mit Minze
 fi:Vihreät teet mintulla
 fr:Thés verts à la menthe
+it:Tè verdi alla menta
 hu:Zöld teák mentával
 nl:Groene theeën met munt, Groene thee met munt
 
@@ -3972,6 +4278,7 @@ en:Oolong teas, Oolong
 de:Oolongtees
 es:Tés oolong, Tés azules
 fr:Thés bleus, Thé bleu, Thés Oolong
+it:Tè Oolong
 nl:Oolong theeën, Oolong, Oolong thee
 wikidata:en:Q231587
 
@@ -3981,6 +4288,7 @@ de:Weiße Tees
 es:Tés blancos
 fi:valkoiset teet
 fr:Thés blancs, báichá, thé blanc
+it:Tè bianco
 nl:Witte theeën, Witte thee
 zh:白茶
 wikidata:en:Q238306
@@ -3989,6 +4297,7 @@ wikidata:en:Q238306
 en:Baihao Yinzhen teas, Baihao Yinzhen, Bai Hao Yinzhen teas, Bai Hao Yinzhen, White Hair Silver Needle
 es:Tés Baihao Yinzhen, Tés Bai Hao Yinzhen
 fr:Bai Hao Yin Zhen, Yin Zhen
+it:Tè Baihao Yinzhen
 nl:Bai Hao Yin Zhen
 zh:白毫银针
 wikidata:en:Q1194937
@@ -3997,6 +4306,7 @@ wikidata:en:Q1194937
 en:Bai Mudan teas, Bai Mudan
 es:Tés Bai Mudan
 fr:Bai Mu Dan, Pai Mu Tan
+it:Tè Bai Mudan
 nl:Bai Mudan theeën, Bai Mudan thee
 zh:白牡丹茶
 wikidata:en:Q788624
@@ -4006,6 +4316,7 @@ en:Shoumei teas
 de:Shoumeitees
 es:Tés Shoumei, Tés Shou Mei
 fr:Shou Mei
+it:Tè Shoumei
 nl:Shou Mei theeën, SHou Mei thee
 zh:寿眉茶
 wikidata:en:Q4526292
@@ -4015,6 +4326,7 @@ en:Yellow teas
 de:Gelbe Tees
 es:Tés amarillos
 fr:Thés jaunes, Thé jaune
+it:Tè giallo
 nl:Gele theeën, Gele thee
 zh:黄茶
 wikidata:en:Q824529
@@ -4024,6 +4336,7 @@ en:Rock teas
 de:Wuyi-Tee, Felsentee, Rock Tea
 es:Tés de roca, Té de roca
 fr:Jasonia glutineux
+it:Tè Wuyi, Tè di roccia
 la:Chiliadenus saxatilis, Jasonia glutinosa
 nl:Rock theeën, Rock thee
 wikidata:en:Q5927170
@@ -4033,6 +4346,7 @@ en:Valerian
 de:Baldrian
 es:Valeriana
 fr:Valériane, Valériane officinale
+it:Valeriana
 la:Valeriana officinalis
 nl:Echte valeriaan
 wikidata:en:Q157819
@@ -4042,6 +4356,7 @@ en:Verbena family, Vervain family
 de:Verbene, Eisenkraut
 es:Verbenáceas
 fr:Verbénacées
+it:Verbenacee
 la:Verbenaceae
 nl:IJzerhard familie
 wikidata:en:Q156960
@@ -4051,6 +4366,7 @@ wikidata:en:Q156960
 en:Lemon verbena, Lemon beebrush
 es:Hierba luisa, Cedrón, Verbena de Indias
 fr:Verveine odorante, Verveine citronnelle, Verveine du Pérou
+it:Verbena odorosa, Verbena citronella
 la:Aloysia triphylla, Aloysia citrodora
 nl:Citroenverbena
 wikidata:en:Q206532
@@ -4060,6 +4376,7 @@ wikidata:en:Q206532
 en:Fresh lemon verbena
 es:Hierba luisa fresca
 fr:Verveine odorante fraîche
+it:Verbena odorosa fresca, Verbena citronella fresca
 nl:Verse citroenverbena
 
 <en:Lemon verbena
@@ -4067,12 +4384,14 @@ nl:Verse citroenverbena
 en:Ground dried lemon verbena
 es:Hierba luisa seca molida
 fr:Verveine odorante sèche moulue
+it:Verbena odorosa secca, Verbena citronella secca
 nl:Gemalen citroenverbena
 
 <en:Verbena family
 en:Vervains, Vervain
 es:Verbena, Vervena
 fr:Verveine, Verveines
+it:Verbena
 la:Verbena
 nl:Verbena
 zh:马鞭草属
@@ -4081,6 +4400,7 @@ wikidata:en:Q165290
 <en:Vervains
 en:Brazilian verbena, Brazilian vervain
 es:Verbena brasileña
+it:Verbena brasiliana
 la:Verbena brasiliensis
 nl:Braziliaanse verbena
 wikidata:en:Q3279023
@@ -4089,6 +4409,7 @@ wikidata:en:Q3279023
 en:Common vervain, Common verbena
 es:Verbena común
 fr:Verveine officinale, Verveine sauvage
+it:Verbena officinale, Verbena comune
 la:Verbena officinalis
 nl:IJzerhard
 wikidata:en:Q161417
@@ -4098,6 +4419,7 @@ en:White nettle, White dead-nettle
 de:Taubnessel
 es:Ortiga blanca
 fr:Ortie blanche, Lamier blanc
+it:Falsa ortica bianca, Ortica bianca
 la:Lamium album
 nl:Witte dovenetel
 wikidata:en:Q157626
@@ -4107,6 +4429,7 @@ en:Yarrow, Common yarrow
 de:Schafgarbe
 es:Milenrama
 fr:Achillée millefeuille
+it:Achillea millefoglie
 la:Achillea millefolium
 nl:Duizendblad
 wikidata:en:Q25408
@@ -4119,6 +4442,7 @@ es:Bebidas instantáneas, Bebidas para tomar calientes instantáneas
 fi:instant-juomat
 fr:Boissons instantanées, Boissons chaudes instantanées, boisson chaude instantanée
 hu:Meleg instant italok, Forró instant italok
+it:Bevande instantanee, Bevande instantanee calde
 nl:Oplosdranken, Warme oplosdranken, Warme oplosdrank
 
 en:Milk substitute, milk replacement
@@ -4129,7 +4453,7 @@ es:Sustitutos de la leche
 fi:maidon korvike
 fr:Substitut du lait
 hu:Tejpótlók
-it:Sostituto del latte
+it:Sostituti del latte
 nl:Melkvervangers, Melkvervanger
 ru:Заменители молока, заменитель молока
 wikidata:en:Q1626970
@@ -4139,6 +4463,7 @@ pnns_group_2:en:Plant-based milk substitutes
 <en:Milk substitute
 en:Creamer
 de:Getränkeweißer, Kaffeeweiße, Kaffeeweisser
+it:Crema da caffè vegana
 nl:Creamers, Creamer, Koffiecreamer
 wikidata:en:Q1154989
 
@@ -4151,7 +4476,7 @@ es:Cafés
 fi:kahvit
 fr:Cafés, Café
 hu:Kávék
-it:Caffè, Caffe
+it:Caffè
 nl:Koffies, Koffie
 pt:Cafés
 ru:Кофе
@@ -4167,6 +4492,7 @@ de:Kaffees in Pads, Kaffeepads
 es:Capsulas de cafe
 fi:kahvikapsyylit
 fr:Cafés en dosettes, café en dosette, café en capsule, dosettes de café, dosette de café, capsules de café, café en pad, pad de café, café en dose, dose de café
+it:Caffè in capsule, Capsule da caffè
 nl:Koffiepads, Koffiepad
 zh:咖啡胶囊
 
@@ -4175,6 +4501,7 @@ en:Senseo-compatible coffee capsules
 de:Senseo-kompatible Kapseln
 es:Cápsulas de café compatibles con Senseo
 fr:Cafés en dosettes compatible Senseo, Dosettes Senseo, Capsules Senseo
+it:Caffè in capsule compatibili con Senseo, Capsule da caffè compatibili con Senseo
 nl:Senseo-compatibele koffiecapsules, Senseo-compatibele koffiecapsule, Senseo
 
 <en:Coffee capsules
@@ -4182,6 +4509,7 @@ en:Nespresso-compatible coffee capsules
 de:Nespresso-kompatible Kapseln
 es:Cápsulas de café compatibles con Nespresso
 fr:Cafés en dosettes compatible Nespresso, Dosettes Nespresso, Capsules Nespresso
+it:Caffè in capsule compatibili con Nespresso, Capsule da caffè compatibili con Nespresso
 nl:Nespresso-compatibele Koffiecapsules, Nespresso
 
 <en:Coffee capsules
@@ -4189,15 +4517,18 @@ en:Dolce Gusto-compatible coffee capsules
 de:Dolce Gusto-kompatible Kapseln
 es:Cápsulas de café compatibles con Dolce Gusto
 fr:Cafés en dosettes compatible Dolce Gusto
+it:Caffè in capsule compatibili con Dolce Gusto, Capsule da caffè compatibili con Dolce Gusto
 nl:Dolce Gusto-compatibele Koffiecapsules, Dolce Gusto
 
 #Dolce Gusto can be the, capuccino or hot chocolates
 fr:Dosettes Dolce Gusto, Capsules Dolce Gusto
+it:Capsule compatibili con Dolce Gusto, Capsule compatibili con Dolce Gusto
 
 <en:Coffee capsules
 en:Tassimo-compatible coffee capsules, T-Disc coffee capsules
 de:Tassimo-kompatible Kapseln
 fr:Cafés en dosettes compatible Tassimo, Dosettes Tassimo, Capsules Tassimo, Dosettes T-Disc, Capsules T-Disc
+it:Caffè in capsule compatibili con Tassimo, Capsule da caffè compatibili con Tassimo
 nl:Tassimo-compatibele Koffiecapsules, Tassimo
 
 <en:Coffees
@@ -4206,6 +4537,7 @@ de:entkoffeinierte Kaffees, koffeinfreie Kaffees
 es:Cafés descafeinados
 fi:kofeiinittomat kahvit
 fr:Cafés décaféinés, café décaféiné
+it:Caffè decaffeinati
 nl:Caffeïnevrije koffies, Caffeïnevrije koffie
 ru:Кофе без кофеина, декофеинизированный кофе
 zh:无咖啡因咖啡
@@ -4213,6 +4545,7 @@ zh:无咖啡因咖啡
 <en:Decaffeinated coffees
 en:Decaffeinated coffee capsules
 de:entkoffeinierte Kaffees in Pads, koffeinfreie Kaffees in Pads
+it:Caffè decaffeinati in capsule
 nl:Cafeïnevrije koffiepads, Caffeïnevrije koffiepad
 zh:无咖啡因咖啡胶囊
 
@@ -4222,6 +4555,7 @@ de:Filterkaffee, Gemahlene Kaffees
 es:Cafés molidos
 fi:jauhetut kahvit
 fr:Cafés moulus, café moulu
+it:Caffè macinati
 nl:Gemalen koffies, Filterkoffies, Gemalen koffie, Filterkoffie
 ru:Кофе молотый, Молотый кофе
 zh:研磨咖啡
@@ -4231,6 +4565,7 @@ en:Coffee beans
 de:Kaffeebohnen, Ungemahlene Kaffeebohnen, Kaffeekirschen
 fi:kahvinpavut
 fr:Grains de café
+it:Caffè in chicchi, Caffè in grani
 nl:Koffiebonen
 zh:咖啡豆
 wikidata:en:Q153697
@@ -4239,6 +4574,7 @@ wikidata:en:Q153697
 en:Roasted coffee beans
 de:Geröstete Kaffeebohnen
 fr:Grains de café torréfiés
+it:Caffè in chicchi torrefatti
 nl:Geroosterde koffiebonen
 zh:烘焙咖啡豆, 烘烤咖啡豆
 
@@ -4251,6 +4587,7 @@ es:Cafés solubles
 fi:pikakahvit
 fr:Cafés solubles, cafés en poudre, café en poudre, cafés instantanés, café soluble, café instantané, café soluble, cafés instantanés en poudre, café instantané en poudre
 hu:Instant kávék, Oldódó kávé, Kávéporok
+it:Caffè solubili, Caffè instantanei
 nl:Oploskoffies, Oploskoffie
 ru:Растворимый кофе, кофе растворимый
 zh:速溶咖啡, 即时咖啡
@@ -4261,6 +4598,7 @@ en:Powdered cappucino
 de:Cappuccinopulver
 fi:pikacappuchino
 fr:Cappuccino en poudre
+it:Cappuccini solubili, Cappuccini instantanei
 nl:Cappucinopoeders, Cappucinopoeder
 
 <en:Instant coffees
@@ -4270,6 +4608,7 @@ de:entkoffeinierte lösliche Kaffees, koffeinfreie lösliche Kaffees, entkoffein
 es:Cafés solubles descafeinados
 fi:kofeiinittomat pikakahvit
 fr:Cafés en poudre décaféinés, Cafés instantanés décaféinés, Cafés solubles décaféinés
+it:Caffè decaffeinati solubili, Caffè decaffeinati instantanei
 nl:Cafeïnevrije oploskoffies, Cafeïnevrije oploskoffie
 ru:растворимый кофе без кофеина, декофеинизированный растворимый кофе
 
@@ -4278,6 +4617,7 @@ ru:растворимый кофе без кофеина, декофеинизи
 <en:Instant coffees
 en:Freeze-dried instant coffees
 de:Gefriergetrocknete Instant-Kaffees
+it:Caffè solubili asciugati a freddo, Caffè instantanei asciugati a freddo
 nl:Gevriesdroogde oploskoffies, Gevriesdroogde oploskoffie
 ru:Кофе растворимый сублимированный, Растворимый сублимированный кофе, Кофе сублимированный растворимый, Сублимированный растворимый кофе, Кофе натуральный растворимый сублимированный, Натуральный растворимый сублимированный кофе
 
@@ -4285,6 +4625,7 @@ ru:Кофе растворимый сублимированный, Раство�
 <en:Plant-based beverages
 en:Instant chicory
 fr:Chicorée soluble, chicorée en poudre
+it:Cicoria solubile
 nl:Oploscichorei
 ru:Цикорий растворимый, растворимый цикорий
 
@@ -4297,6 +4638,7 @@ it:Orzo solubile
 en:Torrefacto coffees
 es:Cafés torrefactos
 fr:Cafés torréfiés, Café torréifié
+it:Caffé torrefatti
 nl:Gebrande koffies, Gebrande koffie
 wikidata:en:Q1357168
 
@@ -4309,7 +4651,7 @@ es:Aguas, aguas embotelladas, agua embotellada
 fi:vedet
 fr:Eaux, eau, eaux en bouteilles, eau en bouteille
 hu:Vízek
-it:Acque, acqua, acque in bottiglia, acqua in bottiglia
+it:Acque, Acque in bottiglia
 nl:Waters, Water
 pt:Águas, águas engarrafadas, água engarrafada
 ru:Вода
@@ -4324,6 +4666,7 @@ en:Drinking water
 de:Trinkwasser
 fr:Eau potable
 hu:Ívóvízek
+it:Acque potabili
 nl:Drinkwaters, Drinkwater
 ru:Питьевая вода, вода питьевая
 zh:饮用水
@@ -4337,7 +4680,7 @@ es:Aguas carbonatadas, Agua carbonatada
 fi:hiilihapotetut vedet
 fr:Eaux gazeuses, eau gazeuse, eaux pétillantes, eau pétillante
 hu:Szénsavas vízek
-it:Acque frizzanti, acqua frizzante
+it:Acque frizzanti
 nl:Koolzuurhoudende waters, Koolzuurhoudend water
 pl:Woda gazowana
 ru:Газированная вода
@@ -4353,7 +4696,7 @@ es:Aguas minerales
 fi:kivennäisvedet
 fr:Eaux minérales, eau minérale
 hu:Ásványvízek
-it:Acque minerali, acqua minerale
+it:Acque minerali
 nl:Mineraalwaters, Mineraalwater, Mineraal water
 pt:Água Mineral
 ru:Минеральная вода, Минеральные воды, Минералка
@@ -4367,6 +4710,7 @@ de:Mineralwasser mit Kohlensäure, Mineralwässer mit Kohlensäure
 es:Aguas minerales carbonatadas
 fi:hiilihapotetut kivennäisvedet
 fr:Eaux minérales gazeuses, eau minérale gazeuse, eaux minérales pétillantes, eau minérale pétillante
+it:Acque minerali gassate, Acque minerali frizzanti, Acque minerali con aggiunta di anidride carbonica
 nl:Koolzuurhoudende mineraalwaters
 pl:woda mineralna gazowana
 ru:Газированная минеральная вода, Минеральная газированная вода
@@ -4379,6 +4723,7 @@ de:natürliches Mineralwasser, natürliche Mineralwässer
 es:Aguas minerales naturales
 fi:luonnolliset kivennäisvedet
 fr:Eaux minérales naturelles, eau minérale naturelle
+it:Acque minerali naturali
 nl:Natuurlijke mineraalwaters, Natuurlijk mineraalwater
 ru:Природная минеральная вода
 zh:天然矿泉水, 天然矿物质水
@@ -4390,6 +4735,7 @@ de:natürliches Mineralwasser mit Kohlensäure versetzt, natürliche Mineralwäs
 es:Aguas minerales naturales carbonatadas.
 fi:hiilihapotetut luontaiset kivennäisvedet
 fr:Eau minérale naturelle gazéifiée
+it:Acque minerali naturali gassate, Acque minerali naturali frizzanti, Acque minerali naturali con aggiunta di anidride carbonica
 nl:Met koolzuur versterkte mineraalwaters, Met koolzuur versterkt mineraalwater
 
 <en:Carbonated natural mineral waters
@@ -4397,6 +4743,7 @@ en:Mildly carbonated natural mineral water
 de:natürliches Mineralwasser mit wenig Kohlensäure versetzt, natürliche Mineralwässer mit wenig Kohlensäure versetzt
 fi:kevyesti hiilihapotettu luonnollinen kivennäisvesi
 fr:Eau minérale naturelle légèrement gazéifiée
+it:it:Acque minerali naturali leggermente gassate, Acque minerali naturali leggermente frizzanti
 nl:Met weinig koolzuur versterkte mineraalwaters, Met weinig koolzuur versterkt mineraalwater
 
 <en:Natural mineral waters
@@ -4404,6 +4751,7 @@ en:Non-carbonated natural mineral waters
 de:natürliches Mineralwasser ohne Kohlensäure, natürliche Mineralwässer ohne Kohlensäure, stilles natürliches Mineralwasser, stille natürliche Mineralwässer
 fi:hiilihapottamattomat luontaiset kivennäisvedet
 fr:Eau minérale naturelle non gazeuse
+it:Acque minerali naturali non gassate, Acque minerali naturali non frizzanti
 nl:Koolzuurvrije natuurlijke mineraalwaters, Koolzuurvrij natuurlijk mineraalwater, Natuurlijke mineraalwaters zonder koolzuur
 
 <en:Waters
@@ -4415,7 +4763,7 @@ es:Aguas de manantial
 fi:lähdevedet
 fr:Eaux de sources, Eau de source
 hu:Forrás vízek
-it:Acque di sorgente, acqua di sorgente
+it:Acque di sorgente
 nl:Bronwaters, Bronwater
 zh:泉水
 wikidata:en:Q3046697
@@ -4425,6 +4773,7 @@ wikidata:en:Q3046697
 en:Table waters
 de:Tafelwasser, Tafelwässer
 fr:Eaux de table
+it:Acque da tavola
 nl:Tafelwaters, Tafelwater
 wikidata:de:Q1168872
 
@@ -4432,6 +4781,7 @@ wikidata:de:Q1168872
 en:Medicinal waters
 de:Heilwasser, Heilwässer
 fr:Eaux médicinales
+it:Acque curative, Acque medicinali
 nl:Geneeskrachtige waters, Geneeskrachtig water
 zh:药用水, 愈合水
 wikidata:de:Q592892
@@ -4441,7 +4791,7 @@ en:Flavored waters, Flavored water
 de:Wasser mit Geschmack, Wässer mit Geschmack
 fi:maustetut vedet
 fr:Eaux aromatisées, eau aromatisée
-it:Acque aromatizzate, acqua aromatizzata
+it:Acque aromatizzate, Acque con aromi
 nl:Gearomatiseerde waters, Gearomatiseerd water, Waters met smaak, Water met smaak
 pl:Wody smakowe, woda smakowa
 ro:Ape aromate, Ape cu arome, Apă aromată
@@ -4450,19 +4800,21 @@ ro:Ape aromate, Ape cu arome, Apă aromată
 en:Unsweetened flavored waters, non-sweetened flavored waters, non-sugared flavored waters
 de:Zuckerfreies Wasser mit Geschmack
 fr:Eaux aromatisées sans sucre ajouté, eau aromatisée sans sucre ajouté, eaux aromatisées non sucrées, eau aromatisée non sucrée
+it:Acque aromatizzate senza zucchero, Acque con aromi senza zucchero, Acque aromatizzate senza zuccheri aggiunti, Acque con aromi senza zuccheri aggiunti
 nl:Suikervrije waters, Suikervrij water
 
 <en:Flavored waters
 <en:Sparkling waters
 en:Flavored sparkling waters, Sparkling flavored waters
 fr:Eaux gazeuses aromatisées, eux aromatisées gazeuses
-it:Acque gassate aromatizzate, acqua aromatizzata gassata
+it:Acque gassate aromatizzate, Acque gassate con aromi, Acque frizzanti aromatizzate, Acque frizzanti con aromi
 
 <en:Mountain products
 <en:Waters
 en:Mountain waters, Mountain water
 de:Bergwasser, Bergwässer
 fr:Eaux de montagne, eau de montagne
+it:Acque di montagna
 nl:Bergwaters, Bergwater
 
 <en:Alcoholic beverages
@@ -4488,6 +4840,7 @@ wikidata:en:Q282
 <en:Wines
 en:Wine without geographic indication
 fr:Vin sans indication géographique, VSIG (Vin sans indication géographique), VSIG
+it:Vini senza indicazione geografica, Vini privi di indicazione geografica
 nl:Wijnen zonder geografische oorsprong indicatie
 
 <en:Wines
@@ -17625,6 +17978,7 @@ oqali_family:en: fr:Aperitifs a croquer - Gressins
 
 <en:Breadsticks
 es:Picos de pan, Picos
+it:Grissinetti
 wikidata:en:Q6075158
 
 <en:Breads
@@ -21399,7 +21753,7 @@ es:Productos fermentados de la leche
 fi:fermentoidut maitotuotteet
 fr:Produits laitiers fermentés
 hu:Fermentált tejtermékek, Erjesztett tejtermékek
-it:Prodotti lattiero-caseari fermentati, Alimenti caseari fermentati, Prodotti lattiero-caseari fermentati, Prodotti a base di latte fermentato, Prodotti caseari fermentati, latticini fermentati
+it:Prodotti lattiero-caseari fermentati, Alimenti caseari fermentati, Prodotti lattiero-caseari fermentati, Prodotti a base di latte fermentato, Prodotti caseari fermentati, Latticini fermentati
 nl:Gefermenteerde zuivelproducten
 pt:Produtos lácteos fermentados
 ru:Кисломолочные продукты
@@ -21416,7 +21770,7 @@ es:Bebidas de leche fermentada
 fi:fermentoidut maitojuomat
 fr:Boissons lactées fermentées
 hu:Erjesztett tejitalok
-it:Bevande al latte fermentate
+it:Bevande fermentate al latte, Bevande fermentate a base di latte
 nl:Gefermenteerde zuiveldranken
 pt:Bebidas lácteas fermentadas
 ru:Кисломолочные напитки
@@ -21427,6 +21781,7 @@ de:Kefir
 fi:piimä
 fr:Kéfir, Képhir
 hu:Kefir
+it:Kefir
 nl:Kefir
 ro:Kefir
 ru:Кефир
@@ -21437,6 +21792,7 @@ wikidata:en:Q185749
 en:Kefir 1 %
 de:Kefir 1 %
 fr:Kéfir 1 %
+it:Kefir 1 %
 ro:Kefir 1 %
 ru:Кефир 1 %, Кефир 1%, Кефир 1.0 %
 
@@ -21444,6 +21800,7 @@ ru:Кефир 1 %, Кефир 1%, Кефир 1.0 %
 en:Kefir 2.5 %
 de:Kefir 2.5 %
 fr:Kéfir 2,5 %
+it:Kefir 2,5 %
 ro:Kefir 2,5 %
 ru:Кефир 2.5 %, Кефир 2.5%
 
@@ -21451,6 +21808,7 @@ ru:Кефир 2.5 %, Кефир 2.5%
 en:Kefir 3.2 %
 de:Kefir 3.2 %
 fr:Kéfir 3,2 %
+it:Kefir 3,2 %
 ro:Kefir 3,2 %
 ru:Кефир 3.2 %, Кефир 3.2%, Кефир с массовой долей жира 3.2 %
 
@@ -21459,23 +21817,27 @@ ru:Кефир 3.2 %, Кефир 3.2%, Кефир с массовой долей 
 en:Kefir for children, Kefir for babies
 de:Kefir für Babies
 fr:Kéfir pour bébés, Kéfir pour la nourriture pour bébés
+it:Kefir per bambini, Kefir per neonati
 ro:Kefir pentru bebeluși
 ru:Кефир для детского питания
 
 <en:Fermented milk drinks
 en:Sana
+it:Sana
 ro:Sana
 
 <en:Fermented milk drinks
 en:Doogh and ayran
 de:Dugh und Ayran
 fr:Ayrans et doughs
+it:Dough e ayran
 nl:Doogh en Ayran
 ru:Тан и айран
 
 <en:Doogh and ayran
 en:Doogh
 de:Dugh
+it:Dough
 ru:Тан
 wikidata:en:Q1264142
 
@@ -21483,6 +21845,7 @@ wikidata:en:Q1264142
 en:Ayran
 de:Ayran
 fr:Ayrans
+it:Ayran
 nl:Ayran
 ru:Айран
 wikidata:en:Q192892
@@ -21492,6 +21855,7 @@ wikidata:en:Q192892
 en:Canned cheeses
 de:Dosenkäse, Käsekonserve
 fr:Fromages en conserve
+it:Formaggi in scatola
 hu:Konzerv sajtok, Konzerves sajtok
 nl:Kazen in blik
 
@@ -21508,6 +21872,7 @@ en:Smoked cheeses
 de:Räucherkäse, Geräucherter Käse
 fr:Fromages fumés
 hu:Füstölt sajtok
+it:Formaggi affumicati
 nl:Gerookte kazen, Rookkaas
 wikidata:en:Q2632885
 
@@ -21525,6 +21890,7 @@ es:Quesos en lonchas
 fi:siivutetut juustot
 fr:Fromages en tranches, tranches de fromage, tranches de fromages
 hu:Szeletel sajtok
+it:Formaggi a fette
 nl:Kazen in plakjes
 #previous german word "Schnittkäse" means it's easy to slice but not that it's already sliced
 
@@ -21571,7 +21937,7 @@ ia:Caseo
 id:keju
 io:Fromajo
 is:Ostur
-it:Formaggi, formaggio
+it:Formaggi, Formaggio
 ja:チーズ
 jv:Kèju
 ka:ყველი
@@ -21610,10 +21976,12 @@ pnns_group_2:en:Cheese
 fr:Fromages pour enfants
 de:Käse für Kinder
 hu:Sajtok gyerekeknek
+it:Formaggi per bambini
 
 <en:Cheeses
 en:Brined cheeses
 fr:Fromages saumurés
+it:Formaggi in salamoia
 nl:Gepeklde kazen
 ru:Рассольные сыры
 
@@ -21623,6 +21991,7 @@ en:Artisan cheeses
 de:Handgefertigter Käse
 fr:Fromages artisanaux, fromage artisanal
 hu:Kézműves sajtok
+it:Formaggi artigianali
 nl:Ambachtelijke kazen
 
 <en:Cheeses
@@ -21631,6 +22000,7 @@ de:Blauschimmelkäse, Blaukäse
 fi:sinihomejuustot
 fr:Fromages à pâte persillée, pâtes à moisissure interne, bleus
 hu:Kék satjtok
+it:Formaggi erborinati, Formaggi a pasta erborinata, Formaggi verdi, Formaggi blu
 nl:Blauwschimmelkazen
 wikidata:en:Q746471
 
@@ -21639,12 +22009,14 @@ en:French blue-veined cheeses
 de:Französischer Blauschimmelkäse
 fi:ranskalaiset sinihomejuustot
 fr:Fromages à pâte persillée français, pâtes à moisissure interne français, bleus français
+it:Formaggi erborinati francesi, Formaggi erborinati della Francia
 nl:Franse blauwschimmelkazen
 
 <en:French blue-veined cheeses
 <en:Cow cheeses
 fr:Bleus d'Auvergne
 de:Bleu d'Auvergne
+it:Bleu d'Auvergne
 nl:Bleus d'Auvergne
 wikidata:en:Q883954
 country:en:France
@@ -21652,57 +22024,69 @@ country:en:France
 <en:French blue-veined cheeses
 fr:Bleus de Gex, bleus du Haut-Jura, bleus de Septmoncel
 de:Bleu du Haut Jura, Bleu de Gex
+it:Bleu de Gex Haut-Jura, Bleu de Septmoncel
 wikidata:en:Q1231078
 
 <en:French blue-veined cheeses
 fr:Bleus de Laqueuille
+it:Bleu de Laqueuille
 wikidata:en:Q478725
 
 <en:French blue-veined cheeses
 fr:Bleus de Termignon
+it:Bleu de Termignon
 wikidata:en:Q883926
 
 <en:French blue-veined cheeses
 fr:Bleus des Causses, bleu de l'Aveyron
+it:Bleu des Causses, Bleu de l'Aveyron
 wikidata:en:Q883938
 
 <en:French blue-veined cheeses
 fr:Bleus du Vercors, bleu de Sassenage, Bleu du Vercors-Sassenage
+it:Bleu du Vercors-Sassenage
 wikidata:en:Q767952
 
 <en:French blue-veined cheeses
 fr:Carrés d'Aurillac, Bleus d'Aurillac
+it:Carré d'Aurillac, Bleu d'Aurillac
 wikidata:en:Q2940381
 
 <en:French blue-veined cheeses
 <en:French cheeses
 fr:Fourme d'Ambert
+it:Fourme d'Ambert
 wikidata:en:Q1245530
 country:en:France
 
 <en:French cheeses
 <en:French blue-veined cheeses
 fr:Fourme de Montbrison
+it:Fourme de Montbrison
 wikidata:en:Q1245441
 country:en:France
 
 <en:French blue-veined cheeses
 fr:Fromages de pays
+it:Fromage de pays
 wikidata:en:Q3088315
 
 <en:French blue-veined cheeses
 fr:Rochebarron
+it:Rochebaron
 wikidata:en:Q2797509
 
 <en:French blue-veined cheeses
 <en:Sheep Cheeses
 fr:Roqueforts
+it:Roquefort
 wikidata:en:Q189221
 country:en:France
 oqali_family:en: fr:Fromages - Roquefort
 
 <en:French blue-veined cheeses
 fr:Tignard
+it:Tignard
 wikidata:en:Q3528329
 
 <en:Blue-veined cheeses
@@ -21726,7 +22110,7 @@ es:Quesos De Vaca, Quesos De Leche De Vaca
 fi:Lehmänmaitojuustot
 fr:Fromages de vache, fromages au lait de vache
 hu:Tehén sajt
-it:Formaggio vaccino
+it:Formaggi vaccini, Formaggi di mucca, Formaggi di latte di mucca
 nl:Koemelkkazen, Koemelkkaas
 pl:Ser krowi, Sery na bazie mleka krowiego
 pt:Queijos de vaca, Queijos com leite de vaca
@@ -21763,6 +22147,7 @@ wikidata:en:Q1591487
 <en:Soft cheeses with bloomy rind
 fr:Coulommiers
 hu:Coulommiers sajt
+it:Coulommiers
 wikidata:en:Q774297
 oqali_family:en: fr:Fromages - Coulommiers
 
@@ -21773,6 +22158,7 @@ en:Bries
 de:Brie
 fi:Brie-juustot
 fr:Bries, pointes de brie, pointes de bries, pointe de bries, pointe de brie, brie
+it:Brie
 nl:Bries, Brie
 pl:Sery Brie, ser Brie
 wikidata:en:Q193411
@@ -21783,6 +22169,7 @@ oqali_family:en: fr:Fromages - Brie
 <en:Soft cheeses with bloomy rind
 en:Saint-Félicien cheese
 fr:Saint-Félicien
+it:Saint-Félicien, Saint Félicien, Saint-Felicien, Saint Felicien
 nl:Saint-Félicien
 wikidata:en:Q1237731
 oqali_family:en: fr:Fromages - Saint marcellin et assimiles
@@ -21795,6 +22182,7 @@ es:Queso Cheddar, Cheddar
 fi:cheddarjuusto
 fr:Cheddars, Cheddar
 hu:Cheddar sajt
+it:Cheddar
 nl:Cheddars, Cheddar
 wikidata:en:Q217525
 
@@ -21803,6 +22191,7 @@ en:Mature cheddar
 de:Reifer Cheddar, Gereifter Cheddar
 fr:Cheddar mûr
 hu:Érett Ceddar sajt
+it:Cheddar maturo
 nl:Rijpe cheddars, Rijpe cheddar
 
 <en:Cheddar cheese
@@ -21810,6 +22199,7 @@ en:Extra-mature cheddar
 de:Extra Reifer Cheddar
 fr:Cheddar extra-mature
 hu:Extra érett ceddar sajt
+it:Cheddar extra maturo
 nl:Extra-rijpe cheddar
 
 <en:Cheddar cheese
@@ -21817,6 +22207,7 @@ en:Mild cheddar
 de:Milder Cheddar, Junger Cheddar
 fi:mieto cheddar
 fr:Cheddar doux
+it:Cheddar dolce, Mild cheddar
 nl:Milde cheddar
 
 <en:Cheddar cheese
@@ -21824,6 +22215,7 @@ nl:Milde cheddar
 en:Cheddar slices
 de:Cheddar in Scheiben
 fr:Cheddar en tranches
+it:Cheddar a fette
 hu:Szeletelt cheddar sajt
 nl:Cheddarplakken
 
@@ -21833,42 +22225,50 @@ nl:Cheddarplakken
 fr:Mimolettes, vieux Hollande, boule de Lille
 de:Mimolette
 hu:Mimolettes sajtok
+it:Mimolette
 nl:Mimolettes, Commissiekazen
 wikidata:en:Q749121
 oqali_family:en: fr:Fromages - Mimolette
 
 <en:Cheeses
 en:String cheeses
+it:Formaggi a stringa
 
 <en:Brined cheeses
 <en:String cheeses
 en:Chechil
+it:Chechil
 ru:Чечил
 wikidata:en:Q4515355
 
 <en:Chechil
 en:Smoked chechil
 fr:Chechil fumé
+it:Chechil affumicato
 ru:Чечил копчёный
 
 <fr:Mimolettes
 en:Half-aged mimolettes
 fr:Mimolettes demi-vieilles
+it:Mimolette a medio invecchiamento
 nl:Belegen mimolette
 
 <fr:Mimolettes
 en:Extra old mimolettes
 fr:Mimolettes extra vieilles
+it:Mimolette stravecchie
 nl:Extra oude mimolette
 
 <fr:Mimolettes
 en:Young mimolettes
 fr:Mimolettes jeunes
+it:Mimolette giovani
 nl:Jonge mimolette
 
 <fr:Mimolettes
 en:Old mimolettes
 fr:Mimolettes vieilles
+it:Mimolette invecchiati
 nl:Oude mimolette
 wikidata:en:Q643697
 
@@ -21878,6 +22278,7 @@ wikidata:en:Q643697
 en:Munsters
 de:Münsterkäse
 fr:Munsters
+it:Munster
 nl:Munster
 wikidata:en:Q765540
 oqali_family:en: fr:Fromages - Munster
@@ -21887,6 +22288,7 @@ oqali_family:en: fr:Fromages - Munster
 en:Munsters with raw milk
 de:Münsterkäse mit Rohmilch
 fr:Munsters au lait cru
+it:Munster di latte crudo
 nl:Rauwmelkse Munster
 
 <en:Munsters
@@ -21894,10 +22296,12 @@ nl:Rauwmelkse Munster
 en:Pasteurised milk Munsters
 de:Münsterkäse mit pasteurisierter Milch
 fr:Munsters au lait pasteurisé
+it:Munster di latte pastorizzato
 nl:Gepasteuriseerde Munster
 
 <en:Munsters
 fr:Petits Munsters, Petit Munster
+it:Petit Munster
 
 <en:French cheeses
 <fr:Camemberts au lait cru
@@ -21905,6 +22309,7 @@ en:Camemberts de Normandie, Camemberts from Normandy
 de:Camembert de Normandie
 fi:normandian camembertit
 fr:Camemberts de Normandie, Camembert de Normandie
+it:Camembert di Normandia
 nl:Camembert uit Normandië
 wikidata:en:Q1086855
 
@@ -21916,6 +22321,7 @@ es:Camemberts
 fi:Camembertit
 fr:Camemberts
 hu:Camembertek, camembert sajtok
+it:Camembert
 nl:Camemberts
 wikidata:en:Q131480
 oqali_family:en: fr:Fromages - Camembert
@@ -21926,12 +22332,14 @@ en:Camembert made with raw milk
 de:Camembert aus Rohmilch, Rohmilch-Camembert
 fi:Camembert raakamaidosta
 fr:Camemberts au lait cru
+it:Camembert di latte crudo
 nl:Rauwmelkse camemberts
 
 <en:Camemberts
 en:Camemberts from microfiltered milk
 de:Camembert aus mikrofiltrierter Milch
 fr:Camemberts au lait microfiltré
+it:Camembert di latte microfiltrato
 nl:Camemberts van gemicrofiltreerde melk
 
 <en:Camemberts
@@ -21939,6 +22347,7 @@ nl:Camemberts van gemicrofiltreerde melk
 en:Camemberts from thermized milk
 de:Camembert aus thermisierter Milch
 fr:Camemberts au lait thermisé
+it:Camembert di latte termizzato
 nl:Camemberts op basis van gethermiseerde melk
 
 <en:Camemberts
@@ -21949,6 +22358,7 @@ es:Camembert pasteurizado
 fi:pastörisoitu camambert
 fr:Camemberts pasteurisés, camembert pasteurisé
 hu:Pasztőrözött camembert
+it:Camembert di latte pastorizzato
 nl:Gepasteuriseerde camemberts
 wikidata:en:Q47472053
 
@@ -21956,6 +22366,7 @@ wikidata:en:Q47472053
 en:Camembert with Calvados
 de:Camembert mit Calvados
 fr:Camembert au calvados
+it:Camembert al Calvados
 nl:Camembert met Calvados
 wikidata:en:Q2934743
 
@@ -21968,7 +22379,7 @@ es:Emmental
 fi:Emmental
 fr:Emmentals, emmenthal, emmentaler
 hu:Ementáli
-it:Emmental, emmenthal, emmentaler
+it:Emmental, Emmenthal, Emmentaler
 nl:Emmentalers
 wikidata:en:Q932214
 oqali_family:en: fr:Fromages - Emmental
@@ -21977,6 +22388,7 @@ oqali_family:en: fr:Fromages - Emmental
 <en:Cheeses from Switzerland
 fr:Emmentals suisses
 de:Schweizer Emmentaler
+it:Emmental svizzeri, Emmental della Svizzera, Emmentaler svizzeri, Emmentaler della Svizzera
 nl:Zwiterse kazen
 Country:en:Switzerland
 
@@ -21987,6 +22399,7 @@ en:Swiss Gruyères
 de:Greyerzer
 fi:sveitsiläiset Gruyèret
 fr:Gruyères suisses, Gruyères suisses AOP, Gruyères AOP
+it:Gruviere svizzere, Gruviere della Svizzera
 nl:Zwitserse Gruyère
 Country:en:Switzerland
 wikidata:en:Q2376488
@@ -21996,6 +22409,7 @@ wikidata:en:Q2376488
 en:Appenzeller cheese
 de:Appenzeller
 fr:Appenzeller
+it:Appenzeller
 nl:Appenzeller
 Country:en:Switzerland
 wikidata:en:Q620951
@@ -22005,6 +22419,7 @@ wikidata:en:Q620951
 <en:Uncooked pressed cheeses
 fr:Vacherin fribourgeois
 de:Vacherin fribourgeois
+it:Vacherin fribourgeois
 wikidata:en:Q677647
 
 <en:Cheeses from Switzerland
@@ -22013,6 +22428,7 @@ wikidata:en:Q677647
 <en:Half-cooked pressed cheeses
 fr:Têtes de Moine, Tête de Moine
 de:Tête de Moine
+it:Tête de Moine, Tete de Moine
 wikidata:en:Q687579
 
 <en:Emmentaler
@@ -22021,6 +22437,7 @@ en:Grated emmentaler
 de:Geriebener Emmentaler
 fi:raastettu emmental
 fr:Emmentals râpés
+it:Emmental grattuggiati, Emmentaler grattuggiati
 nl:Gemalen emmentalers
 
 <en:Emmentaler
@@ -22030,6 +22447,7 @@ de:Französischer Emmentaler
 fi:ranskalainen emmental
 fr:Emmentals français
 hu:Francia ementálé
+it:Emmental francesi, Emmental della Francia
 nl:Franse emmentalers
 Country:en:France
 
@@ -22037,11 +22455,13 @@ Country:en:France
 en:Emmentals of Savoy
 de:Emmentaler aus Savoy
 fr:Emmentals de Savoie
+it:Emmental della Savoia
 nl:Emmental uit de Savoie
 Country:en:France
 
 <en:French emmentaler
 fr:Emmentals français est-central
+it:Emmental français est-central
 Country:en:France
 
 <en:Cow cheeses
@@ -22051,7 +22471,7 @@ en:Pont-l'évêque
 de:Pont-l'évêque
 es:Pont-l'évêque
 fr:Pont-l'évêque
-it:Pont-l'évêque
+it:Pont-l'Évêque, Pont-l'Eveque
 nl:Pont-l'Évêque
 country:en:France
 wikidata:en:Q1233145
@@ -22061,6 +22481,7 @@ wikidata:en:Q1233145
 <en:French cheeses
 fr:Reblochons, Reblochon, Reblochons de Savoie, Reblochon de Savoie
 de:Reblochon
+it:Reblochon, Reblochon di Savoia
 wikidata:en:Q543805
 country:en:France
 oqali_family:en: fr:Fromages - Reblochon
@@ -22069,6 +22490,7 @@ oqali_family:en: fr:Fromages - Reblochon
 <en:Soft cheeses with bloomy rind
 <en:French cheeses
 fr:Pérail
+it:Pérail, Perail
 
 <en:Cheeses
 en:Greek cheeses, cheeses from Greece
@@ -22077,6 +22499,7 @@ es:Quesos griegos, quesos de Grecia
 fi:kreikkalaiset juustot
 fr:Fromages de Grèce, Fromages grecs
 hu:Görög sajtok
+it:Formaggi greci, Formaggi della Grecia
 nl:Griekse kazen
 wikidata_category:en:Q6808711
 
@@ -22087,92 +22510,113 @@ el:Feta
 fi:feta
 fr:Feta
 hu:Feta sajtok
+it:Feta
 nl:Fetas, Feta's
 wikidata:en:Q182760
 
 <en:Greek cheeses
 el:Anevato
+it:Anevato
 country:en:Greece
 
 <en:Greek cheeses
 el:Batzos
+it:Batzos
 country:en:Greece
 
 <en:Greek cheeses
 el:Formaella Arachovas Parnassou
+it:Formaella Arachovas Parnassou
 country:en:Greece
 
 <en:Greek cheeses
 el:Galotyri
+it:Galotyri
 country:en:Greece
 
 <en:Greek cheeses
 el:Graviera Agrafon
+it:Graviera Agrafon
 country:en:Greece
 
 <en:Greek cheeses
 el:Graviera Kritis
+it:Graviera Kritis
 country:en:Greece
 
 <en:Greek cheeses
 el:Graviera Naxou
+it:Graviera Naxou
 country:en:Greece
 
 <en:Greek cheeses
 el:Kalathaki Limnou
+it:Kalathaki Limnou
 country:en:Greece
 
 <en:Greek cheeses
 el:Kasseri
+it:Kasseri
 country:en:Greece
 
 <en:Greek cheeses
 el:Katiki Domokou
+it:Katiki Domokou
 country:en:Greece
 
 <en:Greek cheeses
 el:Kefalograviera
+it:Kefalograviera
 country:en:Greece
 wikidata:en:Q1232535
 
 <en:Greek cheeses
 el:Kopanisti, Κοπανιστή
+it:Kopanisti, Kopanisti Mykonou
 country:en:Greece
 
 <en:Greek cheeses
 el:Ladotyri Mytilinis
+it:Ladotyri Mytilinis
 country:en:Greece
 
 <en:Greek cheeses
 de:Manouri
 el:Manouri
 fr:Manouri
+it:Manouri
 country:en:Greece
 wikidata:en:Q94606
 
 <en:Greek cheeses
 el:Metsovone
+it:Metsovone
 country:en:Greece
 wikidata:en:Q1223811
 
 <en:Greek cheeses
 el:Pichtogalo Chanion
+it:Pichtogalo Chanion
 country:en:Greece
 
 <en:Greek cheeses
 el:San Michali
+it:San Michali
 country:en:Greece
 
 <en:Greek cheeses
 el:Sfela
+it:Sfela
 country:en:Greece
 
 <en:Greek cheeses
 el:Xygalo Siteias, Xigalo Siteias, Ξύγαλο Σητείας, Ξίγαλο Σητείας
+it:Xygalo Siteias
 country:en:Greece
 
 <en:Greek cheeses
 el:Xynomyzithra Kritis
+it:Xynomyzithra Kritis
 country:en:Greece
 
 <en:Cheeses
@@ -22194,6 +22638,7 @@ es:Quesos Franceses, Quesos De Francia
 fi:Ranskalaiset juustot
 fr:Fromages de France, Fromages français
 hu:Francia sajtok
+it:Formaggi francesi, Formaggi della Francia
 nl:Franse kazen
 pl:Sery francuskie, sery z Francji
 pt:Queijos franceses, queijos da França
@@ -22203,6 +22648,7 @@ wikidata:en:Q2223649
 <en:Goat cheeses
 en:Valençay cheese
 fr:Valençay (fromage)
+it:Valençay, Valencay
 nl:Velençay kaas
 wikidata:en:Q659277
 
@@ -22210,6 +22656,7 @@ wikidata:en:Q659277
 <en:Goat cheeses
 en:Cabécous
 fr:Cabécous, Cabécou
+it:Cabécou, Cabecou
 nl:Cabécou
 wikidata:en:Q954122
 oqali_family:en: fr:Fromages - Crottin de chevre
@@ -22219,55 +22666,66 @@ en:Cheeses from Corsica
 de:Käse aus Korsika
 fr:Fromages de Corse
 hu:Korzikai sajtok
+it:Formaggi corsi, Formaggi della Corsica
 nl:Kazen uit Corsica
 
 <en:French cheeses
 fr:Abondance
+it:Abondance
 country:en:France
 
 <en:French cheeses
 <en:Soft cheese with a natural rind
 <en:Goat cheeses
 fr:Banon
+it:Banon
 country:en:France
 
 <en:French cheeses
 <en:Cooked pressed cheeses
 fr:Beaufort
+it:Beaufort
 country:en:France
 
 <en:French cheeses
 fr:Bleu des Causses
+it:Bleu des Causses
 country:en:France
 
 <en:French cheeses
 fr:Bleu du Haut-Jura, Bleu de Gex, Bleu de Septmoncel
+it:Bleu de Gex Haut-Jura, Bleu de Septmoncel
 country:en:France
 
 <en:French cheeses
 <en:Bries
 fr:Brie de Meaux, Bries de Meaux
+it:Brie de Meaux
 country:en:France
 
 <en:French cheeses
 <en:Bries
 fr:Brie de Melun, Bries de Melun
+it:Brie de Melun
 country:en:France
 
 <en:French cheeses
 fr:Brocciu Corse, Brocciu
+it:Brocciu Corse, Brocciu corso, Brocciu
 country:en:France
 
 <en:French cheeses
 <en:Uncooked pressed cheeses
 <en:Cow cheeses
 fr:Cantal, fourme de Cantal, cantalet, Cantals
+it:Cantal, Forme de Cantal
 country:en:France
 
 <en:French cheeses
 <en:Soft cheese with a natural rind
 <en:Goat cheeses
 fr:Chabichous du Poitou, Chabichou du Poitou
+it:Chabichou du Poitou
 country:en:France
 oqali_family:en: fr:Fromages - Crottin de chevre
 
@@ -22275,24 +22733,28 @@ oqali_family:en: fr:Fromages - Crottin de chevre
 <en:Soft cheeses with bloomy rind
 <en:Cow cheeses
 fr:Chaource
+it:Chaource
 country:en:France
 
 <en:French cheeses
 <en:Soft cheeses with bloomy rind
 <en:Goat cheeses
 fr:Fromages charolais
+it:Formaggi charolais
 country:en:France
 
 <en:French cheeses
 <en:Uncooked pressed cheeses
 <en:Goat cheeses
 fr:Chevrotins, Chevrotin
+it:Chevrotin
 country:en:France
 
 <en:French cheeses
 <en:Soft cheese with a natural rind
 <en:Goat cheeses
 fr:Crottins de Chavignol, Crottin de Chavignol, Chavignol
+it:Crottin de Chavignol, Chavignol
 country:en:France
 wikidata:en:Q249873
 
@@ -22301,6 +22763,7 @@ wikidata:en:Q249873
 <en:Cow cheeses
 en:Époisses de Bourgogne, Epoisses de Bourgogne, Époisses
 fr:Époisses, Epoisses
+it:Époisses de Bourgogne, Epoisses de Bourgogne, Époisses, Epoisses
 nl:Époisse uit de Bourgogne
 country:en:France
 wikidata:en:Q1231414
@@ -22311,44 +22774,52 @@ wikidata:en:Q1231414
 en:French Gruyères
 de:Gruyères français, Gruyère français
 fr:Gruyères français, Gruyère français, Gruyères de France, Gruyères IGP
+it:Gruviere francesi, Gruviere della Francia
 nl:Gruyère uit Frankrijk, Franse Gruyère
 country:en:France
 wikidata:en:Q3118260
 
 <en:French cheeses
 fr:Laguiole
+it:Laguiole
 country:en:France
 
 <en:French cheeses
 <en:Soft cheeses with washed rind
 fr:Langres
+it:Langres
 country:en:France
 
 <en:Goat cheeses
 <en:Soft cheese with a natural rind
 <en:French cheeses
 fr:Mâconnais
+it:Mâconnais, Maconnais
 country:en:France
 
 <en:French cheeses
 <en:Uncooked pressed cheeses
 <en:Cow cheeses
 fr:Morbiers
+it:Morbier
 country:en:France
 wikidata:en:Q177727
 
 <en:French cheeses
 fr:Munster, Munster-Géromé
+it:Munster, Munster-Géromé
 country:en:France
 
 <en:French cheeses
 fr:Neufchâtel
+it:Neufchâtel, Neufchatel
 country:en:France
 
 <en:French cheeses
 <en:Uncooked pressed cheeses
 <en:Sheep Cheeses
-fr:Ossau-lraty
+fr:Ossau-iraty
+it:Ossau-iraty
 country:en:France
 wikidata:en:Q520598
 
@@ -22356,6 +22827,7 @@ wikidata:en:Q520598
 <en:Soft cheese with a natural rind
 <en:French cheeses
 fr:Pélardon
+it:Pélardon, Pelardon
 country:en:France
 wikidata:en:Q965981
 oqali_family:en: fr:Fromages - Crottin de chevre
@@ -22364,6 +22836,7 @@ oqali_family:en: fr:Fromages - Crottin de chevre
 <en:Soft cheese with a natural rind
 <en:French cheeses
 fr:Picodon
+it:Picodon
 country:en:France
 wikidata:en:Q1245576
 oqali_family:en: fr:Fromages - Crottin de chevre
@@ -22372,6 +22845,7 @@ oqali_family:en: fr:Fromages - Crottin de chevre
 <en:Soft cheese with a natural rind
 <en:French cheeses
 fr:Pouligny-Saint-Pierre
+it:Pouligny-Saint-Pierre
 country:en:France
 wikidata:en:Q640839
 
@@ -22379,6 +22853,7 @@ wikidata:en:Q640839
 <en:Soft cheeses with bloomy rind
 <en:French cheeses
 fr:Rigotte de Condrieu
+it:Rigotte de Condrieu
 country:en:France
 wikidata:en:Q2089007
 oqali_family:en: fr:Fromages - Crottin de chevre
@@ -22388,6 +22863,7 @@ oqali_family:en: fr:Fromages - Crottin de chevre
 <en:French cheeses
 en:Rocamadour
 fr:Rocamadour
+it:Rocamadour
 country:en:France
 wikidata:en:Q768189
 oqali_family:en: fr:Fromages - Crottin de chevre
@@ -22396,6 +22872,7 @@ oqali_family:en: fr:Fromages - Crottin de chevre
 <en:Soft cheese with a natural rind
 <en:French cheeses
 fr:Sainte-Maure de Touraine
+it:Sainte-Maure de Touraine
 country:en:France
 wikidata:en:Q652628
 
@@ -22403,6 +22880,7 @@ wikidata:en:Q652628
 <en:Soft cheeses with bloomy rind
 <en:French cheeses
 fr:Saint-Marcellin
+it:Saint-Marcellin, Saint Marcellin
 country:en:France
 wikidata:en:Q510126
 oqali_family:en: fr:Fromages - Saint marcellin et assimiles
@@ -22411,6 +22889,7 @@ oqali_family:en: fr:Fromages - Saint marcellin et assimiles
 <en:Uncooked pressed cheeses
 <en:French cheeses
 fr:Salers
+it:Salers
 country:en:France
 wikidata:en:Q1245627
 
@@ -22418,6 +22897,7 @@ wikidata:en:Q1245627
 <en:Soft cheeses with bloomy rind
 <en:French cheeses
 fr:Selles-sur-Cher
+it:Selles-sur-Cher
 country:en:France
 wikidata:en:Q1249172
 
@@ -22425,6 +22905,7 @@ wikidata:en:Q1249172
 <en:Uncooked pressed cheeses
 <en:French cheeses
 fr:Tome des Bauges
+it:Tome des Bauges
 country:en:France
 wikidata:en:Q524966
 
@@ -22434,6 +22915,7 @@ wikidata:en:Q524966
 <en:Unpasteurised cheeses
 fr:Mont d'Or, vacherin du Haut-Doubs
 de:Mont d'Or
+it:Mont d'Or, Vacherin du Haut-Doubs
 wikidata:en:Q2147909
 
 <en:French cheeses
@@ -22444,6 +22926,7 @@ fr:Fromages du Nord-Pas-de-Calais
 <en:Soft cheeses with washed rind
 fr:Livarot, Livarots
 de:Livarot
+it:Livarot
 wikidata:en:Q1144668
 country:en:France
 
@@ -22451,13 +22934,14 @@ country:en:France
 en:Soft cheeses with washed rind
 de:Weichkäse mit gewaschener Rinde
 fr:Fromages à pâte molle à croûte lavée
+it:Formaggi molli a crosta lavata, Formaggi a pasta molle a crosta lavata
 nl:Zachte gewassen korstkazen
 
 <en:Cheeses
 en:Stretched-curd cheeses, Pulled-curd cheeses, Plastic-curd cheeses
 de:Filata, Brühkäse
 fr:Fromages à pâte filée
-it:Pasta filata
+it:Formaggi a pasta filata
 nl:Geknede kazen
 wikidata:en:Q1412505
 
@@ -22466,17 +22950,20 @@ en:Processed cheese
 de:Schmelzkäse
 fi:sulatejuusto
 fr:Fromages à pâte fondue
+it:Formaggi fusi, Formaggi a pasta fusa
 nl:Smeltkazen
 ru:Плавленый сыр
 wikidata:en:Q1570052
 
 
 <en:Processed cheese
-fr:cubic appetizer cheese
+en:cubic appetizer cheese
 fr:fromage apéritif en cube, fromage apéritif en cube type Apéricube
+it:Formaggi a cubetti da aperitivo
 
 <en:Processed cheese
 fr:Fromages apéritif
+it:Formaggi da aperitivo
 
 <en:Processed cheese
 <en:French cheeses
@@ -22484,6 +22971,7 @@ en:Cancoillottes, Cancoyottes
 de:Kochkäse
 es:Cancoillottes, Cancoyottes
 fr:Cancoillottes
+it:Cancoillotte, Cancoyotte
 nl:Cancoillotes
 wikidata:en:Q688947
 oqali_family:en: fr:Fromages - Cancoillotte
@@ -22494,7 +22982,7 @@ ca:Formatges cremosos
 de:Frischkäse
 fi:kermajuustot
 hu:Krémsajtok
-it:Formaggi spalmabili, Formaggio spalmabile
+it:Formaggi spalmabili
 nl:Verse kazen
 wikidata:en:Q426337
 
@@ -22509,10 +22997,12 @@ wikidata:en:Q3323634
 en:Brousse
 es:Brousse
 fr:Brousses
+it:Brousse
 wikidata:en:Q2926318
 
 <en:Cream cheeses
 fr:Faisselles
+it:Faisselle
 wikidata:en:Q3064619
 
 <en:Cheeses
@@ -22522,24 +23012,28 @@ de:Weichkäse
 fi:Pehmeät ulkoa hometetut juustot
 fr:Fromages à pâte molle à croûte fleurie
 hu:Lágysajtok penészes kéreggel
+it:Formaggi molli a crosta fiorita, Formaggi a pasta molle a crosta fiorita
 nl:Witschimmelkazen
 wikidata:en:Q1256296
 
 <en:Soft cheeses with bloomy rind
 fr:Carrés de l'Est, Carré de l'Est
 de:Carre de l'Est
+it:Carré de l'Est, Carre de l'Est
 wikidata:en:Q2726262
 
 <en:Cow cheeses
 <en:Soft cheeses with bloomy rind
 <en:French cheeses
 fr:Brillat-Savarin
+it:Brillat-Savarin
 wikidata:en:Q724855
 
 <en:Cheeses
 en:Soft cheese with a natural rind
 de:Weichkäse mit Naturrinde
 fr:Fromages à pâte molle à croûte naturelle
+it:Formaggi molli a crosta naturale, Formaggi a pasta molle a crosta naturale
 nl:Zachte kazen met natuurlijke korst
 wikidata:en:Q3088326
 
@@ -22549,6 +23043,7 @@ ca:Formatges cuinats i premsats
 de:Gekochter gepresster Käse
 fi:kypsennetyt prässätyt juustot
 fr:Fromages à pâte pressée cuite
+it:Formaggi a pasta cotta pressata
 nl:Verhitte geperste kazen
 pt:Queijos cozidos e premidos
 wikidata:en:Q3088330
@@ -22557,6 +23052,7 @@ wikidata:en:Q3088330
 en:Half-cooked pressed cheeses
 de:Halbgekochter gepresster Käse
 fr:Fromages à pâte pressée demi-cuite
+it:Formaggi a pasta semicotta pressata
 nl:Halfverhitte geperste kazen
 wikidata:en:Q3088328
 
@@ -22567,6 +23063,7 @@ de:Ungekochter gepresster Käse
 fi:kypsentämättömät prässätyt juustot
 fr:Fromages à pâte pressée non cuite, fromage à pâte pressée non cuite
 hu:Nyers préselt sajtok
+it:Formaggi a pasta cruda pressata
 nl:Onverhitte geperste kazen
 wikidata:en:Q2213488
 
@@ -22577,6 +23074,7 @@ en:Maasdam, Maasdam cheeses
 de:Maasdamer
 fi:maasdam
 fr:Maasdam
+it:Maasdam
 nl:Maasdam
 wikidata:en:Q3273732
 oqali_family:en: fr:Fromages - Maasdam
@@ -22587,6 +23085,7 @@ de:Goudas
 es:Gouda
 fi:Gouda
 fr:Goudas
+it:Gouda
 nl:Goudse Kazen
 wikidata:en:Q593675
 oqali_family:en: fr:Fromages - Gouda
@@ -22597,16 +23096,19 @@ de:Goudas mit Kreuzkümmel
 es:Goudas con comino
 fi:gouda-juustot juustokuminalla
 fr:Goudas au cumin
+it:Gouda al cumino
 nl:Goudse Komijnenkazen
 
 <en:Gouda
 en:White gouda
 de:Weiße Goudas
 fr:Goudas blancs
+it:Gouda bianchi
 
 <en:Gouda
 fr:Goudas extra-vieux, Goudas de Noël
 de:Extra alte Goudas
+it:Gouda stravecchio
 nl:Goudas extra oud, Overjarige Gouda
 
 <en:Gouda
@@ -22616,33 +23118,39 @@ fr:Goudas fermiers
 en:Yellow gouda
 de:Gelbe Goudas
 fr:Goudas jaunes
+it:Gouda gialli
 
 <en:Gouda
 en:Young gouda, Young goudas
 de:Junge Goudas, Junger Gouda
 fi:nuori gouda
 fr:Goudas jeunes, Gouda jeune
+it:Gouda giovani
 nl:Jonge Gouda
 
 <en:Gouda
 fr:Goudas mi-vieux
 de:Mittelalter Gouda
+it:Gouda a medio invecchiamento
 
 <en:Gouda
 en:Orange goudas
 de:Orangene Goudas
 fr:Goudas oranges
+it:Gouda arancioni
 
 <en:Gouda
 en:Red goudas
 de:Rote Goudas
 fr:Goudas rouges
+it:Gouda rossi
 
 <en:Gouda
 en:Old Goudas
 de:Alter Gouda
 fi:kypsytetyt goudat
 fr:Goudas vieux
+it:Gouda invecchiati
 nl:Oude Gouda
 
 <en:Cheeses of the Netherlands
@@ -22650,6 +23158,7 @@ en:Edam
 de:Edamer
 fr:Edam
 hu:Edámi sajt
+it:Edam
 nl:Edam
 wikidata:en:Q597473
 oqali_family:en: fr:Fromages - Edam
@@ -22659,6 +23168,7 @@ oqali_family:en: fr:Fromages - Edam
 <en:French cheeses
 fr:Saint-nectaire, Saint-nectaires, Saints-nectaires
 de:Saint-Nectaire
+it:Saint-Nectaire
 wikidata:en:Q548309
 
 <en:Cheeses
@@ -22668,6 +23178,7 @@ de:Rohmilchkäse
 es:Quesos sin pasteurizar
 fi:pastorisoimattomat juustot
 fr:Fromages au lait cru, fromage au lait cru
+it:Formaggi di latte crudo
 nl:Rauwmelkse kazen
 wikidata:en:Q3088297
 
@@ -22676,7 +23187,7 @@ en:Buffalo's milk-cheese
 de:Büffelkäse
 fi:puhvelinmaitojuusto
 fr:Fromages au lait de bufflonne, Fromages de bufflonne
-it:Formaggio di bufala
+it:Formaggi di bufala, Formaggi di latte di bufala
 nl:Buffelmelkkazen
 wikidata:en:Q1020491
 
@@ -22684,33 +23195,41 @@ wikidata:en:Q1020491
 en:Thermised milk cheeses
 de:Thermisierter Käse, Käse aus thermisierter Milch
 fr:Fromages au lait thermisé
+it:Formaggi di latte termizzato
 nl:Gethermiseerde kaas
 
 <en:Cheeses
 en:Cheeses with walnuts
 de:Walnusskäse, Käse mit Walnüssen
 fr:Fromages aux noix, Fromage au noix
+it:Formaggi alle noci
 nl:Notenkazen
 
 <en:Dairy desserts
 fr:Fromages blancs, fromage blanc
 de:Weißer Käse
+it:Dessert formaggio bianco
 wikidata:en:Q15080546
 
 <fr:Fromages blancs
 fr:Fromages blancs natures
+it:Dessert formaggio bianco al naturale
 
 <fr:Fromages blancs
 fr:Fromages blancs aux fruits
+it:Dessert formaggio bianco alla frutta
 
 <fr:Fromages blancs
 fr:Fromages blancs au lait de vache
+it:Dessert formaggio bianco di latte vaccino
 
 <fr:Fromages blancs
 fr:Fromages blancs au lait de brebis
+it:Dessert formaggio bianco di latte di pecora
 
 <fr:Fromages blancs
 fr:Fromages blancs au lait de chèvre
+it:Dessert formaggio bianco di latte di capra
 
 # description:en:SHEEP MILK CHEESE is a cheese prepared from sheep milk.
 
@@ -22728,7 +23247,7 @@ fi:lampaanmaitojuustot
 fr:Fromages de brebis, fromage de brebis, fromage au lait de brebis, Fromages au lait de brebis
 he:גבינת כבשים
 hy:ոչխարի պանիր
-it:formaggio di pecore, Formaggio di pecora
+it:Formaggi di pecora, Formaggi di latte di pecora, Formaggi pecorini
 ko:양젖 치즈
 nl:Schapenkaas, Schapenkazen
 nn:ost av sauemjølk
@@ -22751,7 +23270,7 @@ de:Ziegenkäse
 es:Queso de cabra
 fi:vuohenjuustot
 fr:Fromages de chèvre, fromage de chèvre, fromages au lait de chèvre
-it:Formaggio di capra
+it:Formaggi di capra, Formaggi di latte di capra, Formaggi caprini
 nl:Geitenkazen
 ru:Сыр из козьего молока
 wikidata:en:Q198815
@@ -22759,11 +23278,13 @@ wikidata:en:Q198815
 <en:Goat cheeses
 es:Rulo de cabra, Rulo de queso de cabra
 fr:Bûche de chèvre
+it:Rotoli di capra, Cilindri di capra, Rotoli di formaggio di capra, Cilindri di formaggio di capra
 
 <en:Cheeses
 en:Cheeses from the United Kingdom
 de:Käse aus Großbritannien
 fr:Fromages du Royaume-Uni
+it:Formaggi del Regno Unito
 nl:Verenigdkoninkrijkskazen
 
 <en:Cheeses from the United Kingdom
@@ -22771,6 +23292,7 @@ en:Cheeses from England
 de:Englischer Käse, Käse aus England
 es:Quesos de Inglaterra
 fr:Fromages d'Angleterre
+it:Formaggi dell'Inghilterra
 nl:Engelse kazen
 
 <en:Cheeses from England
@@ -22778,35 +23300,43 @@ nl:Engelse kazen
 en:Applewood cheese
 de:Applewood Käse
 fr:Applewood
+it:Applewood
 wikidata:en:Q2858754
 
 <en:Cheeses from England
 en:Ashdown Foresters
+it:Ashdown Foresters
 wikidata:en:Q16834449
 
 <en:Cheeses from England
 en:Beacon Fell Traditional Lancashire Cheese
+it:Beacon Fell Traditional Lancashire Cheese
 wikidata:en:Q8245118
 
 <en:Cheeses from England
 <en:Sheep cheeses
 en:Beenleigh Blue cheese
 fr:Beenleigh Blue
+it:Beenleigh Blue, Beenleigh Blu
 wikidata:en:Q16839757
 
 <en:Cheeses from England
 en:Bowland cheese
+it:Bowland
 wikidata:en:Q4951069
 
 <en:Cheeses from England
 en:Brighton Blue
+it:Brighton Blue
 wikidata:en:Q16846615
 
 <en:Cheeses from England
 en:Buxton Blue
+it:Buxton Blue
 
 <en:Cheeses from England
 en:Cathedral City Cheddar
+it:Cathedral City Cheddar
 wikidata:en:Q5052218
 
 <en:Cheeses from England
@@ -22814,194 +23344,241 @@ en:The Cheese Shop, Louth
 
 <en:Cheeses from England
 en:Cheshire cheese
+it:Cheshire
 wikidata:en:Q944240
 
 <en:Cheeses from England
 en:Chevington cheese
+it:Chevington
 wikidata:en:Q5094344
 
 <en:Cheeses from England
 en:Coquetdale cheese
+it:Coquetdale
 wikidata:en:Q2996934
 
 <en:Cheeses from England
 en:Cornish Yarg
+it:Cornish Yarg
 
 <en:Cheeses from England
 en:Croglin
+it:Croglin
 wikidata:en:Q5187509
 
 <en:Cheeses from England
 en:Derby cheese
+it:Derby
 wikidata:en:Q3023574
 
 <en:Cheeses from England
 en:Dorset Blue Vinney
+it:Dorset Blue Vinney
 wikidata:en:Q1227882
 
 <en:Cheeses from England
 en:Dorset Drum
+it:Dorset Drum
 wikidata:en:Q5298849
 
 <en:Cheeses from England
 en:Dovedale cheese
+it:Dovedale
 wikidata:en:Q3038270
 
 <en:Cheeses from England
 en:Duddleswell cheese
+it:Duddleswell
 wikidata:en:Q16967361
 
 <en:Cheeses from England
 en:Fine Fettle Yorkshire
+it:Fine Fettle Yorkshire
 wikidata:en:Q5450076
 
 <en:Cheeses from England
 en:Five Counties cheese
+it:Five Counties
 wikidata:en:Q1421520
 
 <en:Cheeses from England
 en:Gloucester cheese
+it:Gloucester
 wikidata:en:Q174539
 
 <en:Cheeses from England
 en:Harbourne Blue
+it:Harbourne Blue
 wikidata:en:Q5654906
 
 <en:Cheeses from England
 en:Lancashire cheese
+it:Lancashire
 wikidata:en:Q1244290
 
 <en:Cheeses from England
 en:Lincolnshire Poacher cheese
+it:Lincolnshire Poacher
 wikidata:en:Q3057964
 
 <en:Cheeses from England
 en:Little Derby
+it:Little Derby
 wikidata:en:Q3256676
 
 <en:Cheeses from England
 en:Lymeswold cheese
+it:Lymeswold
 wikidata:en:Q16997125
 
 <en:Cheeses from England
 en:Newport 1665
+it:Newport 1665
 wikidata:en:Q3339139
 
 <en:Cheeses from England
 en:Norbury Blue
+it:Norbury Blue
 wikidata:en:Q7050450
 
 <en:Cheeses from England
 en:Parlick Fell cheese
+it:Parlick Fell cheese
 wikidata:en:Q3184021
 
 <en:Cheeses from England
 en:Pilgrims Choice
+it:Pilgrims Choice
 wikidata:en:Q7193978
 
 <en:Cheeses from England
 en:Red Leicester
+it:Red Leicester
 wikidata:en:Q1892828
 
 <en:Cheeses from England
 en:Red Windsor
+it:Red Windsor
 wikidata:en:Q3422800
 
 <en:Cheeses from England
 en:Sage Derby
+it:Derby alla salvia, Sage Derby
 wikidata:en:Q1591102
 
 <en:Cheeses from England
 en:Shropshire Blue
+it:Shropshire Blue
 wikidata:en:Q1887104
 
 <en:Cheeses from England
 en:Stichelton
+it:Stichelton
 wikidata:en:Q3499388
 
 <en:Cheeses from England
 en:Stilton cheese
+it:Stilton
 wikidata:en:Q466749
 
 <en:Cheeses from England
 en:Stinking Bishop cheese
+it:Stinking Bishop
 wikidata:en:Q572557
 
 <en:Cheeses from England
 en:Suffolk Gold cheese
+it:Suffolk Gold
 wikidata:en:Q17026015
 
 <en:Cheeses from England
 en:Sussex Slipcote
+it:Sussex Slipcote
 wikidata:en:Q3505742
 
 <en:Cheeses from England
 en:Swaledale cheese
+it:Swaledale
 wikidata:en:Q94011
 
 <en:Cheeses from England
 en:Waterloo cheese
+it:Waterloo
 wikidata:en:Q3566692
 
 <en:Cheeses from England
 en:Wensleydale cheese
+it:Wensleydale
 wikidata:en:Q1972540
 
 <en:Cheeses from England
 en:Wrekin White
+it:Wrekin White
 wikidata:en:Q3570104
 
 <en:Cheeses from the United Kingdom
 en:Cheeses from Scotland
 de:Schottischer Käse, Käse aus Schottland
 fr:Fromages d'Ecosse, fromages écossais
+it:Formaggi scozzesi, Formaggi della Scozia
 nl:Schotse kazen
 
 <en:Cheeses from Scotland
 en:Bonchester
+it:Bonchester
 wikidata:en:Q135178
 
 <en:Cheeses from Scotland
 en:Caboc
+it:Caboc
 wikidata:en:Q1024912
 
 <en:Cheeses from Scotland
 en:Crowdie
+it:Crowdie
 wikidata:en:Q2895215
 
 <en:Cheeses from Scotland
 en:Dunlop
+it:Dunlop
 wikidata:en:Q1266163
 
 <en:Cheeses from Scotland
 en:Isle of Mull Cheddar
+it:Cheddar dell'Isola di Mull
 wikidata:en:Q16920603
 
 <en:Cheeses from Scotland
 en:Lanark Blue
+it:Lanark Blue
 wikidata:en:Q537897
 
 <en:Cheeses from the United Kingdom
 en:Cheeses from Wales
 de:Walisischer Käse
 fr:Fromages du Pays de Galles, Fromages gallois
+it:Formaggi gallesi, Formaggi del Galles
 nl:Welshe kazen
 pt:Queijos do País de Gales
 
 <en:Cheeses from Wales
 en:Caerphilly
+it:Caerphilly
 wikidata:en:Q1025407
 
 <en:Cheeses from Wales
 en:Pantysgawn
+it:Pantysgawn
 wikidata:en:Q3362437
 
 <en:Cheeses from Wales
 en:Tintern
+it:Tintern
 wikidata:en:Q3529217
 
 <en:Cheeses from Wales
 en:Y Fenni
+it:Y Fenni
 nl:Y Fenni
 wikidata:en:Q3058285
 
@@ -23009,10 +23586,12 @@ wikidata:en:Q3058285
 en:Cheeses from Northern Ireland
 de:Nord Irischer Käse
 fr:Fromages d'Irlande du Nord, Fromages nord-irlandais
+it:Formaggi nordirlandesi, Formaggi dell'Irlanda del Nord
 nl:Noordierse kazen
 
 <en:Cheeses from Northern Ireland
 en:Coleraine cheddar
+it:Cheddar Coleraine
 wikidata:en:Q2961937
 
 <en:Cheeses
@@ -23021,12 +23600,14 @@ de:Schweizer Käse
 es:Quesos de Suiza, Queso Suizo
 fi:juustoja Sveitsistä
 fr:Fromages de Suisse, Fromages suisses
+it:Formaggi svizzeri, Formaggi della Svizzera
 nl:Zwitserse kazen
 
 <en:Cheeses
 en:Cheeses of the Netherlands, Dutch Cheese
 de:Holländischer Käse, Käse aus Holland
 fr:Fromages des Pays-Bas, Fromages néerlandais, Fromages hollandais
+it:Formaggi dei Paesi Bassi
 nl:Nederlandse kazen, Hollandse kazen
 nl_be:Nederlandse kaas, Hollandse kaas
 ru:Голландские сыры
@@ -23037,6 +23618,7 @@ de:Fondue-Käse
 es:Queso fundido
 fi:sulatettu juusto
 fr:Fromages fondus, Fromage fondu
+it:Formaggi fusi
 nl:Funduekazen
 wikidata:en:Q190531
 
@@ -23046,6 +23628,7 @@ de:Industrieller Käse
 es:Queso industrial
 fi:teollinen juusto
 fr:Fromages industriels
+it:Formaggi industriali
 nl:Fabriekskazen, Industriële kazen
 
 <en:Cheeses
@@ -23056,7 +23639,7 @@ es:Quesos italianos, quesos de Italia.
 fi:italialaiset juustot
 fr:Fromages italiens, Fromages d'Italie
 hu:Olasz sajtok
-it:Formaggi italiani
+it:Formaggi italiani, Formaggi dell'Italia
 nl:Italiaanse kazen
 pt:Queijos italianos, Queijos da Italia
 country:en:Italy
@@ -23069,6 +23652,7 @@ de:Mascarpone
 fi:mascarpone
 fr:Mascarpone, mascarpones
 hu:Mascarpone
+it:Mascarpone
 nl:Mascarpone
 wikidata:en:Q209889
 oqali_family:en: fr:Fromages - Mascarpone
@@ -23089,7 +23673,7 @@ country:en:Italy
 #wikidata:en:
 
 <en:Italian cheeses
-it:Caciocavallo Silano
+it:Caciocavallo silano
 country:en:Italy
 #wikidata:en:
 
@@ -23134,7 +23718,7 @@ country:en:Italy
 #wikidata:en:
 
 <en:Italian cheeses
-it:Formaggio di Fossa di Sogliano
+it:Formaggio di fossa di Sogliano
 country:en:Italy
 #wikidata:en:
 
@@ -23275,7 +23859,7 @@ country:en:Italy
 wikidata:en:Q980288
 
 <en:Italian cheeses
-it:Piacentinu Ennese
+it:Piacentinu ennese
 country:en:Italy
 #wikidata:en:
 
@@ -23403,13 +23987,16 @@ country:en:Italy
 en:Lithuanian cheeses, cheeses from Lithuania
 de:Litauischer Käse
 fr:Fromages lithuaniens, Fromages de Lithuanie
+it:Formaggi lituani, Formaggi della Lituania
 nl:Litouwse kazen
 
 <en:Lithuanian cheeses
+it:Lietuviškas varškės sūris, Lietuviskas varskes suris
 lt:Lietuviškas varškės sūris
 country:en:Lithuania
 
 <en:Lithuanian cheeses
+it:Liliputas
 lt:Liliputas
 country:en:Lithuania
 
@@ -23417,21 +24004,26 @@ country:en:Lithuania
 en:Polish cheeses, cheeses from Poland
 de:Polnischer Käse
 fr:Fromages polonais, Fromages de Pologne
+it:Formaggi polacchi, Formaggi della Polonia
 nl:Poolse kazen
 
 <en:Polish cheeses
+it:Bryndza Podhalańska, Bryndza Podhalanska
 pl:Bryndza Podhalańska
 country:en:Poland
 
 <en:Polish cheeses
+it:Redykolka
 pl:Redykolka
 country:en:Poland
 
 <en:Polish cheeses
+it:Ser koryciński swojski, Ser korycinski swojski
 pl:Ser koryciński swojski
 country:en:Poland
 
 <en:Polish cheeses
+it:Wielkopolski ser smażony, Wielkopolski ser smazony
 pl:Wielkopolski ser smażony
 country:en:Poland
 
@@ -23439,53 +24031,66 @@ country:en:Poland
 en:Portuguese cheeses, cheeses from Portugual
 de:Portugisischer Käse
 fr:Fromages portugais, Fromages du Portugal
+it:Formaggi portoghesi, Formaggi del Portogallo
 nl:Portugese kazen
 
 <en:Portuguese cheeses
+it:Queijo de Azeitão, Queijo de Azeitao
 pt:Queijo de Azeitão
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo de Cabra Transmontano
 pt:Queijo de Cabra Transmontano/Queijo de Cabra Transmontano Velho
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo de Évora, Queijo de Evora
 pt:Queijo de Évora
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo de Nisa
 pt:Queijo de Nisa
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo do Pico
 pt:Queijo do Pico
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo Mestiço de Tolosa
 pt:Queijo Mestiço de Tolosa
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo Rabaçal
 pt:Queijo Rabaçal
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo São Jorge, Queijo Sao Jorge
 pt:Queijo São Jorge
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo Serpa
 pt:Queijo Serpa
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo Serra da Estrela
 pt:Queijo Serra da Estrela
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijo Terrincho
 pt:Queijo Terrincho
 country:en:Portugal
 
 <en:Portuguese cheeses
+it:Queijos da Beira Baixa, Queijo de Castelo Branco, Queijo Amarelo da Beira Baixa, Queijo Picante da Beira Baixa
 pt:Queijos da Beira Baixa, Queijo de Castelo Branco, Queijo Amarelo da Beira Baixa, Queijo Picante da Beira Baixa
 country:en:Portugal
 
@@ -23493,33 +24098,41 @@ country:en:Portugal
 en:Slovakian cheeses, cheeses from Slovakia
 de:Slovakischer Käse
 fr:Fromages de Slovaquie, Fromages slovaques
+it:Formaggi slovacchi, Formaggi della Slovacchia
 nl:Slowaakse kazen
 
 <en:Slovakian cheeses
+it:Oravský korbáčik, Oravsky korbacik
 sk:Oravský korbáčik
 country:en:Slovakia
 
 <en:Slovakian cheeses
+it:Slovenská bryndza
 sk:Slovenská bryndza
 country:en:Slovakia
 
 <en:Slovakian cheeses
+it:Slovenská parenica
 sk:Slovenská parenica
 country:en:Slovakia
 
 <en:Slovakian cheeses
+it:Slovenský oštiepok
 sk:Slovenský oštiepok
 country:en:Slovakia
 
 <en:Slovakian cheeses
+it:Tekovský salámový syr
 sk:Tekovský salámový syr
 country:en:Slovakia
 
 <en:Slovakian cheeses
+it:Zázrivské vojky
 sk:Zázrivské vojky
 country:en:Slovakia
 
 <en:Slovakian cheeses
+it:Zázrivský korbáčik
 sk:Zázrivský korbáčik
 country:en:Slovakia
 
@@ -23527,21 +24140,26 @@ country:en:Slovakia
 en:Slovenian cheeses, cheeses from Slovenia
 de:Slovenischer Käse
 fr:Fromages slovènes, Fromages de Slovénie
+it:Formaggi sloveni, Formaggi della Slovenia
 nl:Sloveense kazen
 
 <en:Slovenian cheeses
+it:Bovški sir
 si:Bovški sir
 country:en:Slovenia
 
 <en:Slovenian cheeses
+it:Mohant
 si:Mohant
 country:en:Slovenia
 
 <en:Slovenian cheeses
+it:Nanoški sir
 si:Nanoški sir
 country:en:Slovenia
 
 <en:Slovenian cheeses
+it:Tolminc
 si:Tolminc
 country:en:Slovenia
 
@@ -23549,6 +24167,7 @@ country:en:Slovenia
 en:Spanish cheeses, cheeses from Spain
 de:Spanischer Käse
 fr:Fromages espagnols, Fromages d'Espagne
+it:Formaggi spagnoli, Formaggi della Spagna
 nl:Spaanse kazen
 
 <en:Spanish cheeses
@@ -23572,79 +24191,98 @@ es:Queso Tetilla
 fi:Queso Tetilla
 fr:Queso Tetilla
 gl:Queixo de Tetilla
+it:Queso Tetilla
 country:en:Spain
 wikidata:en:Q1244334
 
 <en:Spanish cheeses
 es:Afuega'l Pitu
+it:Afuega'l Pitu
 country:en:Spain
 
 <en:Spanish cheeses
 es:Arzùa-Ulloa
+it:Arzùa-Ulloa
 country:en:Spain
 
 <en:Spanish cheeses
 es:Cebreiro
+it:Cebreiro
 country:en:Spain
 
 <en:Spanish cheeses
 es:Gamoneu, Gamonedo
+it:Gamoneu, Gamonedo
 country:en:Spain
 
 <en:Spanish cheeses
 es:Queso Camerano
+it:Queso Camerano
 country:en:Spain
 
 <en:Spanish cheeses
 es:Queso Casín
+it:Queso Casín
 country:en:Spain
 
 <en:Spanish cheeses
 es:Queso de Flor de Guía, Queso de Media Flor de Guía, Queso de Guía
+it:Queso de Flor de Guía, Queso de Media Flor de Guía, Queso de Guía
 country:en:Spain
 
 <en:Spanish cheeses
 es:Queso Los Beyos
+it:Queso Los Beyos
 country:en:Spain
 
 <en:Spanish cheeses
 es:Quesucos de Liébana
+it:Quesucos de Liébana
 country:en:Spain
 
 <en:Spanish cheeses
 es:Roncal
+it:Roncal
 country:en:Spain
 
 <en:Spanish cheeses
 es:San Simón da Costa
+it:San Simón da Costa
 country:en:Spain
 
 <en:Spanish cheeses
 es:Torta del Casar
+it:Torta del Casar
 country:en:Spain
 
 <en:Cheeses
 en:Swedish cheeses, cheeses from Sweden
 de:Schwedischer Käse
 fr:Fromages suédois, Fromages de Suède
+it:Formaggi svedesi, Formaggi della Svezia
 
 <en:Swedish cheeses
+it:Svecia
 sv:Svecia
 country:en:Sweden
 
 <en:Cheeses of the Netherlands
+it:Boeren-Leidse kazen
 nl:Boeren-Leidse kazen
 country:en:The Netherlands
 
 <en:Cheeses of the Netherlands
+it:Edamse kazen
 nl:Edamse kazen
 country:en:The Netherlands
 
 <en:Cheeses of the Netherlands
+it:Goudse kazen
 nl:Goudse kazen
 country:en:The Netherlands
 
 <en:Cheeses of the Netherlands
+it:Nagelkazen
 nl:Nagelkazen
 country:en:The Netherlands
 
@@ -23655,6 +24293,7 @@ de:Pasteurisierter Käse
 es:Quesos pasteurizados, Quesos con leche pasteurizada
 fi:pastorisoidut juustot
 fr:Fromages pasteurisés, fromages au lait pasteurisé, fromage pasteurisé
+it:Formaggi di latte pastorizzato
 hu:Pasztőrözött sajt
 nl:Gepasteuriseerde kazen
 
@@ -23665,16 +24304,19 @@ de:Geriebener Käse
 es:Queso rallado
 fi:juustoraaste
 fr:Fromages râpés, fromage rapé
+it:Formaggi grattuggiati
 nl:Geraspte kzen
 
 <en:French cheeses
 fr:Maroilles, Marolles
+it:Maroilles, Marolles
 country:en:France
 wikidata:en:Q734978
 
 <en:Cheeses
 fr:Raclettes
 de:Raclettekäse, Raclette-Käse
+it:Formaggio da raclette
 wikidata:en:Q20748
 oqali_family:en: fr:Fromages - Fromage a raclette
 
@@ -23695,7 +24337,7 @@ es:Nata, crema de leche
 fi:kermatuotteet
 fr:Crèmes, Crème
 hu:Krémek
-it:Panne, panna
+it:Panne, Panna
 nl:Romen
 pl:Śmietanki
 pt:Natas, nata
@@ -23766,12 +24408,14 @@ fr:Crèmes fraîches
 <fr:Crèmes épaisses
 <fr:Crèmes entières
 fr:Crème Fraîche d'Isigny
+it:Panna d'Isigny
 
 <en:Creams
 <en:Fermented milk products
 en:Fermented creams
 de:Fermentierter Rahm, Gesäuerter Rahm
 fr:Crèmes épaisses, crèmes fraîches épaisses, Crème fraîche épaisse
+it:Panne fermentate
 hu:Erjesztett krémek
 
 <en:Fermented creams
@@ -23781,6 +24425,7 @@ de:Sauerrahm
 fi:hapankermat
 fr:Crèmes aigres
 hu:Tejföl, tejfel
+it:Panna acida, Panna acidula
 nl:Zure romen
 se:Gräddfil
 sl:Kisla smetana
@@ -23788,11 +24433,13 @@ pnns_group_2:en:Milk and yogurt
 
 <en:Sour creams
 de:Saure Sahne
+it:Panna acida con almeno il 10% di grassi, Saure Sahne
 
 <en:Sour creams
 en:Smetana
 de:Schmand
 fr:Smetana
+it:Smetana
 nl:Smetana
 pl:Śmietana
 ru:Сметана
@@ -23803,17 +24450,20 @@ wikidata:ru:Q326061
 en:Smetana with 15% to 34% fat
 de:Schmand mit 15% bis 34% Fettanteil
 fr:Smetana avec 15% à 34% de matières grasses
+it:Smetana con dal 15% al 34% di grassi
 ru:Сметана от 15% до 34% жирности, Сметана с массовой долей жира от 15% до 34%
 
 <en:Smetana with 15% to 34% fat
 en:Smetana with 15% to 19% fat
 de:Schmand mit 15% bis 19% Fettanteil
 fr:Smetana avec 15% à 19% de matières grasses
+it:Smetana con dal 15% al 19% di grassi
 ru:Сметана от 15% до 19% жирности, Сметана с массовой долей жира от 15% до 19%
 
 en:Smetana with 15% fat
 de:Schmand mit 15% Fettanteil
 fr:Smetana avec 15% de matières grasses
+it:Smetana con il 15% di grassi
 ru:Сметана 15%, Сметана 15%, Сметана 15% жирности, Сметана с массовой долей жира 15%
 
 
@@ -24109,6 +24759,7 @@ fr:Quark au babeurre, quark au lait ribot, quark au lait battu
 <en:Fermented milk products
 en:Tvorog
 fr:Tvorog
+it:Tvorog
 ru:Творог
 
 <en:Dairies
@@ -25035,6 +25686,7 @@ nl:Smeerkazen
 
 <en:Cheeses
 fr:Fromages Ail et fines herbes, fromage ail et fines herbes type Boursin, Tartare
+it:Formaggi all'aglio e alle erbe
 
 <en:Fermented milk products
 en:Yogurts, yoghourts, yoghurts, yogourts, jogurts
@@ -25064,7 +25716,7 @@ hr:Jogurt
 hu:Joghurtok
 id:Yoghurt
 is:Jógúrt
-it:yogurt, iogurt, yoghurt
+it:Yogurt, Iogurt, Yoghurt, Jogurt
 ja:ヨーグルト
 jv:Yoghurt
 ko:요구르트
@@ -25120,17 +25772,21 @@ de:Trinkjoghurt, Trinkjogurt, Trinkjoghurts, Trinkjogurts
 es:Yogures para beber
 fi:juotavat jugurtit
 fr:Yaourts à boire, Yaourts à boire aromatisés, Yaourts à boire sucrés
+it:Yogurt da bere
 hu:Ivójoghurtok, Iható joghurtok
 nl:Drinkyoghurts
 
 <en:Drinkable yogurts
 fr:Yaourts à boire goût fraise, Yaourts à boire fraise, Yaourts à boire saveur fraise
+it:Yogurt da bere alla fragola, Yogurt da bere al gusto di fragola
 
 <en:Drinkable yogurts
 fr:Yaourts à boire goût vanille, Yaourts à boire vanille, Yaourts à boire saveur vanille
+it:Yogurt da bere alla vaniglia, Yogurt da bere al gusto di vaniglia
 
 <en:Drinkable yogurts
 fr:Yaourts à boire sans sucres
+it:Yogurt da bere senza zucchero, Yogurt da bere non zuccherati
 # A verifier ajoute depuis Nutrinet
 
 <en:Yogurts
@@ -25139,10 +25795,12 @@ de:Bifidus-Joghurt
 es:Yogures bifidus, Yogures con bifidus
 fi:bifidusjugurtit
 fr:Yaourts au Bifidus
+it:Yogurt bifidus, Yogurt con bifidus
 nl:Bifidus yoghurts
 
 <en:Bifidus yogurts
 fr:Yaourts au bifidus nature
+it:Yogurt bifidus interi, Yogurt bifidus al naturale
 
 <en:Bifidus yogurts
 fr:Yaourts au bifidus aromatisés
@@ -25153,6 +25811,7 @@ de:aromatisierte Joghurts
 es:Yogures de sabores
 fi:maustetut jugurtit
 fr:Yaourts aromatisés
+it:Yogurt aromatizzati, Yogurt con aromi
 nl:Gearomatiseerde yoghurts
 pt:Iogurtes aromatizados
 zh:调味酸奶
@@ -25181,15 +25840,18 @@ es:Yogures de fruta con trozos de fruta
 fi:hedelmäjugurtit hedelmänpalasilla
 fr:Yaourts aux fruits avec morceaux
 hu:Gyümölcs joghurtok gyümölcsdarabokkal
+it:Yogurt alla frutta con pezzi di frutta
 nl:Vruchtenyoghurt met stukjes
 
 <en:Fruit yogurts
 fr:Yaourts sur lit de fruits, yaourts sur lits de fruits,Yaourts sut lit de fruits
+it:Yogurt su frutta
 nl:Yoghurts op een laag fruit
 
 <en:Fruit yogurts
 fr:Yaourts multifruits, yaourts multi-fruits
 de:Mehrfruchtjoghurts, Mehrfruchtjoghurt
+it:Yogurt multifrutta, Yogurt con frutta mista
 nl:Multifruityoghurts
 
 #should contain only yogurt with real lemon, yogurt with lemon oil, extract or aroma should be in "Flavoured yogurts"
@@ -25231,7 +25893,7 @@ ro:Iaurturi cu afine
 en:Blackberry yogurts
 es:Yogures con mora
 fr:Yaourts à la mûre
-it:Yogurt al more
+it:Yogurt alla mora
 ro:Iaurturi cu mure
 
 <en:Fruit yogurts
@@ -25318,7 +25980,7 @@ nl:Appelyoghurt, Appelyoghurts, Yoghurt met appel
 en:Plum yogurts
 es:Yogures con ciruela
 fr:Yaourts à la prune
-it:Yogurt alla prugna, yogurt alla susina
+it:Yogurt alla prugna, Yogurt alla susina
 nl:Pruimenyoghurt, Pruimenyoghurts, Yoghurt met pruimen
 
 <en:Fruit yogurts
@@ -25331,6 +25993,7 @@ nl:Gedroogde pruimenyoghurt, Gedroogde pruimenyoghurts, Yoghurt met gedroogde pr
 <en:Fruit yogurts
 en:Rhubarb yogurts
 fr:Yaourts à la rhubarbe
+it:Yogurt al rabarbaro
 nl:Rabarberyogurt, Rabarberyogurts
 
 <en:Fruit yogurts
@@ -25353,6 +26016,7 @@ ro:Iaurturi cu smochine
 
 <en:Fruit yogurts
 fr:Yaourts au pamplemousse
+it:Yogurt al pompelmo
 
 <en:Fruit yogurts
 en:Kiwi yogurts
@@ -25423,7 +26087,7 @@ es:Yogures estilo griego, Yogurt al estilo griego, Yogures al estilo griego
 fi:kreikkalaiset jugurtit
 fr:Yaourts à la grecque
 hu:Görög joghurtok
-it:Yogurt greco
+it:Yogurt greci
 nl:Griekse yoghurts
 pt:Iogurtes gregos
 ru:Греческий йогурт
@@ -25436,6 +26100,7 @@ es:Yogures bajos en grasa
 fi:Matalarasvaiset jugurtit
 fr:Yaourts allégés en matière grasse, Yaourts allégés en matières grasses, Yaourts allégés
 hu:Alacsony zsírtartalmú joghurtok
+it:Yogurt magri, Yogurt light, Yogurt leggeri, Yogurt a basso contenuto di grassi
 nl:Light youghurts
 
 <en:Yogurts
@@ -25443,6 +26108,7 @@ en:Mixed yogurts
 de:gemischte Joghurt, gemischte Jogurt, gemischte Joghurts, gemischte Jogurts
 fr:Yaourts mixés
 hu:Vegyes joghurtok
+it:Yogurt misti
 nl:Gemengde yoghurts
 
 <en:Yogurts
@@ -25451,7 +26117,7 @@ ca:Iogurt de llet de vaca
 de:Kuhmilchjoghurt
 fi:lehmänmaitojugurtit
 fr:Yaourts au lait de vache, Yaourts de vache
-it:Yogurt di mucca
+it:Yogurt di latte vaccino, Yogurt di latte di mucca
 nl:Koemelkyoghurts, Koemelkyoghurt
 ro:Iaurturi din lapte de vacă
 
@@ -25462,7 +26128,7 @@ de:Schafmilchjoghurt, Schafmilchjogurt, Schafmilchjoghurts, Schafmilchjogurts
 es:Yogures de leche de oveja
 fi:lampaanmaitojugurtit
 fr:Yaourts au lait de brebis, Yaourt au lait de brebis, Yaourts de brebis, Yaourt de brebis
-it:Yogurt di pecora
+it:Yogurt di latte di pecora
 nl:Schapenyoghurts
 ro:Iaurturi din lapte de oaie
 ru:Йогурт из овечьего молока, Йогурты из овечьего молока
@@ -25472,7 +26138,7 @@ en:Goat milk yogurts, Goat yogurts, goat's milk yogurts
 de:Ziegenmilchjoghurt, Ziegenjoghurt, Ziegenmilchjoghurt
 fi:vuohenmaitojugurtti
 fr:Yaourts au lait de chèvre, Yaourts de chèvre
-it:Yogurt di capra
+it:Yogurt di latte di capra
 nl:Geitenmelkyoghurts
 ro:Iaurturi din lapte de capră
 
@@ -25481,6 +26147,7 @@ en:Stirred yogurts
 de:cremiger Joghurt
 fi:sekoitetut jugurtit
 fr:Yaourts brassés, Yaourt brassé
+it:Yogurt compatti
 nl:Roeryoghurts
 
 <ru:Йогурт
@@ -25496,6 +26163,7 @@ ru:Биойогурт фруктово-ягодный
 <en:Stirred yogurts
 en:Plain stirred yogurts
 fr:Yaourts brassés nature, Yaourt brassé nature
+it:Yogurt compatti interi
 nl:Naturel standyoghurts
 
 <en:Stirred yogurts
@@ -25503,6 +26171,7 @@ en:Fruit stirred yogurts
 de:Cremiger Früchtejoghurt
 fi:sekoitetut hedelmäjugurtit
 fr:Yaourts brassés aux fruits, Yaourt brassé aux fruits
+it:Yogurt compatti alla frutta
 nl:Vruchtenroeryoghurts, Vruchtenroeryoghurt
 
 <en:Yogurts
@@ -25511,6 +26180,7 @@ de:Gesüßter Joghurt, süßer Joghurt
 es:Yogures endulzados, Yogures azucarados
 fi:makeutetut jugurtit
 fr:Yaourts sucrés
+it:Yogurt zuccherati, Yogurt con zuccheri aggiunti
 nl:Yoghurts met suiker
 
 <en:Yogurts
@@ -25519,7 +26189,7 @@ de:Vanillejoghurts
 es:Yogures de vainilla
 fi:vaniljajugurtit
 fr:Yaourts vanille, Yaourts à la vanille
-it:Yogurt vaniglia
+it:Yogurt alla vaniglia
 nl:Vanilleyoghurts
 pl:Jogurty waniliowe, Jogurt waniliowy
 
@@ -25540,7 +26210,7 @@ de:Naturjogurts
 es:Yogures naturales
 fi:luonnon jugurtit
 fr:Yaourts natures, Yaourt nature
-it:Yogurt intero
+it:Yogurt al naturale
 nl:Naturelyoghurts
 pl:Jogurty naturalne, Jogurt naturalny
 pt:Iogurtes naturales, iogurte naturale
@@ -26154,6 +26824,7 @@ fr:Desserts de soja au caramel
 en:Non-dairy fermented foods
 de:fermentierte Lebensmittel ohne Milch
 fr:Produits végétaux fermentés
+it:Prodotti fermentati senza latte, Prodotti fermentati vegetali
 
 <en:Non-dairy fermented foods
 <en:Non-dairy desserts
@@ -26162,10 +26833,12 @@ de:pflanzenbasierte Joghurts, milchfreie Joghurts
 es:Yogures vegetales
 fi:vegaanijugurtit
 fr:Yaourts végétaux, yaourt végétal, yaourt végan, yaourts sans lait
+it:Yogurt senza latte, Yogurt vegetali
 nl:Plantaardige yoghurts, plantaardige yoghurt
 
 <en:Non-dairy yogurts
 en:Almond milk yogurts
+it:Yogurt con latte di mandorle, Yogurt a base di latte di mandorle
 
 <en:Non-dairy yogurts
 en:Soy milk yogurts, soy yogurts, soya yogurts, soygurts, yofu
@@ -26174,7 +26847,7 @@ de:Sojajoghurt, Sojajogurt, Sojajoghurts, Sojajogurts
 es:Yogures de soja, Yogures de soya
 fi:Soijapohjaiset jugurtit
 fr:Yaourts au soja, Yaourts soja, yaourts au lait de soja
-it:Yogurt di soia, Soia yogurt
+it:Yogurt di soia, Yogurt a base di soia, Yogurt con latte di soia
 nl:Sojayoghurts
 nl_be:Sojayoghurts
 
@@ -26183,6 +26856,7 @@ en:Plain soy yogurts, Natural soy yogurts
 de:Einfacher Soja-Joghurt, Natürlicher Soja-Joghurt
 es:Yogures de soja naturales, Yogures de soja natural
 fr:Yaourts soja natures
+it:Yogurt di soia al naturale, Yogurt al naturale a base di soia
 hu:Természetes szójatej
 nl:Naturel sojayoghurts
 
@@ -26192,6 +26866,7 @@ de:Frucht-Soja-Joghurts
 es:Yogures de soja con frutas
 fi:hedelmä-soijajugurtit
 fr:Yaourts de soja aux fruits, Yaourts soja aux fruits, Yaourts au soja aux fruits
+it:Yogurt di soia alla frutta, Yogurt a base di soia alla frutta
 nl:Fruit sojayoghurts
 
 <en:Fruit soy yogurts
@@ -26199,18 +26874,21 @@ en:Strawberry soy yogurts
 de:Erdbeer-Soja-Joghurt
 es:Yogures de soja con fresa
 fr:Yaourts de soja à la fraise
+it:Yogurt di soia alla fragola, Yogurt a base di soia alla fragola
 nl:Aardbeiensojayoghurts
 
 <en:Fruit soy yogurts
 en:Raspberry soy yogurts
 es:Yogures de soja con frambuesa
 fr:Yaourts de soja à la framboise
+it:Yogurt di soia al lampone, Yogurt a base di soia al lampone
 
 <en:Fruit soy yogurts
 en:Lemon soy yogurts, Soy yogurt with lemon
 de:Zitronensojajoghurt, Sojajoghurt mit Zitrone
 es:Yogures de soja con limón
 fr:Yaourts soja au citron
+it:Yogurt di soia al limone, Yogurt a base di soia al limone
 nl:Citroensojayoghurt, Citroensojayoghurts, Sojayoghurt met citroen
 
 <en:Fruit soy yogurts
@@ -26218,6 +26896,7 @@ en:Banana soy yogurts
 de:Bananen-Soja-Joghurt
 es:Yogures de soja con plátano
 fr:Yaourts de soja à la banane
+it:Yogurt di soia alla banana, Yogurt a base di soia alla banana
 nl:Banaansojayoghurts
 
 <en:Fruit soy yogurts
@@ -26225,6 +26904,7 @@ en:Cherry soy yogurts
 de:Kirsch-Soja-Joghurt
 es:Yogures de soja con cerezas
 fr:Yaourts de soja aux cerises
+it:Yogurt di soia alla ciliegia, Yogurt a base di soia alla ciliegia
 nl:Kersensojayoghurts
 
 <en:Fruit soy yogurts
@@ -26232,18 +26912,21 @@ en:Peach soy yogurts
 de:Pfirsich-Soja-Joghurt
 es:Yogures de soja con melocotón
 fr:Yaourts de soja à la pêche
+it:Yogurt di soia alla pesca, Yogurt a base di soia alla pesca
 nl:Perzikkensojayoghurts
 
 <en:Fruit soy yogurts
 en:Apricot soy yogurts
 es:Yogures de soja con albaricoque
 fr:Yaourts de soja à l'abricot
+it:Yogurt di soia all'albicocca, Yogurt a base di soia all'albicocca
 
 <en:Fruit soy yogurts
 en:Blueberry soy yogurts
 de:Heidelbeer-Soja-Joghurt
 es:Yogures de soja con arándanos
 fr:Yaourts de soja à la myrtille
+it:Yogurt di soia al mirtillo, Yogurt a base di soia al mirtillo
 nl:Bosbessensojayoghurts
 
 <en:Fruit soy yogurts
@@ -26251,6 +26934,7 @@ en:Mixed fruit soy yogurts
 de:Soja-Joghurt mit gemischten Früchten
 es:Yogures de soja con frutas variadas
 fr:Yaourts soja aux fruits mixés
+it:Yogurt di soia multifrutta, Yogurt a base di soia multifrutta, Yogurt di soia con frutta mista, Yogurt a base di soia con frutta mista
 nl:Multifruitsojayoghurts, multivruchtensojayoghurts
 
 <en:Mixed fruit soy yogurts
@@ -26258,6 +26942,7 @@ en:Berries soy yogurts
 de:Beeren-Soja-Joghurt
 es:Yogures de soja con frutas del bosque, Yogures de soja con frutos rojos
 fr:Yaourts soja aux fruits rouges
+it:Yogurt di soia ai frutti di bosco, Yogurt a base di soia ai frutti di bosco
 nl:Bosvruchtensojayoghurts
 
 <en:Mixed fruit soy yogurts
@@ -26265,6 +26950,7 @@ en:Tropical fruits soy yogurts
 de:Sojajoghurt mit tropischen Früchten
 es:Yogures de soja con frutas tropicales, Yogures de soja con frutas amarillas
 fr:Yaourts soja aux fruits tropicaux
+it:Yogurt di soia alla frutta tropicale, Yogurt a base di soia alla frutta tropicale, Yogurt di soia alla frutta esotica, Yogurt a base di soia alla frutta esotica
 nl:Tropische vruchtensojayoghurts
 
 <en:Artificially sweetened beverages
@@ -37250,12 +37936,14 @@ en:Rillettes
 ca:Rostes
 de:Rillettes
 fr:Rillettes
+it:Rillettes
 nl:Rillettes
 wikidata:en:Q1933110
 
 <en:Artisan products
 <en:Rillettes
 fr:Rillettes artisanales
+it:Rillettes artigianali
 
 <en:Rillettes
 <en:Prepared meats
@@ -38222,6 +38910,7 @@ en:Mountain cheeses
 de:Bergkäse
 fi:vuorijuustot
 fr:Fromages de montagne
+it:Formaggi di montagna
 nl:Bergkazen
 wikidata:en:Q360910
 
@@ -48770,6 +49459,7 @@ en:Kvass
 de:Kwas, Kwass
 es:Kvas
 fr:Kvass
+it:Kvas, Kvass
 nl:Kvas
 ru:Квас
 wikidata:en:Q173773
@@ -49078,11 +49768,13 @@ nl:Kombucha
 en:Double cream cheeses
 de:Käse Doppelrahmstufe,Doppelrahmstufenkäse
 fr:Fromages double crème
+it:Formaggi a doppia crema
 nl:Volle roomkazen, Volle roomkaas
 
 <en:Cheeses
 en:Abbaye cheeses
 fr:Fromages d’abbaye
+it:Formaggi d'abbazia, Formaggi trappisti
 nl:Abdijkazen, Abdijkaas
 
 <en:Dairy desserts
@@ -49190,6 +49882,7 @@ de:Mexikanischer Käse
 es:Quesos mexicanos, Quesos de México
 fi:meksikolaiset juustot
 fr:Fromages mexicains, Fromages du Mexique
+it:Formaggi messicani, Formaggi del Messico
 
 <en:Mexican cheeses
 en:Panela cheeses
@@ -49204,4 +49897,3 @@ fr:Sels liquides
 en:edible tableware
 de:essbares Geschirr
 fr:Couverts comestibles, Vaisselles comestibles
-
