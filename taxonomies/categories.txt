@@ -17046,6 +17046,7 @@ es:Productos deshidratados, Productors deshidratados, alimentos deshidratados, A
 fi:kuivatut tuotteet
 fr:Produits déshydratés, produits lyophilisés, produits séchés, aliments séchés, Aliments secs
 hu:Szárított termékek, szárított élelmiszerek
+it:Prodotti disidratati e liofilizzati, Prodotti disidratati, Prodotti liofilizzati, Prodotti secchi, Alimenti disidratati e liofilizzati, Alimenti disidratati, Alimenti liofilizzati, Alimenti secchi
 nl:Gedroogde producten, Gedroogd product
 pl:Produkty suszone, produkty poddane dehydratacji, żywność suszona
 pt:Produtos secos, produtos desidratados, Alimentos secos, Alimentos desidratados
@@ -17059,12 +17060,14 @@ es:Productos deshidratados para ser rehidratados
 fi:kuivatut tuotteet, joihin lisätään vettä
 fr:Produits lyophilisés à reconstituer, produits déshydratés à reconstituer, produits à reconstituer
 hu:Szárított, rehidratálandó termékek
+it:Prodotti liofilizzati da reidratare
 nl:Gedrooge producten om te hydrateren
 pt:Produtos secos a serem rehidratados
 
 en:Meal kits, Kits for meals
 fi:ateriakitit
 fr:Kits repas, Kits pour repas, Kits culinaires, Kit repas, Kit pour repas, Kit culinaire
+it:Kit pasto, Kit per pasti, Kit cena, Kit pranzo 
 nl:Maaltijdpakketten
 
 <en:Beverages
@@ -17073,6 +17076,7 @@ en:Dehydrated beverages, dehydrated drinks
 de:Getrocknete Getränke, Getränkepulver
 fi:kuivatetut juomat
 fr:Boissons lyophilisées, Boisson lyophilisée, boissons déshydratées
+it:Bevande liofilizzate
 nl:Gedroogde drankpoeders
 
 <en:Dried products to be rehydrated
@@ -17082,6 +17086,7 @@ en:Instant mashed potatoes, dehydrated mashed potatoes
 de:Kartoffelpulver
 fi:perunamuusijauheet
 fr:Purées en flocons, purées instantanées
+it:Purè di patate in fiocchi, Purè in fiocchi, Purè di patate liofilizzati, Purè liofilizzati
 nl:Aardappelpureeën in gedroogde vorm, Aardappelpuree in gedroogde vorm, Aardappelpoeder
 wikidata:en:Q3411001
 
