@@ -3365,7 +3365,7 @@ en:Pineapple juice and soy drinks
 de:Annanasssäfte und Sojagetränke
 es:Bebidas a base de zumo de piña y soja, Bebidas de zumo de piña y soja
 fr:Boissons à base de jus d'ananas et de soja
-it:Bevande a base di succo di ananas e soia, it:Bevande a base di succo d'ananas e soia
+it:Bevande a base di succo di ananas e soia
 nl:Ananassojadranken, Ananassojadrank
 
 <en:Beverages
@@ -17096,15 +17096,18 @@ en:dehydrated sauces
 de:Instantsoßen, Soßenpulver
 fi:kuivatetut kastikkeet
 fr:sauces déshydratées, sauces lyophilisée, sauces instantanées
+it:Salse disidratate
 nl:Gedroogde sauzen, Gedroogde saus
 
 <en:Beverages
 fr:Citronnades, citronnade
+it:Citronnade
 wikidata:en:Q13204
 
 <en:Beverages
 en:Mixed drinks, Mixed Beverages
 de:Mischgetränk, Mix-Getränk
+it:Bevande miscelate
 nl:Gemengde dranken
 wikidata:en:Q3246609
 
@@ -17117,6 +17120,7 @@ es:Siropes aromatizados, Jarabes aromatizados
 fi:maustetut siirapit
 fr:Sirops aromatisés
 hu:Ízesített szirupok
+it:Sciroppi aromatizzati, Sciroppi con aromi
 nl:Gearomatiseerde siropen, Gearomatiseerde Siroop
 wikidata:en:Q5458204
 pnns_group_2:en:Sweetened beverages
@@ -17126,12 +17130,14 @@ en:Sugar-free flavoured syrups, Flavoured syrups without sugar
 de:zuckerfreie aromatisierte Sirups, aromatisierte Sirups ohne Zucker
 fi:sokerittomat maustesiirapit
 fr:Sirops aromatisés sans sucre, sirops sans sucre
+it:Sciroppi aromatizzati senza zucchero, Sciroppi con aromi senza zucchero, Sciroppi aromatizzati non zuccherati, Sciroppi con aromi non zuccherati
 nl:Suikervrije gearomatiseerde siropen
 
 <en:Flavoured syrups
 en:Syrups with fruits, Syrup with fruits
 de:Fruchtsirups
 fr:Sirops aux fruits, sirop aux fruits
+it:Sciroppi alla frutta
 nl:Vruchtensiropen, Vruchtensiroop, Vruchtesiroop
 wikidata:en:Q5506416
 
@@ -17139,6 +17145,7 @@ wikidata:en:Q5506416
 en:Orgeat syrups
 de:Mandelsirups
 fr:Sirops d’orgeat, sirop d'orgeat
+it:Orzate
 nl:Amandelsiropen, Amandelsiroop
 wikidata:en:Q1939771
 
@@ -17146,70 +17153,82 @@ wikidata:en:Q1939771
 en:Apple syrups
 de:Apfelsirups
 fr:Sirops de pomme
+it:Sciroppi di mela
 nl:Appelsiropen, Appelsiroop
 
 <en:Flavoured syrups
 en:Orange syrups
 de:Orangensirups
 fr:Sirops d'orange
+it:Sciroppi di arancia, Sciroppi d'arancia
 nl:Sinaasappelsiropen, Sinaasappelsiroop
 
 <en:Flavoured syrups
 en:Watermelon syrups
 de:Wassermelonensirups
 fr:Sirops de pastèque
+it:Sciroppi di anguria, Sciroppi di cocomero
 nl:Watermeloensiropen, Watermeloensiroop
 
 <en:Flavoured syrups
 fr:Sirops de pamplemousse, Sirops de pamplemousses
 de:Grapefruitsirups
+it:Sciroppi di pompelmo
 nl:Grapefruitsiropen, Grapefruitsiroop
 
 <en:Flavoured syrups
 en:Rose syrups
 de:Rosensirups
 fr:Sirops de rose
+it:Sciroppi di rosa
 nl:Rozensiropen, Rozensiroop, Rozesiropen, Rozen siroop
 
 <en:Flavoured syrups
 en:Chestnut syrups
 de:Kastaniensirups
 fr:Sirops de châtaignes
+it:Sciroppi di castagne
 nl:Kastanje siropen, Kastanje siroop, Kastanjesiroop
 
 <en:Flavoured syrups
 en:Cherry syrups
 de:Kirschsirups
 fr:Sirops de cerise
+it:Sciroppi di ciliegie
 nl:Kersensiropen, Kersensiroop
 
 <en:Flavoured syrups
 en:Lime syrups
 de:Limonensirups
 fr:Sirops de citron vert
+it:Sciroppi alla limetta, Sciroppi alla lima, Sciroppi al lime
 nl:limoensiropen, Limoensiroop
 
 <en:Flavoured syrups
 en:Anise syrups, aniseeds syrups, Syrups with anise
 de:Anissirups
 fr:Sirops à l'anis, Sirops d'anis
+it:Sciroppi all'anice
 nl:Anijssiropen, Anijssiroop
 
 <en:Flavoured syrups
 en:Kiwi syrups
 de:Kiwisirups
 fr:Sirops de kiwi
+it:Sciroppi al kiwi
 nk:Kiwi siropen, Kiwi siroop, Kiwisiroop
 nl:Kiwi siroop
 
 <en:Flavoured syrups
 en:Mango syrups
 fr:Sirops de mangue
+it:Sciroppi di mango
 
 <en:Flavoured syrups
 en:Mojito syrups
 de:Mojito-Sirups
 fr:Sirops mojito
+it:Sciroppi al mojito
 nl:Mojito siropen, Mojito siroop, Mojitosiroop
 
 <en:Flavoured syrups
@@ -17217,30 +17236,35 @@ en:Peach syrups
 de:Pfirsichsirups
 fi:persikkasiirapit
 fr:Sirops de pêche, Sirops à la pêche
+it:Sciroppi di pesca
 nl:Perzikensiropen, Perzikensiroop, Perzikkensiroop
 
 <en:Flavoured syrups
 en:Pineapple syrups
 de:Annanassirups
 fr:Sirops d'ananas
+it:Sciroppi di ananas, Sciroppi d'ananas
 nl:Ananassiropen, Ananassiroop
 
 <en:Flavoured syrups
 en:Cola syrups
 de:Cola-Sirups
 fr:Sirops cola
+it:Sciroppi alla cola
 nl:Cola-siropen, Cola-siroop, Cola siroop, Colasiropen, Colasiroop
 
 <en:Flavoured syrups
 en:Mirabelle syrups
 de:Mirabellensirups
 fr:Sirops à la mirabelle
+it:Sciroppi di susina mirabella, Sciroppi di mirabella 
 nl:Mirabelle-siropen, Mirabelle-siroop
 
 <en:Flavoured syrups
 en:Blueberry syrups
 de:Heidelbeersirups, Blaubeersirups
 fr:Sirops de myrtille
+it:Sciroppi di mirtillo
 nl:Blauwe bessensiropen, Blauwe bessensiroop
 
 <en:Flavoured syrups
@@ -17248,6 +17272,7 @@ en:Blackcurrant syrups
 de:Schwarze Johannisbeersirups, Cassis-Sirups
 fi:mustaherukkasiirapit
 fr:Sirops de cassis, sirop de cassis
+it:Sciroppi di ribes nero
 nl:Cassissiropen, Casissiroop, Cassis-siroop, Cassis-siropen, Cassis siroop
 
 <en:Flavoured syrups
@@ -17255,6 +17280,7 @@ en:Lemon syrups
 de:Zitronensirups
 fi:sitruunasiirapit
 fr:Sirops de citron, sirop de citron
+it:Sciroppi di limone
 nl:Citroensiropen, Citroensiroop
 
 <en:Flavoured syrups
@@ -17262,6 +17288,7 @@ en:Raspberry syrups
 de:Himbeersirups
 fi:vadelmasiirapit
 fr:Sirops de framboise
+it:Sciroppi di lampone
 nl:Frambozensiropen, Frambozensiroop, Frambozesiroop
 
 <en:Flavoured syrups
@@ -17270,6 +17297,7 @@ de:Erdbeersirups
 es:Siropes de fresa
 fi:mansikkasiirapit
 fr:Sirops de fraise, sirop de fraise
+it:Sciroppi di fragola
 nl:Aardbeiensiropen, Aardbeiensiroop
 wikidata:en:Q3485292
 
@@ -17279,6 +17307,7 @@ de:Grenadinensirups
 es:Granadina, jarabe de granadina, Sirope de granadina
 fi:granaattiomenasiirappi
 fr:Sirops de grenadine, sirop de grenadine
+it:Granatina, Sciroppi di granatina
 nl:Grenadinesiropen, Grenadinesiroop
 wikidata:en:Q1136498
 
@@ -17288,6 +17317,7 @@ de:Minzsirups
 fi:minttusiirapit
 fr:Sirops de menthe, sirop de menthe
 hu:Menta szirupok, menta szirup
+it:Sciroppi di menta
 nl:Pepermuntsiropen, Pepermuntsiroop, Muntsiroop
 wikidata:en:Q16676963
 
@@ -17295,6 +17325,7 @@ wikidata:en:Q16676963
 en:Violet Syrups
 de:Veilchensirups
 fr:Sirops de violette, sirop de violette
+it:Sciroppi di violetta
 nl:Viooltjessiropen, Viooltjessiroop
 
 <en:Beverages
@@ -17307,7 +17338,7 @@ es:Tés helados, Tés fríos
 fi:jääteet
 fr:Thés glacés, Ice-tea, thé glacé
 hu:Jeges teák
-it:Thè freddi
+it:Tè freddi, Thè freddi
 nl:Ice teas, Ice tea, Icetea
 zh:冰柠檬茶
 wikidata:en:Q348958
@@ -17320,6 +17351,7 @@ en:Tea-based beverages, Tea beverages
 de:Teegetränke, Teebasierte Getränke
 fi:tee-pohjaiset juomat
 fr:Boissons au thé, Thés infusés, boissons à base de thé
+it:Bevande a base di tè, Bevande al tè
 nl:Dranken op basis van thee
 pnns_group_2:en:Teas and herbal teas and coffees
 
@@ -17328,6 +17360,7 @@ pnns_group_2:en:Teas and herbal teas and coffees
 #<en:Herbal teas
 en:Herbal tea beverages
 fr:Tisanes infusées, Boissons à la tisane
+it:Bevande a base di tisana, Bevande a base di infuso
 nl:Fusion dranken, Dranken met kruidenthee-extract, Dranken met kruidenthee-extracten
 pnns_group_2:en:Teas and herbal teas and coffees
 
