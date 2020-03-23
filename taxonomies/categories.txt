@@ -17370,6 +17370,7 @@ en:Light iced teas
 de:Kalorienarme Eistees, Eistee light, Diät Eistees
 es:Tés helados ligeros, Tés helados light
 fr:Ice-tea light, thés glacés lights, thé glacé light
+it:Tè freddi dietetici, Tè freddi light, Tè freddi senza zucchero
 nl:Light ice teas, Light ice tea
 
 <en:Iced teas
@@ -17377,6 +17378,7 @@ en:Peach flavored iced teas
 de:Pfirsicheistees
 fi:persikan makuiset jääteet
 fr:Thés glacés saveur pêche
+it:Tè freddi alla pesca
 nl:Perzikken Ice Teas, Perzikken Ice Tea, Perzik Ice Tea, Perzik Ice Teas
 zh:桃味冰茶
 
@@ -17384,18 +17386,21 @@ zh:桃味冰茶
 en:Iced teas with raspberry flavor
 de:Himbeereistees
 fr:Thés glacés saveur framboise
+it:Tè freddi al lampone
 nl:Frambozen Ice Teas, Frambozen Ice Tea
 
 <en:Iced teas
 en:Iced teas with mint flavor
 de:Minzeistees, Pfefferminzeistees
 fr:Thés glacés saveur menthe
+it:Tè freddi alla menta
 nl:Pepermunt Ice Teas, Pepermunt Ice Tea, Munt Ice Teas
 
 <en:Iced teas
 en:Iced teas with mango flavor
 de:Mangoeistees
 fr:Thés glacés saveur mangue
+it:Tè freddi al mango
 nl:Mango Ice Teas, Mango Ice Tea
 
 <en:Iced teas
@@ -17403,6 +17408,7 @@ en:Lemon flavored iced teas
 de:Zitroneneistees
 fi:Sitruunan makuiset jääteet
 fr:Thés glacés saveur citron
+it:Tè freddi al limone
 nl:Citroen Ice Teas, Citroen Ice Tea
 zh:柠檬茶
 
@@ -17410,6 +17416,7 @@ zh:柠檬茶
 en:Iced teas preparations
 de:Eistee Zubereitung, Eistee Präparate
 fr:Préparations pour thés glacés
+it:Preparati per tè freddo
 nl:Ice Tea Bereidingen, Ice Tea Bereiding
 
 <en:Beverages
@@ -17417,6 +17424,7 @@ en:Coffee drinks, Coffee drink, coffee beverages
 de:Kaffeegetränke, Kaffeegetränk
 fi:kahvijuomat
 fr:Boissons au café, boissons à base de café
+it:Bevande a base di caffè
 hu:Kávé italok
 nl:Koffiedranken, Koffiedrank
 pnns_group_2:en:Teas and herbal teas and coffees
@@ -17427,7 +17435,7 @@ de:Eiskaffees, Eiskaffee
 fi:jääkahvit
 fr:Cafés glacés
 hu:Jegeskávé
-it:Caffè freddo
+it:Caffè freddi
 nl:Ice coffees, Ice coffee, IJskoffie
 wikidata:en:Q968554
 
@@ -17480,7 +17488,7 @@ hy:բիսկվիտ
 id:Biskuit
 io:Bisquito
 is:Kex
-it:Biscotti, biscotto
+it:Biscotti
 ja:ビスケット
 ko:비스킷
 ku:Hindok
@@ -17532,6 +17540,7 @@ es:Galletas sin gluten
 fi:gluteenittomat keksit
 fr:Biscuits sans gluten
 hu:Gluténmentes kekszek
+it:Biscotti senza glutine
 nl:Glutenvrije koekjes, Koekjes zonder gluten, Glutenvrij koekje
 pl:Ciasteczka bezglutenowe
 ro:Biscuiți fără gluten
@@ -17540,6 +17549,7 @@ ro:Biscuiți fără gluten
 <en:Biscuits
 en:Sprits, spritz biscuits
 fr:Sprits, biscuits spritz
+it:Biscotti spritz
 
 <en:Biscuits
 en:Cookies
@@ -17549,7 +17559,7 @@ es:Cookies
 fi:keksit
 fr:Cookies
 hu:Kekszek
-it:Cookie, cookies
+it:Cookie
 nl:Koekjes, cookies
 ro:Fursecuri
 ru:Печенье
@@ -17565,6 +17575,7 @@ es:Galletas de chocolate
 fi:suklaakeksit
 fr:Cookies au chocolat
 hu:Csokoládés kekszek
+it:Cookie al cioccolato
 nl:Chocolade koekjes, Chocolade koekje
 ro:Prăjituri cu ciocolată
 zh:巧克力曲奇, 巧克力曲奇饼干
@@ -17573,6 +17584,7 @@ zh:巧克力曲奇, 巧克力曲奇饼干
 en:Cookies with milk chocolate
 de:Cookies mit Milchschokolade
 fr:Cookies au chocolat au lait
+it:Cookie al cioccolato al latte
 nl:Melkchocoladekoekjes, Melkchocoladekoekje
 ro:Prăjituri cu ciocolată cu lapte
 
@@ -17580,6 +17592,7 @@ ro:Prăjituri cu ciocolată cu lapte
 en:Cookies with chocolate and coconut
 de:Cookies mit Schokolade und Kokosnuss
 fr:Cookies au chocolat et à la noix de coco
+it:Cookie al cioccolato e cocco
 nl:Kokos-Chocoladekoekjes, Kokos-chocoladekoekje, Kokoschocoladekoekjes
 ro:Biscuiți cu ciocolată și nucă de cocos
 
@@ -17587,12 +17600,14 @@ ro:Biscuiți cu ciocolată și nucă de cocos
 en:Cookies with chocolate and nougat, chocolate and nougat cookies
 de:Cookies mit Nugat und Schokolade
 fr:Cookies au chocolat et à la nougatine
+it:Cookie al cioccolato e torrone
 nl:Chocolade-nogakoekjes, Chocolade-nogakoekje
 
 <en:Chocolate cookies
 en:Chocolate and hazelnut cookies
 de:Cookies und Haselnuss-Cookies
 fr:Cookies au chocolat et aux noisettes
+it:Cookie al cioccolato e nocciole
 nl:Chocoladehazelnootkoekjes, Chocoladehazelnootkoekje
 ro:Biscuiți cu ciocolată și alune
 
@@ -17600,6 +17615,7 @@ ro:Biscuiți cu ciocolată și alune
 en:Raisin cookies
 de:Cookies mit Rosinen
 fr:Cookies au raisin
+it:Cookie alla uvetta, Cookie all'uvetta
 nl:Rozijnenkoekjes, Rozijnenkoekje, Rozijnekoekjes, Rozijnekoekje
 ro:Biscuiți cu stafide, Fursecuri cu stafide
 
@@ -17608,6 +17624,7 @@ en:Almond cookies
 de:Mandelkekse, Mandel-Cookie
 fi:mantelikeksit
 fr:Croquants aux amandes, Cookies aux amandes, Biscuits aux amandes
+it:Cookie alle mandorle
 nl:Amandelkoekjes, Amandelkoekje
 ro:Biscuiți cu migdale, Fursecuri cu migdale
 
@@ -17616,6 +17633,7 @@ en:Oatmeal cookies
 de:Hafer-Cookies
 fi:Kaurakeksit
 fr:Biscuits à l'avoine
+it:Cookie all'avena
 nl:Haverkoekjes, Haverkoekje
 ru:Печенье овсяное, овсяное печенье
 
@@ -17625,6 +17643,7 @@ de:Gefüllte Kekse
 es:Galletas rellenas
 fi:täytetyt keksit
 fr:Biscuits fourrés
+it:Biscotti farciti, Biscotti ripieni
 nl:Gevulde koekjes
 ro:Biscuiți umpluți
 
