@@ -18115,7 +18115,6 @@ wikidata:en:Q666242
 <en:Breads
 en:Rusk, rusks
 fr:Biscotte
-it:Fette biscottate
 wikidata:en:Q5477096
 
 <en:Breads
@@ -18333,6 +18332,7 @@ en:Zwieback
 de:Zwiebäcke, Zwiebacke, Zwieback
 es:Biscotes
 fr:Biscottes
+it:Fette biscottate
 nl:Beschuiten, Beschuit
 ru:Сухари
 wikidata:en:Q4122049
@@ -18340,37 +18340,44 @@ wikidata:en:Q4122049
 <en:Zwieback
 fr:Biscottes multicéréales
 de:Mehrkorn Zwieback
+it:Fette biscottate multicereali
 nl:Meergranen beschuiten, Meergranen beschuit
 
 <en:Zwieback
 fr:Biscottes à la farine d'épeautre, Biscottes d’épeautre
 de:Dinkelzwieback
+it:Fette biscottate di spelta
 nl:Speltbeschuiten, Speltbeschuit
 
 <en:Zwieback
 fr:Biscottes au froment
 de:Weizenzwieback
+it:Fette biscottate di grano tenero
 nl:Tarwebeschuiten, Tarwebeschuit
 
 <en:Zwieback
 fr:Biscottes aux céréales
 de:Getreide Zwieback
+it:Fette biscottate di cereali
 nl:Granenbeschuiten, Granenbeschuit
 
 <en:Zwieback
 fr:Biscottes complètes
 de:Vollkorn Zwieback
+it:Fette biscottate integrali
 nl:Volkorenbeschuiten, Volkorenbeschuit
 
 <en:Products with reduced salt
 <en:Zwieback
 fr:Biscottes pauvres en sel
 de:Salzarmer Zwieback
+it:Fette biscottate a basso contenuto di sale
 nl:Zoutarme beschuiten, Zoutarme beschuit
 
 <en:Breads
 fr:Pains croustillants, Pain croustillant
 de:Knäckebrote
+it:Pani croccanti
 nl:Knapperige broodproducten
 
 <en:Breads
@@ -18378,6 +18385,7 @@ en:Pains de campagne, Pain de campagne
 de:Landbrot
 fi:maalaisleipä
 fr:Pains de campagne, Pain de campagne
+it:Pani rustici
 nl:Boerenbroden, Boerenbrood
 wikidata:en:Q3360595
 
@@ -18387,6 +18395,7 @@ de:Vorgebackene Brote
 es:Panes precocidos
 fi:esipaistetut leivät
 fr:Pains précuits, pain précuit
+it:Pani precotti
 nl:Voorgebakken broden, Voorgebakken brood
 
 <en:Breads
@@ -18397,6 +18406,7 @@ es:Panes especiales
 fi:erikoisleivät
 fr:Pains spéciaux, Pain spéciaux
 hu:Speciális kenyerek
+it:Pani speciali
 nl:Speciale broden, Speciaal brood
 pt:Pães especiais
 zh:特殊面包
@@ -18404,6 +18414,7 @@ zh:特殊面包
 <en:Special breads
 fr:Pains Bretzels, Pain bretzel, Pains bretzel
 de:Brezeln, Brot Brezeln
+it:Brezel, Bretzel, Pretzel
 nl:Pretzels, Pretzel
 wikidata:en:Q160525
 
@@ -18413,6 +18424,7 @@ de:Englische Muffins
 es:Muffins ingleses, Muffin inglés
 fi:englantilaiset muffinit
 fr:Pains Muffins, pain Muffins, pain Muffin, pains Muffin, pains pour Muffins, pain pour Muffins, pains pour Muffin
+it:Muffin inglesi
 nl:Muffins, Muffin
 zh:英国松饼, 英式松饼
 wikidata:en:Q429483
@@ -18424,6 +18436,7 @@ de:Hamburger-Brötchen, Burger-Brötchen
 es:Panes para hamburguesas, Panes de hamburguesa
 fi:hampurilaissämpylät
 fr:Pains Burger, Pains pour hamburgers, pain pour hamburgers
+it:Panini per hamburger, Panini da hamburger
 nl:Burgerbroodjes, Burgerbroodje
 
 <en:Special breads
@@ -18432,6 +18445,7 @@ de:Hot-Dog-Brötchen
 es:Panecillos para perritos calientes, Panecillo de perrito caliente, Panecillos para hot dogs
 fi:hod dog -sämpylät
 fr:Pains Hot Dog, Pains Hot-dog, Pains Hot Dogs, Pains Hot-Dogs, Pain Hot-dog
+it:Panini per hot dog, Panini da hot dog
 nl:Hotdog-broodjes, Hot-dog broodje
 wikidata:en:Q1047392
 
@@ -18440,6 +18454,7 @@ en:Naans, Naan
 de:Naans
 es:Naans, Naan
 fr:Naans, Naan, Nân
+it:Naan
 nl:Naanbroden, Naanbrood, Naan
 wikidata:en:Q689950
 
@@ -18450,12 +18465,14 @@ de:Pitas
 es:Pitas, Pan pita, Panes pita
 fi:pitat
 fr:Pains Pita, Pains pitta, Pains pitas, pain pitas, pains pita, pains pour pitas, pains pour pita, pain pour pitas
+it:Pita
 nl:Pittabroden, Pittabrood, Pitta
 ru:Пита
 wikidata:en:Q211340
 
 <en:Special breads
 fr:Pains Kebab, pain kebab, pains kebabs, pains pour kebab, pain pour kebabs
+it:Panini per kebab, Panini da kebab
 de:Kebab-Brot
 nl:Kebab-broden, Kebab-brood
 
@@ -18465,6 +18482,7 @@ de:Bagels
 es:Bagels, Bagel
 fi:baagelit
 fr:Pains Bagel, Bagel, Pain bagel
+it:Bagel
 nl:Bagels, Bagel
 wikidata:en:Q272502
 
@@ -18474,11 +18492,13 @@ en:Papadum, Papad
 de:Papad
 es:Papadams, Pappadams, Appalam
 fr:Pappadums, Pappadum, Papadum
+it:Papadum, Pappadam, Poppadum, Pappad, Papad
 nl:Pappadums
 wikidata:en:Q918148
 
 <en:Special breads
 es:Regañás, Regañá
+it:Regañá, Regana
 wikidata:en:Q6103703
 
 en:Breakfasts
@@ -18503,6 +18523,7 @@ de:Kakao- und Schokoladenpulver, Schkoladen- und Kakaopulver
 es:Cacaos y chocolates en polvo, chocolates y cacaos en polvo
 fi:Kaakao- ja suklaajauheet
 fr:Cacaos et chocolats en poudre, chocolats et cacaos en poudre
+it:Cioccolate e cacao in polvere
 hu:Kakaó- és csokoládéporok
 nl:Cacao en cacaopoeders, cacao en cacapoeder
 
@@ -18513,6 +18534,7 @@ de:Kakaopulver, Kakao
 es:Cacaos en polvo, cacao en polvo, cacao
 fi:kaakaojauheet
 fr:Cacaos en poudre, cacao en poudre, cacao, poudres de cacao
+it:Cacao in polvere
 nl:Cacaopoeders, Cacaopoeder, Cacao
 
 <en:Breakfasts
@@ -18523,6 +18545,7 @@ de:Kakaohaltige Getränkepulver, Kakaogranulate, Instant-Kakaos, Kakaogetränkpu
 es:Chocolates en polvo
 fi:kaakaojuomajauheet
 fr:Chocolats en poudre, chocolat en poudre, poudres de chocolat, chocolats instantanés, boissons chocolatées à reconstituer, boissons cacaotées à reconstituer, boissons chocolatées en poudre, boissons cacaotées en poudre
+it:Cioccolate in polvere
 nl:Oplospoeder voor chocolademelk, Oploschocoladepoede
 ro:Ciocolată caldă instant, Pudră de ciocolată
 
@@ -18562,7 +18585,7 @@ hy:տորթ
 id:Bolu
 io:Kuko
 is:Kaka
-it:torta
+it:Torte
 ja:ケーキ
 jv:Bolu
 kn:ಕೇಕ್
