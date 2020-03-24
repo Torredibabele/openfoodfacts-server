@@ -18153,6 +18153,7 @@ en:Wheat flatbreads, wheat tortillas
 de:Weizenfladenbrote, Weizenfladenbrot, Soft Bröd
 fi:tortillat
 fr:Tortillas de blé, pains plats au blé, galettes de blé pour tortillas, wraps de blé, galettes au blé pour tortillas, tortillas au blé, wraps au blé
+it:Tortilla di frumento
 nl:Platte graanbroden, Platte graanbrood
 sv:Halvtjockkakor, Hällakaka
 wikidata:en:Q10516678
@@ -18160,18 +18161,21 @@ wikidata:en:Q10516678
 <en:Rye-and-wheat breads
 en:Darnitsky bread
 fr:Pain Darnitsky
+it:Pani Darnitsky
 nl:Darnitskiebrood
 ru:Хлеб Дарницкий
 
 <en:Breads
 en:Ukrainian bread
 fr:Pain ukrainien
+it:Pani ucraini, Pani dell'Ucraina
 nl:Oekraïense broden
 ru:Хлеб украинский
 
 <en:Breads
 ru:Хлеб украинский новый
 fr:Pain ukrainien nouveau
+it:Pani freschi ucraini, Pani freschi dell'Ucraina
 nl:Nieuwe Oekraïense broden
 
 <en:Breads
@@ -18182,7 +18186,7 @@ es:Panes de molde
 fi:viipaloidut leivät
 fr:Pains de mie, pain de mie
 hu:Szeletelt kenyerek
-it:Pancarré
+it:Pancarrè
 nl:Gesneden broden
 pt:Pães em fatías
 ru:Хлеб нарезанный, Хлеб в нарезке
@@ -18193,6 +18197,7 @@ en:English bread without crust
 de:Brot ohne Kruste
 es:Pan inglés sin corteza, Pan de molde sin corteza
 fr:Pains de mie sans croûte
+it:Pani senza crosta
 nl:Korsteloze broden
 
 <en:Sliced breads
@@ -18201,12 +18206,14 @@ de:Geschnittenes Mehrkornbrot
 es:Panes de molde con cereales
 fi:viipaloidut siemenleivät
 fr:Pains de mie aux céréales, Pain de mie aux céréales
+it:Pancarrè ai cereali
 nl:Gesneden Meergranenbroden
 
 <en:Sliced breads
 en:Wholemeal English bread
 es:Panes de molde integrales
 fr:Pains de mie complet, Pain de mie complet
+it:Pancarrè integrali
 nl:Gesneden volkorenbroden
 
 <en:Sliced breads
@@ -18215,7 +18222,7 @@ en:Gluten-free sliced breads
 de:Glutenfreies geschnittenes Brot
 es:Panes de molde sin gluten
 fr:Pains de mie sans gluten
-it:Pancarré senza glutine
+it:Pancarrè senza glutine
 nl:Glutenvrije gesneden broden
 pl:Chleb krojony bezglutenowy
 
@@ -18225,6 +18232,7 @@ de:Toastbrote, Toastbrot
 es:Pan tostado, Tostadas
 fi:paahtoleivät
 fr:Pains grillés, Pain grillé
+it:Pani tostati
 nl:Toasts, Toast
 zh:吐司面包
 wikidata:en:Q6128
@@ -18235,6 +18243,7 @@ de:Toastbrötchen
 es:Panecillos tostados
 fi:paahdetut sämpylät
 fr:Petits pains grillés
+it:Panini tostati
 nl:Zweedse toasts, Zweedse toast
 
 <en:Breads
@@ -18243,20 +18252,25 @@ de:Ungesäuertes Brot, Azyma
 es:Panes ácimos, Pan ácimo
 fi:happamattomat leivät
 fr:Pains azymes, pain azyme
+it:Pani azzimi, pani azimi
 nl:Matzekrekkers, Matzes
 wikidata:en:Q13365777
 
 <en:Unleavened breads
 fr:Pains azymes à la farine complète, Pain azyme à la farine complète
+it:Pani azzimi integrali, Pani azimi integrali, Pani azzimi di farina integrale, Pani azimi di farina integrale
 
 <en:Unleavened breads
 fr:Pains azymes à la farine d'épeautre, Pain azyme à la farine d'épeautre
+it:Pani azzimi di spelta, Pani azimi di spelta, Pani azzimi di farina di spelta, Pani azimi di farina di spelta
 
 <en:Unleavened breads
 fr:Pains azymes à la farine de blé, Pain azyme à la farine de blé
+it:Pani azzimi di frumento, Pani azimi di frumento, Pani azzimi di farina di frumento, Pani azimi di farina di frumento
 
 <en:Unleavened breads
 fr:Pains azymes à la farine de froment, Pain azyme à la farine de froment
+it:Pani azzimi di grano tenero, Pani azimi di grano tenero, Pani azzimi di farina di grano tenero, Pani azimi di farina di grano tenero
 
 <en:Breads
 en:White breads
@@ -18264,6 +18278,7 @@ de:Weißbrote, Weißbrot
 es:Panes blancos, Pan blanco
 fi:vaaleat leivät
 fr:Pains blancs, Pain blanc
+it:Pani bianchi
 nl:Witbroden, Witbrood
 ro:Pâini albe, Pâine albă
 ru:Белый хлеб, Хлеб белый
