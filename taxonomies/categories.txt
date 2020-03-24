@@ -17922,6 +17922,7 @@ es:Empanados
 fi:leivitetyt tuotteet
 fr:Produits panés, Produit pané
 hu:Rántott termékek
+it:Prodotti impanati, Alimenti impanati
 nl:Gepaneerde producten
 sv:Panerade produkter
 
@@ -17929,6 +17930,7 @@ sv:Panerade produkter
 en:Breaded cheeses
 de:Panierter Käse
 fr:Fromages panés
+it:Formaggi impanati
 nl:Gepaneerde kazen, Gepaneerde kaas
 
 <en:Cereals and potatoes
@@ -17939,7 +17941,7 @@ es:Panes, Pan
 fi:leivät
 fr:Pains, pain
 hu:Kenyerek
-it:Pani, Pane
+it:Pani
 nl:Broden, Brood
 pl:Chleb, pieczywo
 pt:Pães, pão
@@ -17954,12 +17956,14 @@ pnns_group_2:en:Bread
 
 <en:Appetizers
 fr:Fougasses
+it:Fougasse
 
 <en:Viennoiseries
 en:Breads with raisins
 de:Rosinenbrote, Rosinenbrot
 fi:rusinaleivät
 fr:Pains aux raisins, escargots aux raisins, escargot aux raisins, pain aux raisins
+it:Pani all'uvetta, Pani con uvetta
 nl:Rozijnenbroden, Rozijnenbrood
 ro:Pâini cu stafide, Pâine cu stafide
 #Escargot aux raisin a subcategory?
@@ -17970,6 +17974,7 @@ de:Baguettes, Baguette
 es:Baguetes
 fi:patongit
 fr:Baguettes, baguette
+it:Francesini, Baguette
 nl:Baguettes, Baguette
 ro:Baghete
 zh:法式面包, 法式长棍面包
@@ -17977,12 +17982,13 @@ wikidata:en:Q208172
 
 <en:Breads
 fr:Pains de tradition française, pain de tradition française, pains traditionnels français, pain traditionnel français, pains traditionnels de France, pain traditionnel de France, pains tradition, pain tradition
+it:Pani della tradizione francese, Pani tradizionali francesi
 #Synonyms are the terms defined in the decret : https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000000727617
 
 <en:Baguettes
 <fr:Pains de tradition française
 fr:Baguettes de tradition française, Baguette de tradition française, baguettes traditionnelles françaises, baguette traditionnelle française, baguettes traditionnelles de France, baguette traditionnelle de France, baguettes tradition, baguette tradition
-
+it:Francesini della tradizione francese, Francesini tradizionali francesi, Baguette della tradizione francese, Baguette tradizionali francesi
 # description:en:BREAD CRUMBS are sliced residue of dry bread, used for breading or crumbing foods, topping casseroles, stuffing poultry, thickening stews, adding inexpensive bulk to soups, meatloaves and similar foods, and making a crisp and crunchy covering for fried foods, especially breaded cutlets like tonkatsu and schnitzel.
 
 <en:Breads
@@ -18005,7 +18011,7 @@ gl:Pan relado
 he:פירורי לחם
 id:Tepung roti
 io:Raspo-pano
-it:pangrattato
+it:Pangrattato, Pan grattato
 ja:パン粉, パンこ
 ko:빵가루
 lt:Malti džiūvėsiai
@@ -18030,6 +18036,7 @@ en:Wheat crumbs
 de:Weizen Semmelbrösel, Weizen Paniermehl
 es:Pan rallado de trigo
 fr:chapelure de blé
+it:Pangrattato di frumento, Pan grattato di frumento
 nl:Graanpaneermelen, Graanpaneermeel
 
 <en:Bread crumbs
@@ -18037,6 +18044,7 @@ en:Panko
 de:Panko, Panko-Mehl
 es:Panko
 fr:Panko
+it:Panko
 nl:Panko
 wikidata:en:Q1820454
 
@@ -18044,6 +18052,7 @@ wikidata:en:Q1820454
 en:buns, rolls
 de:Brötchen, Semmeln
 fr:Buns (petits pains)
+it:Panini al latte
 nl:Broodjes
 
 <en:Breads
@@ -18067,6 +18076,7 @@ en:Brown breads
 de:Vollkornbrote, Vollkornbrot
 es:Panes integrales, Pan integral
 fr:Pains complets, pain complet
+it:Pani integrali
 nl:Bruine broden, Bruinbrood, Bruin brood
 ro:Pâine brună, Pâine neagră
 wikidata:en:Q940999
@@ -18077,6 +18087,7 @@ de:Knäckebrote, Knäckebrot
 es:Tostadas ligeras crujientes
 fi:näkkileivät
 fr:Tartines craquantes, tartine craquante, tartines croustillantes, tartine croustillante
+it:Gallette croccanti, Gallette croccanti norvegesi, Gallette norvegesi, Gallette croccanti svedesi
 nl:Crackers, Cracker
 wikidata:en:Q251981
 
@@ -18096,7 +18107,8 @@ ro:Pâini fără gluten, Pâine fără gluten
 en:Flatbreads, Flatbread
 de:Fladenbrote, Fladenbrot
 es:Panes planos
-fr: Pains plats, pain plat
+fr:Pains plats, pain plat
+it:Pani bassi
 nl:Platte broden, Flat breads
 wikidata:en:Q666242
 
@@ -18112,7 +18124,7 @@ de:Roggenbrote
 es:Panes de centeno, Pan de centeno
 fi:ruisleivät
 fr:Pains de seigle, Pains au seigle, Pain au seigle
-it:Pane di segale, pane nero
+it:Pani di segale, pani neri
 nl:Roggebroden, Roggebrood
 ro:Pâine de secară, Pâine cu faină de secară
 ru:Ржаной хлеб, хлеб ржаной, чёрный хлеб
@@ -18122,6 +18134,7 @@ wikidata:en:Q3893120
 en:Rye-and-wheat breads, Rye-and-wheat bread
 de:Roggen- und Weizenbrote
 fr:Pains de seigle et de blé
+it:Pani di segale e frumento
 nl:Rogge-graanbroden
 ru:Хлеб ржано-пшеничный, Ржано-пшеничный хлеб
 
@@ -18130,6 +18143,7 @@ en:Wheat breads
 de:Weizenbrote
 fi:vehnäleivät
 fr:Pains de blé
+it:Pani di frumento
 nl:Graanbroden, Graanbrood
 ro:Pâine cu făină de grâu, Pâine de grâu
 
