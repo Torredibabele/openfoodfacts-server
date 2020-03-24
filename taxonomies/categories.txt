@@ -17652,33 +17652,41 @@ ro:Biscuiți umpluți
 en:Chocolate sandwich cookies
 de:Kakao Kekse gefüllt mit Vanillegeschmack
 fr:Biscuits cacaotés fourrés goût vanille, biscuits cacaotés fourrés
+it:Biscotti al cacao farciti alla vaniglia, Biscotti al cacao ripieni di vaniglia
 nl:Geperste chocoladekoekjes
 
 <en:Biscuits
 fr:Barquettes
+it:Barchette, Barquette
 
 <en:Biscuits
-fr: Barquettes aux fruits
+fr:Barquettes aux fruits
+it:Barchette alla fruta
 
 <fr:Barquettes
 fr:Barquettes au chocolat
+it:Barchette al cioccolato
 
 <fr:Barquettes aux fruits
 <en:Strawberry biscuits
 fr:Barquettes à la fraise
+it:Barchette alla fragola
 
 <en:Biscuits
 fr:Crêpes dentelle
+it:Crespelle dentelle, Crêpes dentelle, Crepes dentelle
 nl:Flinterdunne flensjes
 wikidata:en:Q16545117
 
 <fr:Crêpes dentelle
 <en:Chocolate biscuits
 fr:Crêpes dentelle au chocolat
+it:Crespelle dentelle al cioccolato, Crêpes dentelle al cioccolato, Crepes dentelle al cioccolato
 oqali_family:en: fr:Biscuits et gateaux industriels - Crepes dentelles au chocolat
 
 <fr:Crêpes dentelle
 fr:Crêpes dentelle natures
+it:Crespelle dentelle al naturale, Crêpes dentelle al naturale, Crepes dentelle al naturale
 oqali_family:en: fr:Biscuits et gateaux industriels - Crepes dentelles nature
 
 <en:Biscuits
@@ -17686,6 +17694,7 @@ en:Strawberry biscuits, Biscuits with strawberry, Biscuit with strawberry
 de:Erdbeerkekse
 fi:mansikkakeksit
 fr:Biscuits à la fraise, biscuit à la fraise
+it:Biscotti alla fragola
 nl:Aardbeienbiscuits, Aardbeienbiscuit
 ro:Biscuiți cu căpșuni
 zh:草莓饼干
@@ -17740,6 +17749,7 @@ oqali_family:en: fr:Biscuits et gateaux industriels - Biscuits chocolates avec t
 
 <fr:Biscuits tablette de chocolat
 fr:Biscuits tablette fourrée
+it:Biscotti barretta tavoletta
 oqali_family:en: fr:Biscuits et gateaux industriels - Biscuits chocolates avec tablette fourree
 
 <fr:Biscuits tablette de chocolat
@@ -17756,6 +17766,7 @@ it:Biscotti con tavoletta di cioccolato al latte
 
 <en:Biscuits
 fr:Biscuits édulcorés, Biscuits avec édulcorants
+it:Biscotti con edulcoranti, Biscotti con dolcificanti, Biscotti con zuccheri aggiunti
 nl:Biscuits met zoetstoffen
 
 <en:Biscuits
