@@ -17773,6 +17773,7 @@ nl:Biscuits met zoetstoffen
 en:Flaky biscuits
 fi:lohkeilevat keksit
 fr:Biscuits feuilletés, biscuit feuilleté
+it:Biscotti di pasta sfoglia
 nl:Bladerdeegkoekjes, Bladerdeegkoekje
 
 <en:Flaky biscuits
@@ -17780,6 +17781,7 @@ en:Palmiers
 de:Schweinsohren, Schweineohrengebäck, Schweine-Öhrchen, Palmiers
 es:Palmeras, palmeritas
 fr:Palmiers, Palmiers feuilletés
+it:Ventagli di pasta sfoglia, Prussiane
 nl:Krakelingen
 wikidata:en:Q2096475
 
@@ -17789,11 +17791,13 @@ de:Geflügelfleischaufstriche, Geflügel-Rilletten, Geflügel-Pottsusen
 es:Galletas secas
 fi:kuivat keksit
 fr:Biscuits secs, biscuit sec
+it:Biscotti secchi
 hu:Száraz kekszek
 nl:Droge biscuits
 
 <fr:Biscuits secs
 fr:Boudoirs, boudoir, biscuits à la cuiller, biscuit à la cuiller, biscuits à la cuillère, biscuit à la cuillère
+it:Savoiardi
 nl:Lange vingers
 wikidata:en:Q16533537
 oqali_family:en: fr:Biscuits et gateaux industriels - Boudoirs
@@ -17803,12 +17807,14 @@ oqali_family:en: fr:Biscuits et gateaux industriels - Boudoirs
 en:Florentines, Florentine, Florentines biscuits, Florentine biscuit
 de:Florentiner
 fr:Florentins, Florentin, Biscuit florentin, Biscuits florentins
+it:Fiorentini, Biscotti fiorentini
 nl:Florentines
 wikidata:en:Q1429469
 oqali_family:en: fr:Biscuits et gateaux industriels - Florentins
 
 <fr:Biscuits sablés
 fr:Palets, Palet, Palets sablés, Palet sablé, Palet breton, Palets bretons
+it:Biscotti bretoni, Palet, Biscotti di frolla bretoni
 
 # description:en:The "PETIT BEURRE", or "Véritable Petit Beurre", also known under the initials "VPB", is a kind of shortbread from Nantes, that is best known in France. It is the Petit Beurre of the LU society, which has become a success worldwide.
 
@@ -17820,6 +17826,7 @@ el:πτι-μπερ
 fr:petits beurres, Petit beurre
 he:פתי בר
 id:Petit-Beurre
+it:Petit beurre, Petit-Beurre
 lb:Petit-Beurre
 nl:Petit Beurre
 sr:Пти-бер
@@ -17832,6 +17839,7 @@ wikidata:en:Q19573669
 # category/petit-beurre has 263 products @2018-05-19
 
 <en:Biscuits
+it:Marie
 nl:Mariakaakjes, Mariakaakje
 
 <en:Biscuits
@@ -17839,6 +17847,7 @@ en:Shortbread cookies
 ca:Galetes de mantega
 de:Butterkekse
 fr:Biscuits sablés, Biscuit sablé, Sablés, Sablé
+it:Biscotti di pasta frolla, Biscotti di pastafrolla
 nl:Zandkoekjes, Zandkokje
 wikidata:en:Q2915670
 
@@ -17848,6 +17857,7 @@ ca:Pa de gingebre
 de:Lebkuchen
 fi:piparit
 fr:Pains d'épices, pains d'épice, pain d'épices, pain d'épice
+it:Pan di zenzero
 nl:Ontbijtkoeken, Ontbijtkoek
 ru:Имбирное печенье и пряники
 sv:Pepparkakor, Pepparkaka
@@ -17858,6 +17868,7 @@ oqali_family:en: fr:Biscuits et gateaux industriels - Pains d_epices
 en:Shortbread
 de:Butterkekse
 fr:Shortbread
+it:Shortbread
 nl:Shortbread
 wikidata:en:Q652695
 
@@ -17865,6 +17876,7 @@ wikidata:en:Q652695
 en:Speculoos
 de:Speculoos
 fr:Spéculoos, spéculos
+it:Speculoos
 nl:Kandijkoekjes, Kandijkoekje, Speculoos
 wikidata:en:Q6591
 oqali_family:en: fr:Biscuits et gateaux industriels - Speculoos
@@ -17886,6 +17898,7 @@ es:spekulatius
 fa:اسپکولاس
 fi:Speculaas
 gd:Spekulatius
+it:Speculaas
 ja:スペキュラース
 ko:스페퀼로스
 nb:Spekulatius
