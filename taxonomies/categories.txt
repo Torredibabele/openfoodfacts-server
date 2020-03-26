@@ -18663,6 +18663,7 @@ en:Dessert mixes, Dessert mix
 de:Nachtischmischungen, Nachtischmischung
 fi:jälkiruokajauheet
 fr:Préparations pour desserts, préparation pour dessert
+it:Preparati per dessert
 nl:Dessertmixes, Toetjesmixes, Dessertmengelingen
 
 <en:Cakes
@@ -18672,28 +18673,35 @@ en:Cake mixes, Cake Mix, Preparations for cakes
 de:Backmischungen für Kuchen, Kuchenbackmischungen
 fi:kakkujauhosekoitukset
 fr:Préparations pour gâteaux, préparation pour gâteau
+it:Preparati per torte
 nl:Cake mix
 
 <en:Dessert mixes
 fr:Préparations pour entremets
+it:Preparati per intermezzi, Preparati per tramezzi
 
 <en:Dessert mixes
 fr:Préparations pour flans, Préparations pour flans pâtissiers
+it:Preparati per budino
 
 <en:Dessert mixes
 fr:Préparations pour crèmes dessert
+it:Preparati per creme da dessert
 
 <en:Dessert mixes
 fr:Préparations pour panna cotta
+it:Preparati per panna cotta
 
 <en:Dessert mixes
 fr:Préparations pour desserts lactés
+it:Preparati per dessert a base di latte, Preparati per dessert di latte
 
 <en:Dessert mixes
 en:Pancake mixes, pancake mix
 de:Pfannkuchenmischung
 fi:lettujauhot
 fr:Préparations pour crêpes
+it:Preparati per crespelle, Preparati per crêpe, Preparati per crepe, Preparati per pancake
 nl:Pancake mixes
 
 
@@ -18702,6 +18710,7 @@ en:Baumkuchen
 de:Baumkuchen
 eo:Trunkkuko
 fr:Gâteaux à la broche, Gâteau à la broche
+it:Torte albero, Baumkuchen
 ja:バウムクーヘン
 nl:Baumkuchen
 ru:Баумкухен
@@ -18713,7 +18722,7 @@ en:Black Forest gâteau, Black Forest cake
 de:Schwarzwälder Kirschtorte, Schwarzwälderkirschtorte, Schwarzwäldertorte
 es:Pastel de la Selva Negra, Torta Selva Negra, Tarta Selva Negra
 fr:Forêt-noires, Forêts noires
-it:Torta della Foresta Nera
+it:Torte della Foresta Nera, Torte Foresta Nera
 nl: Schwarzwälder Kirschtaarten
 wikidata:en:Q19028
 
@@ -18721,11 +18730,13 @@ wikidata:en:Q19028
 en:Marble cakes
 de:Marmorkuchen,
 fr:Gâteaux marbrés, gâteau marbré
+it:Torte marmorizzate
 nl:Marmercakes, Marmercake
 oqali_family:en: fr:Biscuits et gateaux industriels - Gateaux marbres
 
 <en:Cakes
 fr:Nonnettes
+it:Nonnette
 wikidata:en:Q3343365
 
 <en:Cakes
@@ -18734,7 +18745,7 @@ de:Muffins, muffin
 es:Muffins, muffin
 fi:muffinit
 fr:Muffins, muffin
-it:Muffins, muffin
+it:Muffin
 nl:Muffins, Muffin
 zh:松饼
 wikidata:en:Q207220
@@ -18745,6 +18756,7 @@ en:Chocolate muffins
 de:Schokoladenmuffins
 fi:suklaamuffinit
 fr:Muffins au chocolat, muffin au chocolat
+it:Muffin al cioccolato
 nl:Chocolademuffins, Chocolademuffin
 zh:巧克力松饼
 
@@ -18752,6 +18764,7 @@ zh:巧克力松饼
 en:Banana muffins
 de:Bananenmuffins
 fr:Muffins à la banane
+it:Muffin alla banana
 nl:Bananenmuffins, Bananenmuffin
 zh:草莓松饼
 
@@ -18759,6 +18772,7 @@ zh:草莓松饼
 en:Vanilla muffins
 de:Vanillemuffins
 fr:Muffins à la vanille
+it:Muffin alla vaniglia
 nl:Vanille muffins, Vanille muffin
 zh:香草松饼
 
@@ -18766,22 +18780,26 @@ zh:香草松饼
 en:Blueberry muffins
 de:Heidelbeermuffins, Blaubeermuffins
 fr:Muffins à la myrtille
+it:Muffin al mirtillo
 nl:Blauwe bessen muffins
 zh:蓝莓松饼
 
 <fr:Muffins
 fr:Muffins aux bleuets
+it:Muffin al mirtillo gigante americano, Muffin al mirtillo gigante
 
 <en:Cakes
 en:Doughnuts, Donuts
 de:Donuts, Donutringe
 fi:donitsit
 fr:Donuts
+it:Ciambelle, Doughnut, Donut
 nl:Donuts, Donut
 
 <en:Cakes
 en:Breton cakes
 fr:Gâteaux bretons, gâteau breton
+it:Torte bretoni
 nl:Bretons cakes
 
 <en:Cakes
@@ -18797,6 +18815,7 @@ wikidata:en:Q548319
 <en:Cakes
 en:Fars, Far, Fars bretons, breton fars
 fr:Fars, Far, Fars bretons, fars
+it:Far breton
 nl:Fars
 wikidata:en:Q1396059
 
@@ -18806,13 +18825,14 @@ en:Clafoutis, clafouti
 de:Clafoutis
 es:Clafoutis
 fr:Clafoutis, Milliards, Milliard
-it:Clafoutis
+it:Clafoutis, Clafouti
 nl:Clafoutis, Clafouti
 wikidata:en:Q1094707
 
 <en:Clafoutis
 en:Cherry clafoutis
 fr:Clafoutis aux cerises
+it:Clafoutis alla ciliegia
 nl:Kersenclafoutis, Kersenclafouti
 
 <en:Brioches
@@ -18820,7 +18840,7 @@ en:Panettone
 de:Panettone
 es:Panettone
 fr:Panettone, Panettones, Panetonnes, Panetonne
-it:Panetonne
+it:Panettone
 nl:Panettones, Panettone, panetonnes, panetonne
 pt:Panettone
 wikidata:en:Q854342
@@ -18834,6 +18854,7 @@ en:Small brioches
 de:Kleine Brioches
 fi:pienet briossit
 fr:Briochettes
+it:Briochine
 nl:Kleine brioches
 
 <en:Desserts
@@ -18842,7 +18863,7 @@ cs:Pudinky
 de:Puddings
 fi:vanukkaat
 fr:Puddings, Pudding
-it:Puddings
+it:Pudding
 nl:Puddings, Pudding
 ru:Пудинги, Пудинг
 wikidata:en:Q9053
@@ -18854,7 +18875,7 @@ en:Jelly desserts, jellies dessert, gelatin desserts
 de:Götterspeisen, götterspeise
 es:Gelatinas, postres gelificados
 fr:Desserts gélifiés
-it:Gelatina dolce
+it:Dessert di gelatina
 wikidata:en:Q4545971
 
 #Tartufo is an italian dessert made of ice cream with chocolate in the center. Tartufo di Pizzo is a PGI.
