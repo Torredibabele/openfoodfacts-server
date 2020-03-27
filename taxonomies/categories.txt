@@ -4845,6 +4845,7 @@ nl:Wijnen zonder geografische oorsprong indicatie
 
 <en:Wines
 fr:Fontaines à vin
+it:Bag-in-box, Bag in box
 nl:Wijnfonteinen
 
 <en:Wines
@@ -4854,6 +4855,7 @@ de:Federweißer, Neuer Wein
 eo:Nova vino
 es:Federweisser
 fr:Vin bourru
+it:Vini torbolini, Vini mosto
 nl:Nieuwe wijnen, Nieuwe wijn
 pl:Burčák
 sw:Federweisser
@@ -4865,6 +4867,7 @@ de:Schaumweine, Schaumwein
 es:Vinos espumosos
 fi:kuohuviinit
 fr:Vins effervescents
+it:Vini frizzanti, Vini effervescenti
 nl:Mousserende wijnen, Schuimwijn, Bubbelwijn
 wikidata:en:Q321263
 
@@ -4875,6 +4878,7 @@ de:Roteweine
 es:Vinos tintos, Vino tinto
 fi:punaviinit
 fr:vins rouges, vin rouge
+it:Vini rossi
 nl:Rode wijnen, Rode wijn
 pt:Vinhos tintos, vinho tinto
 zh:红葡萄酒, 红酒
@@ -4883,6 +4887,7 @@ wikidata:en:Q1827
 <en:Red wines
 en:Organic red wines
 fr:Vin rouge bio
+it:Vini rossi biologici
 nl:Biologische rode wijn
 zh:有机红葡萄酒, 有机红酒
 
@@ -4901,7 +4906,7 @@ fi:Valkoviini
 fo:Hvítvín
 fr:Vins blancs, Vin blanc
 gl:Viño branco
-it:Vino bianco
+it:Vini bianchi
 kk:Ақ шарап
 ko:백포도주
 lb:Wäisse Wäin
@@ -4922,17 +4927,21 @@ wikidata:en:Q10210
 <en:Wines
 en:Dessert wines
 fr:vins liquoreux
+it:Vini liquorosi
 nl:Dessertwijnen, Dessertwijn
 wikidata:en:Q1200945
 
+
 <en:Wines
 fr:vins moelleux
+it:Vini amabili
 nl:Zachte wijnen, Zachte wijn
 wikidata:en:Q16682691
 
 <en:Wines
 en:Flavoured wines
 fr:Vins aromatisés
+it:Vini aromatizzati, Vini con aromi
 nl:Gearomatiseerde wijnen, Gearomatiseerde wijn
 
 <en:Beverages
@@ -4945,7 +4954,7 @@ fi:alkoholittomat juomta
 fr:Boissons sans alcool, boisson sans alcool
 he:משקאות ללא אלכוהול
 hu:Alkoholmentes italok
-it:Bevande analcoliche
+it:Bevande analcoliche, Bevande senza alcol
 nl:Alcoholvrije dranken, Alcoholvrije drank
 pl:Napoje bezalkoholowe
 pt:Bebidas não alcoólicas
@@ -4960,6 +4969,7 @@ zh:无酒精饮料
 en:Non-Alcoholic wines, Alcohol-free wines
 de:alkoholfreie Weine
 fr:Vins sans alcool, vins déalcoolisés
+it:Vini dealcolizzati, Vini senza alcol
 nl:Alcoholvrije wijnen, Alcoholvrije wijn
 pl:Wino bezalkoholowe
 
@@ -4969,6 +4979,7 @@ de:Bordeauxweine
 es:Burdeos, vinos de Burdeos
 fi:Bordeaux
 fr:Bordeaux, Vins de Bordeaux
+it:Bordaux, Vini Bordeaux
 nl:Bordeaux
 wikidata:en:Q168461
 
@@ -4980,6 +4991,7 @@ es:Vinos de Francia, vinos franceses
 fi:ranskalaiset viinit
 fr:Vins français, vin français
 hu:Francia borok
+it:Vini francesi, Vini della Francia
 nl:Franse wijnen, Franse wijn
 pt:Vinhos da França, Vinhos franceses
 zh:法国葡萄酒
@@ -12149,6 +12161,7 @@ wikidata:en:Q2140793
 en:Wines from America, American wines
 de:amerikanische Weine
 fr:Vins américains
+it:Vini statunitensi, Vini americani, Vini degli USA, Vini degli Stati Uniti d'America
 nl:Amerikaanse wijnen
 wikidata:en:Q1968496
 
@@ -12156,6 +12169,7 @@ wikidata:en:Q1968496
 en:Wines from California, Californian Wines, California Wines
 de:kalifornische Weine
 fr:Vins californiens, vins de Californie, vin californien, vin de Californie
+it:Vini californiani, Vini della California
 nl:Californische wijnen
 wikidata:en:Q1134713
 
@@ -12163,21 +12177,25 @@ wikidata:en:Q1134713
 en:Wines from Australia, Australian Wines
 de:Weine aus Australien
 fr:Vins d'Australie
+it:Vini australiani, Vini dell'Australia
 nl:Australische wijnen
 wikidata:en:Q2129654
 
 <en:Wines from Australia
 en:South Australian wine, Wines from South Australia
+it:Vini dell'Australia del Sud
 wikidata:en:Q7566214
 
 <en:Wines from Australia
 en:West Australian wine, Wines from West Australia
+it:Vini dell'Australia Occidentale
 wikidata:en:Q7984365
 
 <en:Wines
 en:Wines from Austria, Austrian Wines
 de:Weine aus Österreich,österreichische Weine
 fr:Vins d'Autriche
+it:Vini austriaci, Vini dell'Austria
 nl:Oostenrijkse wijnen
 wikidata:en:Q23237
 
@@ -12297,6 +12315,7 @@ country:en:Austria
 en:Wines from Brazil, Brazilian Wines
 de:Weine aus Brasilien
 fr:Vins du Brésil, vins brésiliens
+it:Vini brasiliani, Vini del Brasile
 nl:Braziliaanse wijnen, Braziliaanse wijn, Wijn uit Brazilië
 wikidata:en:Q2038437
 
@@ -12306,6 +12325,7 @@ country:en:Brazil
 
 <en:Wines
 en:Wines from Belgium, Belgian Wines
+it:Vini belgi, Vini del Belgio
 nl:Belgische wijnen
 wikidata:en:Q1738893
 
@@ -12349,6 +12369,7 @@ country:en:Belgium
 
 <en:Wines
 en:Wines from Bulgaria, Bulgarian Wines
+it:Vini bulgari, Vini della Bulgaria
 nl:Bulgaarse wijnen, Bulgaarse wijn, Wijn uit Bulgarije
 wikidata:en:Q1806971
 
@@ -12570,6 +12591,7 @@ country:en:Bulgaria
 
 <en:Wines
 en:Wines from Canada, Canadian Wines
+it:Vini canadesi, Vini del Canada
 nl:Canadese wijnen, Canadese wij, Wijn uit Canada
 wikidata:en:Q1938910
 
@@ -12605,10 +12627,12 @@ country:en:Canada
 en:Wines from Chile, Chilean Wines
 de:Weine aus Chile
 fr:Vin du Chili, Vin Chilien
+it:Vini cileni, Vini del Cile
 nl:Chileense wijnen, Chileense wijn, Wijn uit Chili
 
 <en:Wines
 en:Wines from Croatia, Croatian Wines
+it:Vini croati, Vini della Croazia
 nl:Kroatische wijnen, Kroatische wijn, Wijn uit Kroatië
 
 <en:Wines from Croatia
@@ -12677,6 +12701,7 @@ country:en:Croatia
 
 <en:Wines
 en:Wines from Cyprus
+it:Vini ciprioti, Vini di Cipro
 nl:Cypriotische wijnen
 
 <en:Wines from Cyprus
@@ -12722,6 +12747,7 @@ country:en:Cyprus
 <en:Wines
 en:Wines from Czech Republic
 fr:Vins de République tchèque
+it:Vini cechi, Vini della Cechia, Vini della Repubblica Ceca
 nl:Tsjechische wijnen, Tsjechische wijn
 
 <en:Wines from Czech Republic
@@ -12760,6 +12786,7 @@ country:en:Czech Republic
 en:Wines from Georgia, Georgian wines
 de:Weine aus Georgien
 fr:Vins georgiens, vin géorgien, vins de Géorgie, vin de Géorgie
+it:Vini georgiani, Vini della Georgia
 nl:Georgische wijnen, Georgische wijn
 
 <en:Wines from Georgia
@@ -12834,6 +12861,7 @@ country:en:Georgia
 en:Wines from Germany, German wines
 de:Weine aus Deutschland
 fr:Vins allemands, vin allemand, vins d'Allemagne, vin d'Allemagne
+it:Vini tedeschi, Vini della Germania
 nl:Duitse wijnen, Duitse wijn
 
 <en:Wines from Germany
@@ -12992,6 +13020,7 @@ country:en:Germany
 en:Wines from Greece, Greek wines
 de:Weine aus Griechenland
 fr:Vins grecs, vin grec, vins de Grèce, vin de Grèce
+it:Vini greci, Vini della Grecia
 nl:Griekse wijnen, Griekse wijn, Wijn uit Griekenland
 wikidata:en:Q1779616
 
@@ -13529,6 +13558,7 @@ en:Wines from Hungary, Hungarian Wines
 de:Weine aus Ungarn
 fr:Vins de Hongrie, vins hongrois
 hu:Magyar borok, Borok magyarországból, Magyarországi borok
+it:Vini ungheresi, Vini dell'Ungheria
 nl:Hongaarse wijnen, Hongaarse wijn, Wijn uit Hongarije
 country:en:Hungary
 
@@ -13678,6 +13708,7 @@ de:italienische Weine
 fi:italialaiset viinit
 fr:Vins italiens, vin italien, vins d'Italie, vin d'Italie
 hu:Olasz borok, Olaszországi borok
+it:Vini italiani, Vini dell'Italia
 nl:Italiaanse wijnen, Italiaanse wijn, Wijn uit Italië
 wikidata:en:Q1125341
 
@@ -16372,6 +16403,7 @@ country:en:Italy
 <en:Wines
 en:Wines from Luxembourg
 fr:Vins du Luxembourg, vins luxembourgeois
+it:Vini lussemburghesi, Vini del Lussemburgo
 nl:Luxemburgse wijnen, Luxemburgse wijn, Wijn uit Luxemburg
 
 <en:Wines from Luxembourg
@@ -16429,6 +16461,7 @@ country:en:Luxembourg
 <en:Wines
 en:Wines from Malta
 fr:Vins de Malte, Vins maltais
+it:Vini maltesi, Vini di Malta
 nl:Maltese wijnen, Maltese wijn, Wijn uit Malta
 
 <en:Wines from Malta
@@ -16447,6 +16480,7 @@ country:en:Malta
 en:Wines from Portugal, Portuguese wines
 de:portugiesische Weine
 fr:Vins portugais, Vins du Portugal, Vin portugais, Vin du Portugal
+it:Vini portoghesi, Vini del Portogallo
 nl:Portugese wijnen, Portugese wijn, Wijn uit Portugal
 wikidata:en:Q1754670
 
@@ -16796,6 +16830,7 @@ de:spanische Weine
 es:Vinos de España, vinos españoles.
 fi:espanjalaiset viinit
 fr:Vins espagnols, Vin espagnol, Vin d'Espagne, Vins d'Espagne
+it:Vini spagnoli, Vini della Spagna
 nl:Spaanse wijnen, Spaanse wijn, Wijn uit Spanje
 wikidata:en:Q1432594
 
@@ -16816,6 +16851,7 @@ de:Champagner
 es:Champán
 fi:shampanjat
 fr:Champagnes, champagne, vins de Champagne
+it:Champagne
 nl:Champagnes, Champagne
 wikidata:en:Q134862
 
@@ -17037,6 +17073,7 @@ de:Roséweine, Roséwein
 es:Vinos rosados
 fi:rosé-viinit
 fr:Vins rosés, vin rosé
+it:Vini rosati, Vini rosè
 nl:Rosé wijnen, Rosé wijn, Rosé
 
 en:Dried products, dehydrated products, Dried foods, Dehydrated foods
@@ -18991,6 +19028,7 @@ de:Milchreisbrei, Milchreis, Reisbrei
 es:Arroz con leche
 fi:riisivanukkaat
 fr:Riz au lait
+it:Risolatte, Creme di riso, Cremariso
 nl:Rijstepaps
 pl:Puddingi ryżowe
 wikidata:en:Q19029
@@ -18999,7 +19037,8 @@ wikidata:en:Q19029
 en:Vanilla flavored rice pudding
 de:Vanillemilchreis
 fi:vaniljan makuinen riisivanukas
-fr:Riz au lait saveur vanille
+fr:Riz au lait saveur vanille, Creme di riso alla vaniglia, Cremariso alla vaniglia
+it:Risolatte alla vaniglia
 nl:Rijstpudding met vanille
 
 <en:Cakes
@@ -19007,12 +19046,14 @@ en:Fruit cakes
 de:Obstkuchen, Fruchtkuchen
 fi:hedelmäkakut
 fr:Cakes aux fruits, cake aux fruits, cake aux fruits confits, cakes aux fruits confits
+it:Panfrutti, Fruitcake
 nl:Vruchtencakes
 wikidata:en:Q675987
 oqali_family:en: fr:Biscuits et gateaux industriels - Cakes aux fruits confits
 
 <en:Cakes
 fr:Financiers, financier, visitandines, visitandine, financiers aux amandes, financier aux amandes
+it:Finanzieri
 wikidata:en:Q588378
 oqali_family:en: fr:Biscuits et gateaux industriels - Financiers
 
@@ -19020,6 +19061,7 @@ oqali_family:en: fr:Biscuits et gateaux industriels - Financiers
 en:Cat tongue
 de:Katzenzungen
 fr:Langues de chat, Langue de chat
+it:Lingue di gatto
 nl:Kattetongen
 wikidata:en:Q960635
 
@@ -19030,22 +19072,26 @@ de:Madeleine
 es:Magdalenas
 fi:madeleinet
 fr:Madeleines
+it:Madeleine
 nl:Madeleines
 pt:Madalenas
 wikidata:en:Q604408
 
 <en:Madeleines
 fr:Madeleines natures
+it:Madeleine al naturale
 oqali_family:en: fr:Biscuits et gateaux industriels - Madeleines nature
 
 <en:Madeleines
 en:Madeleines with raisin, Raisin madeleines
 de:Madeleines mit Rosinen
 fr:Madeleines aux raisins, Madeleines au raisin, Madeleine aux raisins, Madeleines au raisin
+it:Madeleine all'uvetta
 nl:Madeleines met rozijnen
 
 <en:Madeleines
 fr:Madeleines longues
+it:Madeleine lunghe
 de:Lange Madeleines
 
 <en:Madeleines
@@ -19054,6 +19100,7 @@ en:Chocolate madeleines
 de:Madeleines mit Schokolade
 fi:suklaamadeleinet
 fr:Madeleines au chocolat
+it:Madeleine al cioccolato
 nl:Chocolade madeleines
 oqali_family:en: fr:Biscuits et gateaux industriels - Madeleines au chocolat
 
@@ -19062,6 +19109,7 @@ en:Pound Cake
 de:Rührkuchen
 es:Bizcocho
 fr:Quatre-quarts, quatre-quart
+it:Torta quattro quarti, Pound cake
 nl:Pondscake
 wikidata:en:Q29443
 
@@ -19119,7 +19167,7 @@ es:Dulces
 fi:Sokerileipomotuotteet
 fr:Confiseries, confiserie, confiserie
 hu:Sütemények, Cukrász áruk
-it:Dolci, dolce
+it:Dolciumi
 nl:Confiserie, Suikerwerk
 pt:Confeitaria
 ru:Кондитерские изделия
@@ -19132,7 +19180,7 @@ en:Cotton candy, fairy floss, candy floss
 de:Zuckerwatte, Gesponnener Zucker
 es:Algodón de azúcar, nube de algodón
 fr:Barbes à papa
-it:Zucchero filato
+it:Zuccheri filati
 nl:Suikerspin
 wikidata:en:Q49737
 
@@ -19140,14 +19188,14 @@ wikidata:en:Q49737
 en:Calissons
 de:Calissons
 fr:Calissons
-it:Calissons
+it:Calisson
 nl:Calissons
 
 <en:Calissons
 en:Calissons d'Aix, Calissons of Aix
 de:Calissons d'Aix, Calissons aus Aix-en-Provence
 fr:Calissons d'Aix
-it:Calissons d'Aix
+it:Calisson d'Aix
 nl:Calissons d'Aix
 
 #should contain only chocolates and not pralines, which are a confectionery made with chocolate, and should be classified in "Bonbons"
@@ -19161,7 +19209,7 @@ es:Chocolates
 fi:suklaat
 fr:Chocolats, chocolat, produits chocolatés, produits au chocolat
 hu:Csokoládék, csokoládé termékek
-it:Cioccolato
+it:Cioccolati
 nl:Chocoladeproducten
 pl:Czekolada, Produkty czekoladowe
 pt:Chocolates, produtos com chocolate
@@ -19185,6 +19233,7 @@ zh:什锦巧克力
 <en:Chocolates
 en:Plant milk chocolates
 fr:Chocolats au lait végétal
+it:Cioccolati al latte vegetale
 
 <en:Chocolates
 en:Milk chocolates, milk chocolate
@@ -19196,7 +19245,7 @@ es:Chocolates con leche
 fi:maitosuklaat
 fr:Chocolats au lait, chocolat au lait
 hu:Tejcsokoládé
-it:Cioccolato al latte
+it:Cioccolati al latte
 nl:Melkchocoladen
 pl:Czekolada mleczna
 pt:Chocolates de leite, chocolate de leite
@@ -19213,7 +19262,7 @@ en:Milk chocolates with sweeteners
 de:Milchschokolade mit Süßstoffen
 fr:Chocolats au lait édulcorés, Chocolats au lait aux édulcorants
 hu:Tejes csokoládék édesítőszerekkel
-it:Cioccolato al latte con edulcorante
+it:Cioccolati al latte con dolcificanti, Cioccolati al latte con edulcoranti
 nl:Melkchocola met zoetstoffen
 
 <en:Chocolates
@@ -19221,6 +19270,7 @@ en:Liqueur chocolates
 de:Schokoladen mit Likör, Likörschokoladen
 fr:Chocolats à la liqueur
 hu:Likőrös csokoládék
+it:Cioccolati al liquore
 nl:Chocola met likeur
 
 <en:Milk chocolates
@@ -19984,7 +20034,7 @@ hu:nugát
 hy:Նուգա
 id:Nougat
 io:Nugato
-it:torrone, mandorlato
+it:Mandorlati
 ja:ヌガー
 ko:누가
 la:Nucatum
@@ -26432,7 +26482,7 @@ es:Postres
 fi:jälkiruuat
 fr:Desserts
 hu:Desszertek
-it:Dolci
+it:Dessert
 nl:Desserts, Nagerechten
 nl_be:Desserts, Nagerechten, Toetjes
 pl:Desery
