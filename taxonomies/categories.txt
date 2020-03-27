@@ -18892,6 +18892,7 @@ ca:Pastís de formatge
 de:Käsekuchen
 fi:juustokakut
 fr:Cheesecakes
+it:Cheesecake, Torte al formaggio
 nl:Cheesecakes, Cheesecake
 wikidata:en:Q215348
 
@@ -18899,41 +18900,48 @@ wikidata:en:Q215348
 en:Vanilla cheesecakes
 de:Vanillekäsekuchen
 fr:Cheesecakes à la vanille
+it:Cheesecake alla vaniglia
 nl:Vanillecheesecakes, Vanillecheesecake
 
 <en:Cheesecakes
 en:Strawberry cheesecakes
 de:Erdbeerkäsekuchen
 fr:Cheesecakes à la fraise
+it:Cheesecake alla fragola
 nl:Aardbeiencheesecakes, Aardbeiencheesecake
 
 <en:Cheesecakes
-fr:Cheesecakes à la framboise
 de:Himbeerkäsekuchen
+fr:Cheesecakes à la framboise
+it:Cheesecake al lampone
 nl:Frambozencheesecakes, Frambozencheesecake
 
 <en:Cheesecakes
 en:Cheesecake with red berries
 de:Käsekuchen mit roten Beeren
 fr:Cheesecake aux fruits rouges
+it:Cheesecake ai frutti di bosco, Cheesecake ai frutti rossi
 nl:Rode vruchten cheesecakes, Rode vruchten cheesecake
 
 <en:Cheesecakes
 en:Caramel cheesecakes
 de:Karamellkäsekuchen
 fr:Cheesecakes au caramel
+it:Cheesecake al caramello
 nl:Caramelcheesecakes, Caramelcheesecake
 
 <en:Cheesecakes
 en:Lemon cheesecakes
 de:Zitronenkäsekuchen
 fr:Cheesecakes au citron
+it:Cheesecake al limone
 nl:Citroencheesecakes, Citroencheesecake
 
 <en:Cheesecakes
 en:Speculoos cheesecakes
 de:Spekulatiuskäsekuchen
 fr:Cheesecakes au speculoos
+it:Cheesecake allo speculoos
 nl:Speculooscheesecakes, Speculooscheesecake, Kandijcheesecake
 
 <en:Cakes
@@ -18943,6 +18951,7 @@ de:Schokoladenkuchen
 es:Pasteles de chocolate
 fi:suklaakakut
 fr:Gâteaux au chocolat
+it:Torte al cioccolato
 hu:Csokoládés sütemények
 nl:Chocoladecakes, Chocoladecake
 pt:Bolos de chocolate
@@ -18951,14 +18960,17 @@ wikidata:en:Q30186
 
 <en:Chocolate cakes
 fr:Moelleux au chocolat
+it:Fondenti al cioccolato, Tortini al cioccolato con cuore morbido
 
 <en:Chocolate cakes
 fr: Blondies, Brownies au chocolat blanc, Blondie, Brownie au chocolat blanc
+it:Blondie, Brownie al cioccolato bianco
 wikidata:en:Q1709220
 
 <en:Chocolate cakes
 fr:Brownies, Brownie
 de:Brownies, Brownie
+it:Brownie
 nl:Brownies, Brownie
 wikidata:en:Q503129
 oqali_family:en: fr:Biscuits et gateaux industriels - Brownies au chocolat
@@ -18967,6 +18979,7 @@ oqali_family:en: fr:Biscuits et gateaux industriels - Brownies au chocolat
 en:Christmas Puddings
 de:Weihnachtspuddings
 fr:Puddings de Noël, Pudding de Noël
+it:Pudding di Natale, Pudding natalizi, Christmas pudding
 nl:Kerstmispuddings
 wikidata:en:Q852576
 pnns_group_2:en:Biscuits and cakes
