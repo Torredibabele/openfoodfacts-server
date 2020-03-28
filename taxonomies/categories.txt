@@ -19226,7 +19226,7 @@ de:Verschiedene Pralinen, Pralinensortimente
 fi:suklaasekoitus
 fr:Assortiments de chocolats, assortiment de chocolat
 hu:Csokoládé válogatás
-it:Assortimento di cioccolati
+it:Assortimenti di cioccolati
 nl:Chocolade-assortimenenten
 zh:什锦巧克力
 
@@ -19277,6 +19277,7 @@ nl:Chocola met likeur
 en:Chocolates with extra fine milk
 de:Schokoladen mit extrafeiner Milch
 fr:Chocolats au lait extra fin, chocolat au lait extra fin
+it:Cioccolati al latte finissimo
 hu:Csokoládék extra finom tejjel
 nl:Chocola met extra fijne melk
 
@@ -19285,13 +19286,14 @@ nl:Chocola met extra fijne melk
 en:Rice milk chocolates
 fr:Chocolats au lait au riz
 it:Cioccolato al latte con riso
+it:Cioccolati al latte con riso
 nl:Chocolade-rijstmelk
 
 <en:Milk chocolates
 <en:Cereal chocolates
 en:Cereal milk chocolates
 fr:Chocolats au lait aux céréales
-it:Cioccolato al latte con cereali
+it:Cioccolati al latte con cereali
 nl:Melkchocola met granen
 
 <en:Chocolates with hazelnuts
@@ -19302,7 +19304,7 @@ es:Chocolate con leche y avellanas
 fi:hasselpähkinämaitosuklaat
 fr:Chocolats au lait aux noisettes
 hu:Tejcsokoládé mogyoróval
-it:Cioccolato al latte con nocciole
+it:Cioccolati al latte con nocciole
 nl:Melkchocola met hazelnoot
 
 <en:Chocolates with almonds
@@ -19312,7 +19314,7 @@ de:Milchschokolade mit Mandeln
 fi:Maitosuklaa manteleilla
 fr:Chocolats au lait aux amandes
 hu:Tejes csokoládé mandulával
-it:Cioccolato al latte con mandorle
+it:Cioccolati al latte con mandorle
 nl:Melkchocola met amandelen
 se:Mjölkchoklad med mandlar
 
@@ -19323,7 +19325,7 @@ es:Chocolates con almendras
 fi:mantelisuklaat
 fr:Chocolats aux amandes, chocolats avec amandes, chocolat avec amandes
 hu:Mandulás csokoládék
-it:Cioccolato alle mandorle
+it:Cioccolati alle mandorle
 nl:Amandelchocoladen
 ru:Шоколад с миндалём
 se:Choklad med mandlar, choklad med mandel
@@ -19335,19 +19337,19 @@ es:Chocolates con avellanas
 fi:hasselpähkinäsuklaat
 fr:Chocolats aux noisettes
 hu:Csokoládé mogyoróval
-it:Cioccolato alle nocciole
+it:Cioccolati alle nocciole
 nl:Chocola met hazelnoten
 
 <en:Chocolates
 en:Rice chocolates
 fr:Chocolats au riz
-it:Cioccolato con riso
+it:Cioccolati al riso
 nl:Chocola met gepofte rijst
 
 <en:Chocolates
 en:Cereal chocolates
 fr:Chocolats aux céréales
-it:Cioccolato con cereali
+it:Cioccolati ai cereali
 nl:Ontbijtgranen met chocola
 
 <en:Chocolates
@@ -19358,7 +19360,7 @@ es:Chocolates blancos
 fi:valkosuklaat
 fr:Chocolats blancs, chocolat blanc, chocolats blonds, chocolat blond
 hu:Fehércsokoládék
-it:Cioccolati bianchi, Cioccolato bianco
+it:Cioccolati bianchi
 nl:Witte chocoladen
 pl:Czekolada biała
 se:Vit choklad
@@ -19372,7 +19374,7 @@ de:Weiße Schokoladen mit Süßungsmitteln
 es:Chocolates blancos con edulcorantes
 fr:Chocolats blancs édulcorés, Chocolats blancs aux édulcorants
 hu:Csokoládék édesítőszerekkel
-it:Cioccolato bianco con edulcorante
+it:Cioccolati bianchi con dolcificanti, Cioccolati bianchi con edulcoranti
 nl:Witte chocola met zoetstoffen
 
 <en:White chocolates
@@ -19388,6 +19390,7 @@ de:Schokoladenhasen
 es:Conejos De Chocolate, Conejos De Pascua
 fi:suklaapuput
 fr:Lapins en chocolat, lapin en chocolat, lapins de pâques, lapin de pâques
+it:Coniglietti di cioccolato, Conigli di cioccolato
 hu:Csokoládé nyulak, húsvéti nyulak
 nl:Chocolade paashazen
 
@@ -19397,7 +19400,7 @@ de:Schokoladen mit Süßungsmitteln
 es:Chocolates con edulcorantes
 fi:Suklaat makeutusaineilla
 fr:Chocolats édulcorés, Chocolats aux édulcorants, chocolats diététiques
-it:Cioccolato con edulcorante
+it:Cioccolati con dolcificanti, Cioccolati con edulcoranti
 nl:Chocola met zoetstoffen
 
 <en:Chocolates
@@ -19406,22 +19409,26 @@ de:Aromatisierte Schokolade
 fi:maustetut suklaat
 fr:Chocolats aromatisés
 hu:Ízesített csokoládék
+it:Cioccolati aromatizzati, Cioccolati con aromi
 nl:Gearomatiseerde chocola
 
 <en:Dark chocolates
 <en:Flavoured chocolates
 fr:Chocolats noirs aromatisés
 de:Aromatisierte dunkle Schokolade
+it:Cioccolati fondenti aromatizzati, Cioccolati fondenti con aromi
 
 <en:Milk chocolates
 <en:Flavoured chocolates
 fr:Chocolats au lait aromatisés
 de:Aromatisierte Milchschokolade
+it:Cioccolati al latte aromatizzati, Cioccolati al latte con aromi
 
 <en:White chocolates
 <en:Flavoured chocolates
 fr:Chocolats blancs aromatisés
 de:Aromatisierte weiße Schokolade
+it:Cioccolati bianchi aromatizzati, Cioccolati bianchi con aromi
 
 <en:Chocolates
 en:Filled chocolates
@@ -19429,6 +19436,7 @@ de:Gefüllte Schokolade, Schokolade mit Füllung
 fi:täytesuklaat
 fr:Chocolats fourrés
 hu:Töltött csokoládék
+it:Cioccolati ripieni
 nl:Gevulde chocola
 
 <en:Filled chocolates
@@ -19436,6 +19444,7 @@ en:Chocolates stuffed with praline
 de:Schokolade mit Praliné-Füllung
 fi:praliineilla täytetyt suklaat
 fr:Chocolats fourrés au praliné, chocolat fourré au praliné
+it:Cioccolati ripieni pralinati
 nl:Chocolades gevuld met praliné
 
 <en:Filled chocolates
@@ -19444,6 +19453,7 @@ en:Filled dark chocolates
 de:Gefüllte dunkle Schokolade, Dunkle Schokolade mit Füllung
 fi:täytetyt tummat suklaat
 fr:Chocolats noirs fourrés
+it:Cioccolati fondenti ripieni
 nl:Gevulde pure chocola
 
 <en:Filled chocolates
@@ -19452,12 +19462,14 @@ en:Filled milk chocolates
 de:Gefüllte Milchschokolade, Milchschokolade mit Füllung
 fi:täytetyt maitosuklaat
 fr:Chocolats au lait fourrés
+it:Cioccolati al latte ripieni
 nl:Gevulde melkchocola
 
 <en:Filled chocolates
 en:Chocolates stuffed with almond paste
 de:Schokolade mit Mandelcremefüllung
 fr:Chocolats fourrés à la pâte d'amande
+it:Cioccolati con ripieno di pasta di mandorle
 nl:Chocolade met amandelpasta
 
 #Dark chocolate is a chocolate without milk or vegetable milk. It contains at least 43% cocoa in the EU.
@@ -19471,7 +19483,7 @@ es:Chocolates negros
 fi:tummat suklaat
 fr:Chocolats noirs, chocolat noir
 hu:Feketecsokoládé
-it:Cioccolato fondente
+it:Cioccolati fondenti
 nl:Pure chocolades
 pl:Czekolada deserowa, czekolada ciemna
 pt:Chocolates amargos
@@ -19487,6 +19499,7 @@ en:Extra fine dark chocolates, extra fine black chocolates, bitter chocolates
 de:Extrafeine dunkle Schokoladen, Herbe Schokoladen
 es:Chocolates negros extra finos
 fr:Chocolats noirs extra fin, chocolat noir extra fin, chocolats amers
+it:Cioccolati fondenti finissimi
 nl:Extra fijne pure chocolade
 pl:Czekolada gorzka
 ru:Горький шоколад, Чёрный шоколад
@@ -19498,7 +19511,7 @@ de:Dunkle Schokoladen mit Süßungsmitteln
 es:Chocolates negros con edulcorantes
 fi:Tummat suklaat makeutusaineilla
 fr:Chocolats noirs aux édulcorants
-it:Cioccolato fondente con edulcorante
+it:Cioccolati fondenti con dolcificanti, Cioccolati fondenti con edulcoranti
 nl:Pure chocola met zoetstoffen
 
 <en:Chocolates with almonds
@@ -19509,7 +19522,7 @@ es:Chocolates negros con almendras
 fi:Tummat mantelisuklaat
 fr:Chocolats noirs aux amandes
 hu:Fekete csokoládék madulával
-it:Cioccolato fondente alle mandorle
+it:Cioccolati fondenti alle mandorle
 nl:Pure chocola met amandel
 ru:Тёмный шоколад с миндалём
 se:Mörk choklad med mandlar, Mörk choklad med mandel
@@ -19521,14 +19534,14 @@ de:Dunkle Schokoladen mit Haselnüssen
 es:Chocolates negro con avellanas
 fi:Tummat suklaat hasselpähkinöillä
 fr:Chocolats noirs aux noisettes
-it:Cioccolato fondente alle nocciole
+it:Cioccolati fondenti alle nocciole
 nl:Pure chcola met hazelnoot
 
 <en:Dark chocolates
 es:Chocolates negro con pistachos
 de:Dunkle Schokoladen mit Pistazien
 fr:Chocolats noirs aux pistaches
-it:Cioccolato fondente al pistacchio
+it:Cioccolati fondenti al pistacchio
 
 <en:Dark chocolates
 en:Dark chocolates with orange
@@ -19536,7 +19549,7 @@ de:Dunkle Schokoladen mit Orange
 es:Chocolates negro con naranja
 fi:Tummaa suklaata appelsiinilla
 fr:Chocolats noirs à l'orange
-it:Cioccolato fondente con arancia, cioccolato fondente all'arancio
+it:Cioccolati fondenti all'arancia
 nl:Pure chocola met sinaasappelschil
 
 <en:Dark chocolates
@@ -19544,14 +19557,14 @@ en:Dark chocolates with cocoa nibs, dark chocolates with cocoa beans
 de:Dunkle Schokoladen mit Kakaobohnen
 es:Chocolates negro con pepitas de cacao
 fr:Chocolats noirs aux fèves de cacao
-it:Cioccolato fondente con semi di cacao, cioccolato fondente con fave di cacao
+it:Cioccolati fondenti alle fave di cacao, cioccolati fondenti a semi di cacao
 nl:Pure chocola met stukjes
 
 <en:Dark chocolates
 en:Dark chocolates with ginger
 de:Dunkle Schokoladen mit Ingwer
 fr:Chocolats noirs au gingembre
-it:Cioccolato fondente con zenzero, cioccolato fondente allo zenzero
+it:Cioccolati fondenti allo zenzero
 
 <en:Chocolates
 en:Salted chocolates
@@ -19559,6 +19572,7 @@ de:Gesalzene Schokolade
 es:Chocolates con sal
 fi:suolaiset suklaat
 fr:Chocolats salés
+it:Cioccolati salati
 nl:Gezouten chocola
 
 <en:Dark chocolates
@@ -19568,6 +19582,7 @@ de:Gesalzene dunkle Schokolade
 es:Chocolates negro con sal
 fi:Suolaiset tummat suklaat
 fr:Chocolats noirs salés
+it:Cioccolati fondenti salati
 nl:Pure chocola met zout
 
 <en:Fleur de sel chocolates
@@ -19575,6 +19590,7 @@ nl:Pure chocola met zout
 en:Dark chocolates with fleur de sel
 de:Dunkle Schokolade mit Fleur de Sel
 fr:Chocolats noirs à la fleur de sel
+it:Cioccolati fondenti fior di sale
 nl:Pure chocola met fleur de sel
 
 <en:Milk chocolates
@@ -19583,6 +19599,7 @@ en:Salted milk chocolates
 de:Gesalzene Milchschokoladen
 fi:suolaiset maitosuklaat
 fr:Chocolats au lait salés
+it:Cioccolati al latte salati
 nl:Melkchocola met zout
 
 <en:Fleur de sel chocolates
@@ -19590,12 +19607,14 @@ nl:Melkchocola met zout
 en:Milk chocolates with fleur de sel
 de:Milchschokolade mit Fleur de Sel
 fr:Chocolats au lait à la fleur de sel
+it:Cioccolati al latte fior di sale
 nl:Melkchocola met fleur de sel
 
 <en:Salted chocolates
 en:Fleur de sel chocolates
 de:Schokoladen mit Fleur de Sel
 fr:Chocolats à la fleur de sel
+it:Cioccolati fior di sale
 nl:Chocola met fleur de sel
 
 <en:Chocolates
@@ -19603,7 +19622,7 @@ en:Caramel chocolates
 de:Karamel-Schokoladen
 fi:toffeesuklaat
 fr:Chocolats au caramel
-it:Cioccolato con caramello
+it:Cioccolati al caramello
 nl:Chocola met caramel
 
 <en:Caramel chocolates
@@ -19611,7 +19630,7 @@ nl:Chocola met caramel
 en:Dark chocolate with caramel
 de:Dunkle Schokoladen mit Karamel
 fr:Chocolats noirs au caramel
-it:Cioccolato fondente con caramello
+it:Cioccolati fondenti al caramello
 nl:Pure chocola met caramel
 
 <en:Caramel chocolates
@@ -19620,7 +19639,7 @@ en:Milk chocolate with caramel
 de:Milchschokolade mit Karamel
 fi:Maitosuklaata kinuskilla
 fr:Chocolats au lait au caramel
-it:Cioccolato al latte con caramello
+it:Cioccolati al latte al caramello
 nl:Melkchocola met caramel
 
 <en:Chocolates
@@ -19628,6 +19647,7 @@ en:Swiss chocolates, Swiss chocolate
 de:Schweizer Schokoladen
 fi:sveitsiläiset suklaat
 fr:Chocolats suisses, chocolat suisse, chocolats de Suisse, chocolat de Suisse
+it:Cioccolati svizzeri, Cioccolati della Svizzera
 nl:Zwitserse chocolades
 zh:瑞士巧克力
 
@@ -43148,7 +43168,7 @@ es:Endulzantes, Edulcorantes
 fi:makeutusaineet
 fr:Édulcorants
 hu:Édesítőszerek
-it:Edulcoranti, dolcificanti
+it:Dolcificanti, Edulcoranti
 nl:Zoetstoffen
 pl:Produkty wykorzystywane do słodzenia, słodzące
 pt:Adoçantes
