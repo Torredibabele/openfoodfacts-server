@@ -19655,24 +19655,28 @@ zh:瑞士巧克力
 en:Chocolate molds
 de:Schokoladenformteile
 fr:Moulages en chocolat, moulages de chocolat
+it:Cioccolati a stampo
 nl:Chocolade traktaties
 
 <en:Chocolate molds
 en:Chocolate Scupltures
 de:Schokoladenfiguren
 fr:Sculptures en chocolat
+it:Figure di cioccolato, Sculture di cioccolato
 nl:Chocoladevormen
 
 <en:Chocolate Scupltures
 en:Chocolate Santa Clauses
 de:Schokoladenweihnachtsmänner
 fr:Pères Noël en chocolat
+it:Babbi Natale di cioccolato
 nl:Chocolade kerstman
 
 <en:Chocolate Scupltures
 en:Chocolate dinosaurs
 de:Schokoladen-Dinosaurier
 fr:Dinosaures en chocolat, dinosaure en chocolat, dinosaures de pâques, dinosaure de pâques
+it:Dinosauri di cioccolato
 nl:Chocolade dinosauriërs
 
 <en:Chocolate candies
@@ -19684,6 +19688,7 @@ es:Barritas de chocolate
 fi:suklaapatukat
 fr:Barres chocolatées, barre chocolatée, barre au chocolat, barres au chocolat
 hu:Csokoládés szelet, Csoki
+it:Barrette di cioccolato
 nl:Chocorepen
 pt:Barras de chocolate
 zh:巧克力棒
