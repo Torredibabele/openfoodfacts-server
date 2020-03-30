@@ -19698,22 +19698,28 @@ wikidata:en:Q1361086
 en:Chocolate biscuity bars
 de:Schokoladenbiscuits
 fr:Barres chocolatées biscuitées
+it:Barrette di cioccolato biscottate
 nl:Chocoladerepen met biscuit
 
 <fr:Barres chocolatées biscuitées
 fr:Barre chocolatée biscuitée type KitKat, Kitkat
+it:Barrette di cioccolato biscottate stile Kitkat, Kitkat
 
 <en:Chocolate bars
 fr:Barres chocolatées à la noix de coco, barre chocolatée à la noix de coco type Bounty, Bounty
+it:Barrette di cioccolato al cocco
 
 <en:Chocolate bars
 fr:Barres chocolatées au lait, Barre chocolatée au lait, Barres chocolatées au lait type Kinder Maxi, Kinder Maxi
+it:Barrette di cioccolato al latte
 
 <en:Chocolate bars
 fr:Barres chocolatées au lait et aux céréales, barre chocolatée au lait et aux céréales type Kinder Country, Kinder Country
+it:Barrette di cioccolato al latte e cereali
 
 <en:Chocolate bars
 fr:Barres chocolatées aux fruits oléagineux, barre chocolatée aux fruits oléagineux type Snickers, Snickers
+it:Barrette di cioccolato con frutta a guscio, Barrette di cioccolato con semi oleosi
 
 <en:Chocolate bars
 fr:Barres chocolatées fourrées aux fruits, barre chocolatée fourrée aux fruits
