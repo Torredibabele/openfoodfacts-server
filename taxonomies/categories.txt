@@ -19723,6 +19723,7 @@ it:Barrette di cioccolato con frutta a guscio, Barrette di cioccolato con semi o
 
 <en:Chocolate bars
 fr:Barres chocolatées fourrées aux fruits, barre chocolatée fourrée aux fruits
+it:Barrette di cioccolato con ripieno di frutta
 
 <en:Confectioneries
 en:Chocolate candies
@@ -19732,6 +19733,7 @@ es:Dulces de chocolate
 fi:suklaamakeiset
 fr:Confiseries chocolatées
 hu:Csokoládés cukorka
+it:Dolcetti al cioccolato
 nl:Chocoladesnoep
 pl:Cukierki czekoladowe
 pt:Bombons de chocolate
@@ -19741,6 +19743,7 @@ zh:巧克力糖果
 
 <en:Chocolate candies
 fr:Guimauves enrobées de chocolat
+it:Toffolette ricoperte di cioccolato
 
 <en:Chocolate candies
 en:Bonbons
@@ -19750,7 +19753,7 @@ es:Bombones, Bombones de chocolate
 fi:karkit
 fr:Bonbons de chocolat
 hu:Bonbonok
-it:Cioccolatino
+it:Cioccolatini
 nl:Pralines, chocolades snoepjes
 pt:Bombons
 wikidata:en:Q3272827
@@ -19759,6 +19762,7 @@ wikidata:en:Q3272827
 en:Milk chocolate candies
 de:Milchpralinen, Süssigkeiten mit Milchschokolade
 fr:Bonbons de chocolat au lait
+it:Cioccolatini al latte
 nl:Melkchocolabonbons
 
 <en:Bonbons
@@ -19766,7 +19770,7 @@ en:Assorted chocolate candies
 de:Pralinenmischung
 fi:suklaamakeissekoitus
 fr:Assortiments de bonbons de chocolat
-it:Assortimento di cioccolatini
+it:Assortimenti di cioccolatini
 nl:Gemengde chocosnoepjes
 
 <en:Bonbons
@@ -19775,7 +19779,7 @@ de:Schokoladetrüffel
 es:Trufas de chocolate
 fi:suklaatryffelit
 fr:Truffes en chocolat, truffe en chocolat, truffes de chocolat, truffe de chocolat, truffes chocolatées
-it:Tartufi al cioccolato, tartufo al cioccolato
+it:Tartufi al cioccolato
 nl:Chocolade truffels
 se:Chokladtryffel
 wikidata:en:Q1063560
@@ -20166,6 +20170,7 @@ en:Marshmallows, Marshmallow
 de:Marshmallows, Mäusespeck
 fi:vaahtokarkit
 fr:Guimauves, pâtes de guimauves, Chamallows, Guimauve, Marshmallows
+it:Toffolette, Marshmallow
 nl:Marshmallows, Zoete Spekjes, Marshmellows
 wikidata:en:Q272198
 
