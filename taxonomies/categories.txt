@@ -19786,6 +19786,7 @@ wikidata:en:Q1063560
 
 <en:Bonbons
 fr:Papillotes en chocolat
+it:Cioccolatini incartati
 
 <en:Bonbons
 en:Chocolate covered fruits
@@ -19793,37 +19794,44 @@ de:Früchte mit Schokoladenüberzug
 es:Frutas recubiertas de chocolate
 fi:suklaalla päällystetyt hedelmät
 fr:Fruits enrobés de chocolat, Fruits enrobés au chocolat
+it:Frutta ricoperta di cioccolato
 nl:Vruchten met een chocolaag
 wikidata:en:Q15985102
 
 <en:Chocolate covered fruits
 fr:Orangettes
+it:Scorzette di arancia ricoperte di cioccolato, Orangette
 
 <en:Chocolate covered fruits
 fr:Gingembrettes
+it:Lamelle di zenzero ricoperte di cioccolato, Gingembrette
 
 <en:Chocolate covered fruits
 en:Chocolate-covered prune
 de:Pflaumen mit Schokoladenüberzug
 fr:Pruneau recouvert de chocolat
+it:Prugne secche ricoperte di cioccolato
 wikidata:en:Q16826630
 
 <en:Chocolate covered fruits
 en:Chocolate-covered raisins
 de:Schokoladenrosinen
 fr:Raisins secs enrobés de chocolat
+it:Uvette ricoperte di cioccolato
 nl:Chocoladerozijnen
 wikidata:en:Q5103586
 
 <en:Chocolate covered fruits
 en:Chocolate covered cranberries
 fr:Canneberges enrobées de chocolat
+it:Ossicocchi ricoperti di cioccolato
 
 <en:Chocolate covered fruits
 en:Chocolate covered cherries
 de:Kirschen mit Schokoladenüberzug
 es:Cerezas recubiertas de chocolate
 fr:Cerises enrobées au chocolat
+it:Ciliegie ricoperte di cioccolato
 nl:Kersen met een chocolaag
 wikidata:en:Q16242001
 
