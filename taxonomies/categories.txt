@@ -56,7 +56,7 @@ es:Alimentos infantiles, Alimentos para bebés, Alimentos para lactantes, Alimen
 fi:lasten ruuat
 fr:Aliments pour bébé, aliment pour bébé, alimentation pour bébé, aliment bébé, alimentation bébé, aliments bébé, alimentation infantile
 hu:Bébiételek
-it:Alimenti per neonati
+it:Prodotti per neonati, Alimenti per neonati
 nl:Babyvoeding
 nl_be:Babyvoeding
 pl:Żywność dla niemowląt
@@ -19743,7 +19743,7 @@ zh:巧克力糖果
 
 <en:Chocolate candies
 fr:Guimauves enrobées de chocolat
-it:Toffolette ricoperte di cioccolato
+it:Toffolette ricoperte di cioccolato, Spumoni ricoperti di cioccolato
 
 <en:Chocolate candies
 en:Bonbons
@@ -19840,6 +19840,7 @@ en:Liquor filled chocolate covered cherries
 de:Likörkirschen mit Schokoladenüberzug
 es:Bombones de chocolate rellenos de cereza y licor, Cerezas al licor recubiertas de chocolate
 fr:Bonbons de chocolat fourrés cerise et liqueur
+it:Cioccolatini con ripieno di ciliegia e liquore
 nl:Kersen met een chocolaag en gevuld met likeur
 
 <en:Bonbons
@@ -19847,6 +19848,7 @@ en:Chocolate covered nuts
 de:Mit Schokolade überzogene Nüsse
 fi:suklaa-päällysteiset pähkinät
 fr:Fruits à coque au chocolat
+it:Frutta a guscio ricoperta di cioccolato
 nl:Noten in chocolade
 
 <en:Chocolate covered nuts
@@ -19855,12 +19857,14 @@ de:Erdnüsse mit Schokoladenüberzug
 fi:Suklaalla päällystetyt maapähkinät
 fr:Cacahuètes au chocolat, cacahuètes enrobées de chocolat, cacahuètes enrobées de chocolat type M&M's
 hu:Csokoládéval bevont mogyoró
+it:Arachidi ricoperte di cioccolato, Noccioline americane ricoperte di cioccolato
 nl:Chocopindas
 
 <en:Chocolate covered nuts
 en:Chocolate covered almonds
 de:Mandeln mit Schokoladenüberzug
 fr:Amandes enrobées de chocolat
+it:Mandorle ricoperte di cioccolato
 nl:Amandelen in chocolade
 
 <en:Confectioneries
@@ -19887,6 +19891,7 @@ en:Honey candies, Honey candy
 de:Honigsüßigkeiten, Honig Süßigkeiten, Süßigkeiten mit Honig
 fi:hunajamakeiset
 fr:Bonbons au miel, bonbon au miel
+it:Caramelle al miele
 nl:Honingbonbons
 
 <en:Candies
@@ -19900,30 +19905,35 @@ de:Gummibonbons
 fi:Hyytelömakeiset
 fr:Bonbons gélifiés
 hu:Zselés cukorka
+it:Caramelle gommose, Caramelle di gelatina
 nl:Gelatine-snoep
 
 <en:Gelified candies
 en:Gummy crocodiles
 de:Gummi Krokodile
 fr:crocodiles gélifiés
+it:Coccodrilli gommosi
 nl:Gummi krokodillen
 
 <en:Gelified candies
 en:Gummy bananas
 de:Gummi Bananen
 fr:bananes gélifiées
+it:Banane gommose
 nl:Gummi-bananen
 
 <en:Gelified candies
 en:Gummy strawberries
 de:Gummi Erdbeeren
 fr:fraises gélifiées
+it:Fragole gommose
 nl:Gummi-aardbeien
 
 <en:Gelified candies
 en:Gummy cola bottles
 de:Gummi Colaflaschen, Gummi Colafläschchen
 fr:bouteilles de cola gélifiées
+it:Cole gommose
 nl:Gummi colaflesjes
 
 <en:Gelified candies
@@ -19936,27 +19946,32 @@ nl:Gummi-beertjes
 
 <en:Gelified candies
 en:Gummy chips
+it:Patatine gommose
 
 <en:Gelified candies
 en:Gummy eggs
 de:Gummi Eier
 fr:Œufs gélifiés
+it:Uova gommose
 
 <en:Gelified candies
 en:Acid gummy candies
 de:Saure Gummibonbons
 fi:happamat viinikumit
 fr:Bonbons acidulés gélifiés
+it:Caramelle gommose acidule
 nl:Zure gummi snoep
 
 <en:Gelified candies
 en:Acid gummy lassos
 fr:Lassos gélifiés acides
+it:Stringhe gommose acidule
 
 <en:Gelified candies
 en:Jelly beans
 de:Jelly beans
 fr:Jelly beans
+it:Jelly beans
 nl:Jelly beans
 zh:软心豆粒糖
 
@@ -19966,6 +19981,7 @@ de:Dauerlutscher
 es:Piruletas
 fi:tikkarit
 fr:Sucettes
+it:Leccalecca, Lecca lecca, Lecca-lecca
 nl:Lollies
 ru:Леденец
 zh:棒棒糖
@@ -19975,6 +19991,7 @@ wikidata:en:Q217446
 en:French pralines
 de:Französciche pralinen
 fr:Pralines
+it:Praline
 nl:Franse praliné
 wikidata:en:Q851428
 
@@ -19982,6 +19999,7 @@ wikidata:en:Q851428
 en:Gozinaki, gozinaqi
 de:Gosinaki
 fr:Gozinaki
+it:Gozinaki
 nl:Gozinaki
 ru:Козинаки
 wikidata:en:Q1136488
@@ -19993,6 +20011,7 @@ de:Karamellen
 es:Caramelos
 fi:kinuskit
 fr:Caramels
+it:Caramelli
 nl:Caramels
 wikidata:en:Q183440
 
@@ -20002,6 +20021,7 @@ de:Flüßiges Karamel
 es:Caramelo líquido
 fi:nestemäinen kinuski
 fr:caramel liquide, caramel liquides
+it:Caramelli liquidi
 nl:Vloeibare caramels
 
 <en:Caramels
@@ -20009,6 +20029,7 @@ en:Salted butter caramels
 de:Salziges Butterkaramel, Salzige Butterkaramellen
 fi:suolatoffeet
 fr:Caramels au beurre salé
+it:Caramelli al burro salato
 nl:Caramels met gezouten boter
 wikidata:en:Q19544049
 
@@ -20019,6 +20040,7 @@ de:Kaugummis, Kaugummi
 es:Chicles, Goma de mascar, Gomas de mascar
 fi:purukumi
 fr:Chewing-gum, gomme à mâcher, pâte à mâcher, chiclette, chique, chiclet, bubble-gum
+it:Gomme da masticare, Cicche, Chewing gum, Gomme americane
 nl:Kauwgom
 ro:Gumă de mestecat
 wikidata:en:Q130878
@@ -20029,6 +20051,7 @@ de:zuckerfreie Kaugummis, zuckerfreier Kaugummi
 es:Chicles sin azúcar, Goma de mascar sin azúcar, Gomas de mascar sin azúcar
 fi:sokeriton purukumi
 fr:Chewing-gum sans sucres, Chewing-gums sans sucre, Chewing-gum sans sucre, Chewing-gums sans sucres
+it:Gomme da masticare senza zucchero
 nl:Suikervrije kauwgom
 pl:bezcukrowa guma do żucia
 ro:Gumă de mestecat fără zahăr
@@ -20039,13 +20062,15 @@ en:French confectioneries
 de:Französischer Konfekt, Französische Konditorwaren
 fi:ranskalaiset sokerileipomotuotteet
 fr:Confiseries de France
+it:Dolcetti francesi, Dolcetti della Francia
 nl:Franse bonbons
 zh:法国糖果
 
 <en:French confectioneries
 en:Confectioneries of Nord-Pas-de-Calais
-de:Konfekt aus  Nord-Pas-de-Calais, Konditorwaren aus  Nord-Pas-de-Calais
+de:Konfekt aus Nord-Pas-de-Calais, Konditorwaren aus  Nord-Pas-de-Calais
 fr:Confiseries du Nord-Pas-de-Calais
+it:Dolcetti del Nord-Passo-di-Calais, Dolcetti del Nord-Pas-de-Calais
 nl:Suikergoed uit Nord-Pas-de-Calais in Frankrijk
 
 
@@ -20123,6 +20148,7 @@ wikipedia:en:https://en.wikipedia.org/wiki/Nougat
 en:Chocolate nougats
 de:Nougatschokolade, Schokolade mit Nougat
 fr:nougats au chocolat, nougat au chocolat
+it:Mandorlati al cioccolato
 nl:Noga met chocola
 zh:巧克力牛扎糖
 
@@ -20132,6 +20158,7 @@ de:Weißer Nougat
 es:Turrón Blanco
 fi:valkoinen nugaa
 fr:Nougats blancs, nougat blanc
+it:Mandorlati bianchi
 nl:Witte noga
 zh:白牛扎糖
 
@@ -20139,6 +20166,7 @@ zh:白牛扎糖
 en:Chinese nougats
 de:Chinesischer Nougat
 fr:Nougats chinois, nougat chinois
+it:Mandorlati cinesi, Mandorlati della Cina
 nl:Chinese noga
 zh:中国牛扎糖, 中式牛扎糖
 
@@ -20148,6 +20176,7 @@ en:Nougats from Montélimar
 de:Nougat aus Montélimar
 es:Nougats de Montélimar, Turrones De Montélimar
 fr:nougats de Montélimar, nougat de Montélimar
+it:Mandorlati di Montélimar, Mandorlati di Montelimar
 nl:Noga uit Montélimar
 wikidata:en:Q3344838
 
@@ -20156,6 +20185,7 @@ wikidata:en:Q3344838
 en:Nougats from Sault
 de:Nougat aus Sault
 fr:Nougats de Sault, nougat de Sault
+it:Mandorlati di Sault
 wikidata:en:Q3344830
 
 <en:French confectioneries
@@ -20163,12 +20193,14 @@ wikidata:en:Q3344830
 en:Nougats from Tours
 de:Nougat aus Tours
 fr:Nougats de Tours, nougat de Tours
+it:Mandorlati di Tours
 wikidata:en:Q3344831
 
 <fr:Nougats
 en:Black nougat
 de:Dunkler Nougat
 fr:Nougats noirs, nougat noir
+it:Mandorlati neri
 nl:Donkere noga
 zh:黑牛扎糖
 
@@ -20178,7 +20210,7 @@ en:Marshmallows, Marshmallow
 de:Marshmallows, Mäusespeck
 fi:vaahtokarkit
 fr:Guimauves, pâtes de guimauves, Chamallows, Guimauve, Marshmallows
-it:Toffolette, Marshmallow
+it:Toffolette, Spumoni, Marshmallow
 nl:Marshmallows, Zoete Spekjes, Marshmellows
 wikidata:en:Q272198
 
@@ -20189,6 +20221,7 @@ bg:Халва
 de:Halva, Halwa, Helva
 es:Halva
 fr:Halvas, Halwas, Helvas, Halva, Halwa, Helva
+it:Halva, Halwa, Halvah, Halava, Helva, Halawa
 nl:Halva
 ru:Халва
 sv:Helva
@@ -20201,6 +20234,7 @@ wikidata:en:Q183599
 en:Sesame halva, Tahini halva
 de:Sesamhalva, Halva mit Sesam
 fr:Halvas au sésame, Halva au sésame, Helvas au sésame, Helva au sésame, Halwas au sésame, Halwa au sésame
+it:Halva al sesamo
 nl:Sesamzaad-halva
 ru:Кунжутная халва, Халва кунжутная, Тахинная халва, Халва тахинная
 
@@ -20208,6 +20242,7 @@ ru:Кунжутная халва, Халва кунжутная, Тахинна�
 en:Sunflower halva
 de:Halva mit Sonnenblumenkernen
 fr:Halvas au tournesol, Halvas de tournesol, Halva de tournesol, Halva au tournesol
+it:Halva al girasole
 ru:Подсолнечная халва, Халва подсолнечная
 
 <en:Confectioneries
@@ -20217,18 +20252,21 @@ de:Kandierte Früchte
 es:Frutas confitadas
 fi:sokeroidut hedelmät
 fr:Fruits confits
+it:Frutta candita
 nl:Gekonfijt fruit
 wikidata:en:Q1163138
 
 <en:Candied fruit
 fr:Citron confit
 de:Kandierte Zitrone
+it:Limoni canditi
 
 <en:Confectioneries
 en:lokums, lokum, turkish delight, loukoumi, lokum
 de:Lokum, Turkish Delight
 es:Rahat lokum, delicia turca
 fr:Loukoums, Loukoum, rahat loukoum
+it:Lokum
 wikidata:en:Q182339
 
 en:Easter food, Easter chocolates
@@ -20236,6 +20274,7 @@ de:Osterschokoladen
 fi:pääsiäisruuat
 fr:Aliments de Pâques, chocolats de Pâques, Chocolat de Pâques
 hu:Húsvéti csokoládék
+it:Alimenti pasquali, cioccolati pasquali, Alimenti di Pasqua, cioccolati di Pasqua
 nl:Paaschocola
 
 <en:Easter food
@@ -20245,6 +20284,7 @@ es:Huevos de Pascua de chocolate
 fi:pääsiäissuklaamunat
 fr:Œufs de Pâques, oeuf de pâques, Oeufs de pâques en chocolat, oeuf de pâques en chocolat
 hu:Húsvéti csokoládé tojás
+it:Uova di pasqua, Uova al cioccolato
 nl:Chocolade eieren
 
 <en:Chocolate eggs
