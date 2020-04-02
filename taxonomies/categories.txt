@@ -19733,7 +19733,7 @@ es:Dulces de chocolate
 fi:suklaamakeiset
 fr:Confiseries chocolatées
 hu:Csokoládés cukorka
-it:Dolcetti al cioccolato
+it:Dolciumi al cioccolato
 nl:Chocoladesnoep
 pl:Cukierki czekoladowe
 pt:Bombons de chocolate
@@ -20062,7 +20062,7 @@ en:French confectioneries
 de:Französischer Konfekt, Französische Konditorwaren
 fi:ranskalaiset sokerileipomotuotteet
 fr:Confiseries de France
-it:Dolcetti francesi, Dolcetti della Francia
+it:Dolciumi francesi, Dolciumi della Francia
 nl:Franse bonbons
 zh:法国糖果
 
@@ -20070,7 +20070,7 @@ zh:法国糖果
 en:Confectioneries of Nord-Pas-de-Calais
 de:Konfekt aus Nord-Pas-de-Calais, Konditorwaren aus  Nord-Pas-de-Calais
 fr:Confiseries du Nord-Pas-de-Calais
-it:Dolcetti del Nord-Passo-di-Calais, Dolcetti del Nord-Pas-de-Calais
+it:Dolciumi del Nord-Passo-di-Calais, Dolciumi del Nord-Pas-de-Calais
 nl:Suikergoed uit Nord-Pas-de-Calais in Frankrijk
 
 
@@ -20284,16 +20284,18 @@ es:Huevos de Pascua de chocolate
 fi:pääsiäissuklaamunat
 fr:Œufs de Pâques, oeuf de pâques, Oeufs de pâques en chocolat, oeuf de pâques en chocolat
 hu:Húsvéti csokoládé tojás
-it:Uova di pasqua, Uova al cioccolato
+it:Uova di pasqua, Uova al cioccolato, Uova di cioccolato
 nl:Chocolade eieren
 
 <en:Chocolate eggs
 <en:Bonbons
 fr:Œufs en chocolat fourrés, oeufs en chocolat fourrés
+it:Ovetti di cioccolato ripieni
 
 <en:Chocolate eggs
 <en:Chocolate molds
 fr:Œufs en chocolat creux, oeufs en chocolat creux
+it:Ovetti di cioccolato vuoti
 
 en:Christmas foods and drinks
 ca:Aliments i begudes de Nadal
@@ -20302,6 +20304,7 @@ es:Gastronomía navideña, Gastronomía de Navidad
 fi:jouluruuat ja -juomat
 fr:Aliments et boissons de Noël
 hu:Karácsonyi ételek és italok
+it:Alimenti e bevande natalizie, Alimenti e bevande di Natale
 nl:Kerstvoedsel en - dranken
 wikidata:en:Q5876127
 
@@ -20312,11 +20315,13 @@ de:Weihnachtsschokolade
 es:Chocolates de navidad
 fi:joulusuklaat
 fr:Chocolats de Noël
+it:Cioccolati natalizi, Cioccolati di natale
 nl:Kerstmischocola
 
 <en:Christmas foods and drinks
 en:Yule log
 fr:Bûches de Noël
+it:Tronchetti di Natale
 
 <en:Christmas foods and drinks
 en:Advent calendars
@@ -20324,7 +20329,7 @@ de:Adventskalender
 es:Calendarios de Adviento
 fi:adventtikalenterit
 fr:Calendriers de l'avent
-it:Calendario dell'avvento
+it:Calendari dell'avvento
 nl:Adventskalender
 pl:Kalendarz adwentowy
 pt:Calendário do Advento
@@ -20335,6 +20340,7 @@ ru:Рождественский календарь
 en:Chocolate Advent calendars
 de:Schokoladen-Adventskalender
 fr:Calendriers de l'avent en chocolat
+it:Calendari dell'avvento con cioccolatini
 nl:Chocolade adventkalenders
 
 <en:Christmas foods and drinks
@@ -20345,6 +20351,7 @@ de:Weihnachtssüßigkeiten, Weihnachtskonfekt
 es:Dulces de Navidad, Dulces típicos de Navidad
 fi:joulumakeiset
 fr:Confiseries de Noël
+it:Dolciumi natalizi, Dolciumi di Natale
 nl:Kerstbonbons
 
 <en:Christmas sweets
@@ -20352,6 +20359,7 @@ en:Alfajores, Alfajor
 de:Alfajor
 es:Alfajores, Alfajor
 fr:Alfajores, Alfajor
+it:Alfajor
 wikidata:en:Q938682
 
 <en:Alfajores
@@ -20359,6 +20367,7 @@ en:Spanish alfajores
 de:Spanisches Alfajor
 es:Alfajores españoles
 fr:Alfajores espagnols
+it:Alfajor spagnoli, Alfajor della Spagna
 wikidata:en:Q5666489
 
 <en:Christmas sweets
@@ -20367,12 +20376,14 @@ de:Waffeln mit Mandelcreme
 es:Almendras rellenas de turrón, Almendras rellenas
 fr:Gaufrettes fourrées à la crème d'amande
 hu:Mandula krémmel töltött ostyák
+it:Wafer con crema di mandorle,
 
 <en:Christmas sweets
 en:Chocolate covered coconut balls, Chocolate coated coconut balls
 de:Kokosnussbälle mit Schokoladenüberzug
 es:Bolitas de coco recubiertas de chocolate
 fr:Boules de noix de coco enrobées de chocolat
+it:Palline di cocco ricoperte di cioccolato
 
 <en:Confectioneries
 en:Dragées
@@ -20380,6 +20391,7 @@ de:Dragées, Dragees
 es:Grageados
 fi:drageet
 fr:Dragées
+it:Confetti
 nl:Dragees
 wikidata:en:Q1255306
 
@@ -20389,6 +20401,7 @@ en:Dried fig cakes
 de:Feigenbrot
 es:Panes de higos, Pan de higo, Pan de higos
 fr:Gâteaux aux figues sèches
+it:Pan di fichi
 nl:Cake met vijgen
 wikidata:en:Q3817399
 
@@ -20397,6 +20410,7 @@ wikidata:en:Q3817399
 en:Fruits of Aragon
 es:Frutas de Aragón
 fr:Fruits d'Aragon
+it:Frutta di Aragona
 wikidata:en:Q8962920
 
 <en:Fruits of Aragon
@@ -20405,12 +20419,14 @@ en:Chocolate coated maraschino cherries
 de:Maraschinokirschen in Schokolade
 es:Guindas al marrasquino recubiertas de chocolate, Cerezas al marrasquino recubiertas de chocolate
 fr:Cerises au marasquin enrobées de chocolat
+it:Ciliegie al maraschino ricoperte di cioccolato
 
 <en:Christmas sweets
 en:Mantecados and polvorones
 de:Mantecados und Polvorón
 es:Mantecados y polvorones
 fr:Mantecados et polvorones
+it:Mantecados e polvorones
 wikidata:en:Q717435
 
 <en:Mantecados and polvorones
@@ -20418,18 +20434,21 @@ en:Mantecados and polvorones with vegetal fat
 de:Mantecados und Polvorón mit pflanzlichem Fett
 es:Mantecados y polvorones con grasa vegetal
 fr:Mantecados et polvorones avec de la graisse végétale
+it:Mantecados e polvorones con grassi vegetali
 
 <en:Mantecados and polvorones with vegetal fat
 en:Mantecados y polvorones with margarine
 de:Mantecados und Polvorón mit Margarine
 es:Mantecados y polvorones con margarina, Mantecados y polvorones con margarina vegetal
 fr:Mantecados y polvorones margarine
+it:Mantecados e polvorones con margarina
 
 <en:Mantecados and polvorones with vegetal fat
 en:Mantecados y polvorones with olive oil
 de:Mantecados und Polvorón mit Olivenöl
 es:Mantecados y polvorones de aceite de oliva
 fr:Mantecados et polvorones á l'huile d'olive
+it:Mantecados e polvorones con olio di oliva
 
 # description:en:MARZIPAN is a confection consisting primarily of sugar or honey and almond meal (ground almonds), sometimes augmented with almond oil or extract.
 
@@ -20458,7 +20477,7 @@ hu:marcipán
 hy:Մարզիպան
 id:Marzipan
 io:Marcipano
-it:marzapane
+it:marzapani
 ja:マルチパン
 kk:Марципан
 ko:마지팬
@@ -20504,6 +20523,7 @@ de:Mandelmarzipan, Mandelpaste
 es:Pasta de almendras
 fi:mantelimassa
 fr:Pâtes d’amande
+it:Paste di mandorle
 nl:Amandelpasta
 wikidata:en:Q2631692
 
@@ -20512,6 +20532,7 @@ en:Marzipan figures, Marzipan shapes
 de:Marzipanfiguren
 es:Figuritas de mazapán, Figuras de mazapán
 fr:Figurines de massepain
+it:Figurine di marzapane
 nl:Marsepeinen figuren
 
 <en:Marzipan
@@ -20519,12 +20540,14 @@ en:Marzipan of Soto, Mazapanes de Soto
 de:Marzipan aus Soto
 es:Mazapanes de Soto, Mazapán de Soto
 fr:Massepain de Soto
+it:Marzapani di Soto
 wikidata:en:Q6007813
 
 <en:Christmas sweets
 en:Pan de Cádiz
 de:Pan de Cádiz
 es:Pan de Cádiz
+it:Pan de Cádiz, Pane di Cadice, Pan di Cadice
 wikidata:en:Q6059380
 
 <en:Christmas sweets
@@ -20532,16 +20555,19 @@ en:Pasteles de Gloria
 de:Pasteles de Gloria
 es:Pasteles de Gloria, Pastelitos de Gloria
 fr:Pastels de Gloria
+it:Pastels de Gloria
 wikidata:en:Q6066059
 
 <en:Christmas sweets
 en:Egg yolk pastries, Pasteles de yema, Pastelitos de yema
 es:Pasteles de yema, Pastelitos de yema
+it:Pasticcini al tuorlo d'uovo, Pasticcini al tuorlo
 
 <en:Christmas sweets
 en:Roscos de vino
 de:Roscos de Vino
 es:Roscos de vino
+it:Ciambelline al vino, Roscos de vino
 wikidata:en:Q6112467
 
 <en:Christmas sweets
@@ -20550,7 +20576,7 @@ ca:Torró
 de:Turrón
 es:Turrones, Turrón
 fr:Touron
-it:Torrone
+it:Torroni
 nl:Turrón
 wikidata:en:Q159304
 
@@ -20559,25 +20585,28 @@ en:Chocolate turrón
 de:Schokoturrón
 es:Turrones de chocolate
 fr:Turrón de chocolat
-it:Torrone al cioccolato, torrone di cioccolato
+it:Torroni al cioccolato, Torroni di cioccolato
 
 <en:Chocolate turrón
 en:Chocolate turrón with almonds, Black chocolate turrón with almonds
 de:Schokoturrón mit Mandeln, Schwarzer Schokoturrón mit Mandeln
 es:Turrones de chocolate con almendras, Turrones de chocolate negro con almendras
 fr:Turrón de chocolat aux amandes, Turrón au chocolat noir aux amandes
+it:Torroni al cioccolato alle mandorle, Torroni di cioccolato alle mandorle
 
 <en:Chocolate turrón
 en:Chocolate turrón with puffed rice, black chocolate turrón with puffed rice
 de:Schokoturrón mit Puffreis, Schwarzer Schokoturrón mit Puffreis
 es:Turrones de chocolate con arroz inflado, Turrones de chocolate negro con arroz inflado
 fr:Turrón au chocolat avec riz soufflé, turrón au chocolat noir avec riz soufflé
+it:Torroni al cioccolato con riso soffiato, Torroni di cioccolato con riso soffiato
 
 <en:Turrón
 en:Coconut turrón
 de:Kokosnussturrón
 es:Turrones de coco
 fr:Touron à la noix de coco
+it:Torroni al cocco, Torroni alla noce di cocco
 
 <en:Turrón
 en:Almond turrón
@@ -20585,14 +20614,14 @@ de:Mandelturrón
 es:Turrones de almendras, Turrones de almendra
 fi:Manteliturrón
 fr:Tourons aux amandes
-it:Torrone alle mandorle
+it:Torroni alle mandorle
 
 <en:Almond turrón
 en:Creamy almond turrón, Soft almond turrón, Jijona turrón
 de:Cremiges Mandelturrón
 es:Turrones blandos de almendras, Turrones blandos, Turrones de tipo Jijona, Turrones de Jijona
 fr:Tourons crémeux aux amandes
-it:Torrone di Jijona, torrone cremoso alle mandorle
+it:Torroni cremosi alle mandorle, Torroni di Jijona
 nl:Zachte turrón
 wikidata:en:Q3995785
 
@@ -20601,6 +20630,7 @@ en:Crunchy almond turrón, Hard almond turrón, Alicante turrón
 de:Knuspriges Mandelturrón
 es:Turrones duros de almendras, Turrones duros, Turrones de tipo Alicante, Turrones de Alicante
 fr:Tourons croquants aux amandes, tourons d'Alicante
+it:Torroni croccanti alle mandorle, Torroni di Alicante
 nl:Harde turrón
 wikidata:en:Q3995784
 
@@ -20610,6 +20640,7 @@ de:Erdnussturrón
 es:Turrones de cacahuete
 fi:Maapähkinäturrón
 fr:Tourons aux cacahuètes
+it:Torroni alle arachidi, Torroni alle noccioline americane
 nl:Pindanturrón
 
 <en:Peanut turrón
@@ -20618,6 +20649,7 @@ de:Cremiges Erdnussturrón
 es:Turrónes blandos de cacahuete
 fi:Kermainen maapähkinäturrón
 fr:Tourons crémeux aux cacahuètes
+it:Torroni cremosi alle arachidi, Torroni cremosi alle noccioline americane
 
 <en:Peanut turrón
 en:Crunchy peanut turrón
@@ -20625,22 +20657,26 @@ de:Knuspriges Erdnussturrón
 es:Turrónes duros de cacahuete
 fi:Rapea maapähkinäturrón
 fr:Tourons croquants aux cacahuètes
+it:Torroni croccanti alle arachidi, Torroni croccanti alle noccioline americane
 
 <en:Turrón
 en:Fruit turrón
 de:Fruchtturrón
 es:Turrones de frutas
+it:Torroni alla frutta
 
 <en:Turrón
 en:Guirlache turrón, Turrón de guirlache
 de:Turron de Guirlache, Mandel-Karamel-Turrón
 es:Turrones de guirlache
 fr:Touron de guirlache
+it:Torroni al caramello e mandorle, Torroni guirlache
 
 <en:Turrón
 en:Toasted egg yolk turrón
 es:Turrones de yema tostada
 fr:Tourons au jaune d'œuf grillé
+it:Torroni al tuorlo d'uovo tostato
 
 <en:Turrón
 es:Turrones a la piedra
