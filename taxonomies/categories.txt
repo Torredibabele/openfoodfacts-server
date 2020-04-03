@@ -348,7 +348,7 @@ en:Baby dishes
 de:Babygerichte
 fi:vauvanruuat
 fr:Assiettes pour bébé
-it:Piatti per neonati
+it:Piatti pronti per neonati
 nl:Babyschotels, Babyschotel
 
 <en:Main meals for babies
@@ -20680,14 +20680,17 @@ it:Torroni al tuorlo d'uovo tostato
 
 <en:Turrón
 es:Turrones a la piedra
+it:Torroni alla pietra
 
 <en:Turrón
 es:Turrones de mazapán de cabello de ángel
+it:Torroni di marzapane con capelli d'angelo
 
 <en:Turrón
 en:Walnut creme turrón
 es:Turrones de nata y nueces
 fr:Touron à la crème de noix
+it:Torroni alla crema di noci
 
 <en:Confectioneries
 <en:Fruits based foods
@@ -20696,6 +20699,7 @@ de:Fruchtpaste
 es:Dulces de frutas, Pastas de frutas, Cremas de frutas
 fi:hedelmätahnat
 fr:Pâtes de fruits, Pâte de fruit, Pâtes de fruit, Pâte de fruits
+it:Paste di frutta
 nl:Vruchtenpastas, Vruchtenpasta's, Vruchtenkaasjes
 
 <en:Fruit pastes
@@ -20703,6 +20707,7 @@ en:Apple pastes
 de:Apfelpaste
 es:Dulces de manzana, Pastas de manzana, Cremas de manzana
 fr:Pâtes de pommes
+it:Paste di mela
 nl:Appelpastas
 
 <en:Fruit pastes
@@ -20710,6 +20715,7 @@ en:Guava pastes
 de:Guavenpaste
 es:Dulces de guayaba, Pastas de guayaba, Cremas de guayaba
 fr:Pâtes de goyaves, Pâte de goyave
+it:Paste di guaiava, Paste di guava
 nl:Guavepastas
 
 <en:Fruit pastes
@@ -20717,6 +20723,7 @@ en:Multifruit pastes
 de:Multifruchtpaste
 es:Dulces multifruta, Pastas multifruta, Cremas multifruta
 fr:Pâtes de fruits multifruits
+it:Paste multifrutta, Paste di frutta mista
 nl:Multifruitpastas
 
 <en:Fruit pastes
@@ -20724,6 +20731,7 @@ en:Peach pastes
 de:Pfirsichpaste
 es:Dulces de melocotón, Pastas de melocotón, Cremas de melocotón
 fr:Pâtes de pêches
+it:Paste di pesca
 nl:Perzikkenpastas
 
 <en:Fruit pastes
@@ -20731,6 +20739,7 @@ en:Plum pastes
 de:Pflaumenpaste
 es:Dulces de ciruela, Pastas de ciruela, Cremas de ciruela
 fr:Pâtes de prunes
+it:Paste di prugna, Paste di susina
 nl:Pruimenpastas
 
 <en:Fruit pastes
@@ -20738,6 +20747,7 @@ en:Quince cheeses
 de:Quittenpaste
 es:Dulces de membrillo, Carnes de membrillo, Pastas de membrillo, Cremas de membrillo
 fr:Pâtes de coings
+it:Cotognate
 nl:Kweepeerpastas
 wikidata:en:Q555084
 
@@ -20763,12 +20773,14 @@ en:Semi-preserved foods
 de:Halbkonserven
 es:Semiconservas, Semi-conservas
 fr:Semi-conserves
+it:Semiconserve, Semi-conserve
 nl:Half geconserveerde producten
 
 en:Fish eggs, Roes
 de:Fischeier, Rogen
 fi:kalan mädit
 fr:Œufs de poisson
+it:Uova di pesce
 nl:Visseneieren
 zh:鱼卵, 鱼子
 
@@ -20776,6 +20788,7 @@ zh:鱼卵, 鱼子
 <en:fish eggs
 fr:Œufs de lump, Œufs de Cyclopterus lumpus, Oeufs de lompe
 de:Seehasenrogen
+it:Uova di lompo, Uova di ciclottero
 wikidata:en:Q3594120
 
 <en:Canned meals
@@ -20786,6 +20799,7 @@ es:Raviolis enlatados
 fi:purkitetut raviolit
 fr:Ravioli en conserve, raviolis en conserve, ravioli en boite, raviolis en boite
 hu:Konzerv ravioli, Ravioli konzervdobozban
+it:Ravioli in scatola
 nl:Ravioli in blik
 ro:Conserve de ravioli
 
@@ -20798,6 +20812,7 @@ es:Comidas preparadas en conserva, Platos preparados en conserva
 fi:purkitetut ateriat
 fr:Plats préparés en conserve, plats cuisinés en conserve, plat préparé en conserve
 hu:Konzerv ételek
+it:Piatti pronti in scatola
 nl:Kant en klaargerechten in blik
 zh:罐头饭菜
 
@@ -20809,6 +20824,7 @@ de:Getrocknete Fertiggerichte
 es:Comidas preparadas deshidratadas, Platos preparados deshidratados
 fi:kuivatut ateriat
 fr:Plats préparés déshydratés, Plats cuisinés déshydratés
+it:Piatti pronti disidratati, Piatti pronti liofilizzati
 nl:Gedroogde kant en klaarmaaltijden
 ro:Mese uscate, Mese preparate uscate
 
@@ -20820,6 +20836,7 @@ de:Gekühlte Gerichte
 es:Comidas preparadas refrigeradas, Platos preparados refrigerados
 fi:jäähdytetyt ateriat
 fr:Plats préparés réfrigérés, Plats cuisinés réfrigérés
+it:Piatti pronti refrigerati
 hu:Hűtött húsok
 nl:Diepvrieskant en klaarmaaltijden
 
@@ -20829,6 +20846,7 @@ de:Dosenfleisch
 es:Carnes enlatadas
 fi:purkitetut lihat
 fr:Viandes en conserve
+it:Carni in scatola
 nl:Vlees in blik, Conservenvlees
 ro:Conserve carne, Conserve de carne
 zh:罐装肉, 肉罐头
@@ -20839,6 +20857,7 @@ de:Kartoffel Tortillas
 es:Tortillas de patata
 fi:espanjalaiset tortillat
 fr:Omelettes de pommes de terre, Omelettes espagnoles
+it:Omelette di patate
 nl:Spaanse tortillas
 wikidata:en:Q281751
 
@@ -20847,20 +20866,24 @@ en:Egg-free spanish omelettes
 de:Eierfreie Kartoffel Tortillas
 es:Tortillas de patata sin huevo
 fr:Omelettes espagnoles sans oeuf
+it:Omelette di patate senza uova
 nl:Spaanse tortillas zonder ei
 
 <en:Meals
 fr:Crêpes au jambon
+it:Crespelle al prosciutto, Crêpe al prosciutto, Crepe al prosciutto
 
 <en:Meals
 fr:Crêpes au fromage, Crêpes garnies au fromage, Crêpes garnie au fromage, Crêpe au fromage, Crêpes fourrées au fromage, Crêpe fourrée au fromage
 de:Käsepfannkuchen, Käse Pfannkuchen, Pfannkuchen mit Käse
+it:Crespelle al formaggio, Crêpe al formaggio, Crepe al formaggio
 
 <en:fish eggs
 en:Caviars
 de:Kaviar
 fi:kaviaarit
 fr:Caviars, Caviar
+it:Caviali
 nl:Kaviaar
 ro:Caviar
 wikidata:en:Q186385
@@ -20869,60 +20892,71 @@ wikidata:en:Q186385
 en:Farmed caviars
 de:Zuchtkaviar
 fr:Caviars d'élevage
+it:Caviali di allevamento, Caviali d'allevamento
 nl:Gekweekte kaviaar
 
 <en:Farmed caviars
 en:Baeri caviars
 de:Kaviar vom Acipenser baerii
 fr:Caviar Baeri, Baeri, Caviar d'esturgeon sibérien, Acipenser baerii
+it:Caviali Baeri, Caviali di storione siberiano
 nl:Baeri kaviaar
 
 <en:Farmed caviars
 fr:Caviar d'esturgeon blanc, Acipenser transmontanus
+it:Caviali di storione bianco
 de:Weißer Kaviar
 
 <en:Farmed caviars
 fr:Caviar de Acipenser gueldenstaedtii, Caviar d'esturgeon russe, Caviar d'esturgeon du Danube, Diamond Sturgeon
 de:Kaviar vom Acipenser gueldenstaedtii
+it:Caviali di storione danubiano, Caviali di storione russo
 
 <en:Caviars
 en:Wild caviars
 de:Wildkaviar
 fr:Caviars sauvages
+it:Caviali selvatici, Caviali selvaggi
 nl:Wilde kaviaar
 
 <fr:Caviars sauvages
 en:Beluga caviar
 de:Belugakaviar
 fr:Caviar béluga, Caviar de béluga, Caviar d'Huso Huso
+it:Caviali Beluga, Caviali di storione beluga, Caviali di storione ladano, Caviali di storione attilo
 nl:Beluga kaviaar
 wikidata:en:Q4518649
 
 <fr:Caviars sauvages
-en:Hackeleback caviars
+en:Hackleback caviars
 de:Hackleback Kaviar
 fr:Caviar de hackeleback
+it:Caviali di hackleback, Caviali di storione hackleback
 
 <fr:Caviars sauvages
 en:Paddlefish caviars
 de:Paddlefish Kaviar, Kaviar vom Löffelstör
 fr:Caviar de paddlefish
+it:Caviali di pesce spatola
 
 <fr:Caviars sauvages
 en:Ossetra caviar
 de:Ossietra Kaviar
 fr:Caviar osciètre, Caviar d'osciètre, Caviar ossiètre, Caviar d'ossiètre, Acipenser Gueldenstaedtii, Acipenser Persicus
+it:Caviali Ossetra, Caviali Osetra, Caviali Oscietra, Caviali Asetra, 
 nl:Ossetra kaviaar
 
 <fr:Caviars sauvages
 en:Sevruga caviar
 de:Sevruga Kaviar
 fr:Caviar sevruga, Caviar de sevruga, Acipenser stellatus, Caviar d'esturgeon étoilé
+it:Caviali Sevruga, Caviali di storione stellato
 
 <fr:Caviars sauvages
 en:Sterlet caviar
 de:Sterlet Kaviar
 fr:Caviar sterlet, Acipenser ruthenus
+it:Caviali di sterletto, Caviali di sterleto, Caviali Sterlet
 
 <en:Plant-based foods
 en:Seeds, Grains
@@ -20980,6 +21014,7 @@ pnns_group_2:en:Potatoes
 en:Gnocchi of durum wheat semolina
 de:Grießgnocchi, Gnocchi aus Hartweizengrieß
 fr:Gnocchi de semoule de blé dur
+it:Gnocchi di semola di grano duro
 nl:Gnocchi van durum tarwe
 pnns_group_2:en:Cereals
 
@@ -20991,7 +21026,7 @@ es:Cereales y derivados, Cereales y sus productos, Cereales
 fi:Viljat ja viljatuotteet
 fr:Céréales et dérivés, Céréales
 hu:Gabonafélék és azok termékei
-it:Cereali e i loro prodotti, Cereali
+it:Cereali e derivati, Cereali
 nl:Granen en graanproducten
 pl:Zboża i produkty zbożowe, zboża
 pt:Cereais e seus produtos
@@ -21017,6 +21052,7 @@ en:Canary grass
 de:Kanarische Samen
 es:Alpiste
 fr:Alpiste
+it:Scagliola
 la:Phalaris canariensis
 nl:Kanariezaden
 wikidata:en:Q2086586
@@ -21036,6 +21072,7 @@ en:Avena
 de:Haferarten
 es:Avena
 fr:Avena
+it:Avena
 la:Avena
 nl:Haverfamilie, Avena
 zh:燕麦属
@@ -21047,6 +21084,7 @@ de:Hafer, Echter Hafer
 es:Avena sativa
 fi:kaura
 fr:Avoines
+it:Avena comune
 la:Avena sativa
 nl:Havers
 zh:燕麦
