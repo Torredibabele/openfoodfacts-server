@@ -4830,7 +4830,7 @@ it:Vini
 nl:Wijnen, Wijn
 pl:Wina
 pt:Vinhos
-ru:Вина, Вино
+ru:Вина, ��ино
 se:Viner, vin
 sv:Viner
 th:ไวน์
@@ -19718,7 +19718,7 @@ fr:Barres chocolatées au lait et aux céréales, barre chocolatée au lait et a
 it:Barrette di cioccolato al latte e cereali
 
 <en:Chocolate bars
-fr:Barres chocolatées aux fruits oléagineux, barre chocolatée aux fruits oléagineux type Snickers, Snickers
+fr:Barres chocolatées aux fruits oléagineux, barre chocolat��e aux fruits oléagineux type Snickers, Snickers
 it:Barrette di cioccolato con frutta a guscio, Barrette di cioccolato con semi oleosi
 
 <en:Chocolate bars
@@ -20866,7 +20866,7 @@ en:Egg-free spanish omelettes
 de:Eierfreie Kartoffel Tortillas
 es:Tortillas de patata sin huevo
 fr:Omelettes espagnoles sans oeuf
-it:Omelette di patate senza uova
+it:Omelette spagnole senza uova
 nl:Spaanse tortillas zonder ei
 
 <en:Meals
@@ -20892,71 +20892,65 @@ wikidata:en:Q186385
 en:Farmed caviars
 de:Zuchtkaviar
 fr:Caviars d'élevage
-it:Caviali di allevamento, Caviali d'allevamento
+it:Caviali d'allevamento
 nl:Gekweekte kaviaar
 
 <en:Farmed caviars
 en:Baeri caviars
 de:Kaviar vom Acipenser baerii
 fr:Caviar Baeri, Baeri, Caviar d'esturgeon sibérien, Acipenser baerii
-it:Caviali Baeri, Caviali di storione siberiano
+it:Caviali Baeri, Caviali da storione siberiano
 nl:Baeri kaviaar
 
 <en:Farmed caviars
 fr:Caviar d'esturgeon blanc, Acipenser transmontanus
-it:Caviali di storione bianco
 de:Weißer Kaviar
+it:Caviali da storione bianco
 
 <en:Farmed caviars
 fr:Caviar de Acipenser gueldenstaedtii, Caviar d'esturgeon russe, Caviar d'esturgeon du Danube, Diamond Sturgeon
 de:Kaviar vom Acipenser gueldenstaedtii
-it:Caviali di storione danubiano, Caviali di storione russo
+it:Caviali Ossetra, Caviali Osetra, Caviali da storione danubiano, Caviali da storione russo
 
 <en:Caviars
 en:Wild caviars
 de:Wildkaviar
 fr:Caviars sauvages
-it:Caviali selvatici, Caviali selvaggi
+it:Caviali salvatici, Caviali selvaggi
 nl:Wilde kaviaar
 
 <fr:Caviars sauvages
 en:Beluga caviar
 de:Belugakaviar
 fr:Caviar béluga, Caviar de béluga, Caviar d'Huso Huso
-it:Caviali Beluga, Caviali di storione beluga, Caviali di storione ladano, Caviali di storione attilo
 nl:Beluga kaviaar
 wikidata:en:Q4518649
 
 <fr:Caviars sauvages
-en:Hackleback caviars
+en:Hackeleback caviars
 de:Hackleback Kaviar
 fr:Caviar de hackeleback
-it:Caviali di hackleback, Caviali di storione hackleback
 
 <fr:Caviars sauvages
 en:Paddlefish caviars
 de:Paddlefish Kaviar, Kaviar vom Löffelstör
 fr:Caviar de paddlefish
-it:Caviali di pesce spatola
 
 <fr:Caviars sauvages
 en:Ossetra caviar
 de:Ossietra Kaviar
 fr:Caviar osciètre, Caviar d'osciètre, Caviar ossiètre, Caviar d'ossiètre, Acipenser Gueldenstaedtii, Acipenser Persicus
-it:Caviali Ossetra, Caviali Osetra, Caviali Oscietra, Caviali Asetra, 
 nl:Ossetra kaviaar
 
 <fr:Caviars sauvages
 en:Sevruga caviar
 de:Sevruga Kaviar
 fr:Caviar sevruga, Caviar de sevruga, Acipenser stellatus, Caviar d'esturgeon étoilé
-it:Caviali Sevruga, Caviali di storione stellato
 
 <fr:Caviars sauvages
 en:Sterlet caviar
 de:Sterlet Kaviar
 fr:Caviar sterlet, Acipenser ruthenus
-it:Caviali di sterletto, Caviali di sterleto, Caviali Sterlet
 
 <en:Plant-based foods
 en:Seeds, Grains
@@ -21014,7 +21008,6 @@ pnns_group_2:en:Potatoes
 en:Gnocchi of durum wheat semolina
 de:Grießgnocchi, Gnocchi aus Hartweizengrieß
 fr:Gnocchi de semoule de blé dur
-it:Gnocchi di semola di grano duro
 nl:Gnocchi van durum tarwe
 pnns_group_2:en:Cereals
 
@@ -21026,7 +21019,7 @@ es:Cereales y derivados, Cereales y sus productos, Cereales
 fi:Viljat ja viljatuotteet
 fr:Céréales et dérivés, Céréales
 hu:Gabonafélék és azok termékei
-it:Cereali e derivati, Cereali
+it:Cereali e i loro prodotti, Cereali
 nl:Granen en graanproducten
 pl:Zboża i produkty zbożowe, zboża
 pt:Cereais e seus produtos
@@ -21052,7 +21045,6 @@ en:Canary grass
 de:Kanarische Samen
 es:Alpiste
 fr:Alpiste
-it:Scagliola
 la:Phalaris canariensis
 nl:Kanariezaden
 wikidata:en:Q2086586
@@ -21072,7 +21064,6 @@ en:Avena
 de:Haferarten
 es:Avena
 fr:Avena
-it:Avena
 la:Avena
 nl:Haverfamilie, Avena
 zh:燕麦属
@@ -21084,7 +21075,6 @@ de:Hafer, Echter Hafer
 es:Avena sativa
 fi:kaura
 fr:Avoines
-it:Avena comune
 la:Avena sativa
 nl:Havers
 zh:燕麦
@@ -21106,6 +21096,7 @@ en:Winter barley
 de:Wintergerste
 es:Cebada de invierno
 fr:Escourgeon
+it:Orzo polistico, orzo invernale
 la:Hordeum vulgare subsp. hexastichum
 nl:Wintergerst
 wikidata:en:Q3057987
@@ -21129,7 +21120,7 @@ de:Chia
 es:Chía
 fi:chia
 fr:Chia, graines de chia
-it:Chia
+it:Chia, semi di chia
 la:Salvia hispanica
 nl:Chia
 wikidata:en:Q1071585
@@ -21139,6 +21130,7 @@ en:Coix
 de:Hirsearten
 es:Coix
 fr:Coix
+it:Coix
 la:Coix
 nl:Coix
 wikidata:en:Q1186042
@@ -21148,6 +21140,7 @@ en:Job's Tears
 de:Hiobsträne
 es:Lágrimas de Job
 fr:Coix lacryma-jobi, Coix - lacryma-jobi
+it:Lacrima di Giobbe
 la:Coix lacryma-jobi
 nl:Jobstranen
 wikidata:en:Q827098
@@ -21158,7 +21151,7 @@ de:Mais
 es:Maíz
 fi:maissi
 fr:Maïs
-it:Mais
+it:Mais, Granoturco
 la:Zea mays subsp. mays
 nl:Mais, Maïs
 zh:玉米
@@ -21170,6 +21163,7 @@ de:Zuckermais, süße Maise
 es:Maíz dulce
 fi:makea maissi
 fr:Maïs doux, Maïs sucré
+it:Mais dolce, Granoturco dolce
 la:Zea mays subsp. mays var. rugosa, Zea mays var. saccharata
 nl:Suikermais
 zh:甜玉米
@@ -21180,6 +21174,7 @@ en:Crabgrass, Finger-grass
 de:Fingerhirsen Digitaria
 es:Digitarias
 fr:Digitaires, Digitaria
+it:Digitaria
 la:Digitaria
 nl:Vingergras
 wikidata:en:Q163915
@@ -21189,6 +21184,7 @@ en:Digitaria cruciata
 de:Digitaria Cruciata
 es:Digitaria cruciata
 fr:Raishan
+it:Digitaria cruciata
 la:Digitaria cruciata, Digitaria compacta
 wikidata:en:Q3027824
 
@@ -21197,6 +21193,7 @@ en:Digitaria iburua
 de:Digitaria Iburua
 es:Digitaria iburua
 fr:Fonio noir
+it:Fonio nero
 la:Digitaria iburua
 wikidata:en:Q1341123
 
@@ -21205,6 +21202,7 @@ en:Fonio
 de:Foniohirse
 es:Mijo fonio
 fr:Fonio blanc
+it:Fonio bianco
 la:Digitaria exilis
 nl:Fonio
 wikidata:en:Q1340738
@@ -21214,6 +21212,7 @@ en:Hairy crabgrass, Large crabgrass
 de:Bluthirse, Blutrote Fingerhirse
 es:Guarda rocío
 fr:Digitaire sanguine, Millet sanguin, Manne rouge d'Europe
+it:Sanguinella, Sanguinella comune
 la:Digitaria sanguinalis
 nl:Bloedgierst
 wikidata:en:Q158994
@@ -21224,7 +21223,7 @@ de:Leinsamen, Leinsaaten, Leinsaat
 es:Lino, Linaza, Semillas de lino
 fi:pellavansiemenet
 fr:Lins, Lin cultivé, Graines de lin
-it:Lino
+it:Lino, Lino comune
 la:Linum usitatissimum
 nl:Lijnzaad, Zaad van vlas
 wikidata:en:Q45108
@@ -21234,6 +21233,7 @@ en:Gold flax seeds, Gold flax, Gold linseeds
 de:Goldleinsamen
 es:Lino dorado, Linaza dorada, Semillas de lino dorado
 fr:Graines de lin dorées
+it:Lino dorato, Lino chiaro, Semi di lino dorato, Semi di lino chiaro
 nl:Geel lijnzaad
 
 <en:Flax seeds
@@ -21241,12 +21241,14 @@ en:Brown flax seeds, Brown flax, Brown linseeds
 de:braune Leinsamen, braune Leinsaaten, braune Leinsaat
 es:Lino marrón, Linaza marrón, Semillas de lino marrón
 fr:Graines de lin brunes
+it:Lino scuro, Semi di lino scuro
 nl:Bruin lijnzaad
 
 <en:Flax seeds
 en:Ground flax seeds
 de:geschrotete Leinsamen, geschrotete Leinsaaten, geschrotete Leinsaat
 es:Lino molido
+it:Lino macinato
 nl:Gemalen lijnzaad
 
 <en:Ground flax seeds
@@ -21254,6 +21256,7 @@ nl:Gemalen lijnzaad
 en:Ground gold flax seeds
 de:geschrotete Goldleinsamen, geschrotete Goldleinsaaten, geschrotete Goldleinsaat
 es:Lino dorado molido
+it:Lino dorato macinato, Lino chiaro macinato
 nl:Gemalen geel lijnzaad
 
 <en:Ground flax seeds
@@ -21261,12 +21264,14 @@ nl:Gemalen geel lijnzaad
 en:Ground brown flax seeds
 de:geschrotete braune Leinsamen, geschrotete braune Leinsaaten, geschrotete braune Leinsaat
 es:Lino marrón molido
+it:Lino scuro macinato
 nl:Gemalen bruin lijnzaad
 
 <en:Cereal grains
 en:Meslin
 es:Morcajo, Tranquillón, Mezclas de trigo y centeno
 fr:Méteil, Mélange de blé et seigle
+it:Segalata
 nl:Masteluin
 wikidata:en:Q3333504
 
@@ -21275,6 +21280,7 @@ en:Millet
 de:Hirse
 es:Mijo
 fr:Millet
+it:Miglio
 nl:Gierstfamilie
 wikidata:en:Q259438
 
@@ -21283,6 +21289,7 @@ en:Pearl millet
 de:Perlhirse
 es:Mijo perla
 fr:Mil, Mil à chandelle
+it:Miglio perlato
 la:Pennisetum glaucum
 nl:Parelgierst
 wikidata:en:Q654332
@@ -21292,6 +21299,7 @@ en:Proso millet, Common millet, White millet
 de:Rispenhirse
 es:Mijo común
 fr:Millet commun
+it:Miglio comune
 la:Panicum miliaceum
 nl:Gierst
 wikidata:en:Q165196
@@ -21314,6 +21322,7 @@ en:Red quinoa
 de:Rotes Quinoa
 es:Quinoa roja
 fr:Quinoa rouge
+it:Quinoa rossa
 nl:Rode quinoa
 
 <en:Cereal grains
@@ -21325,7 +21334,7 @@ es:Arroces, Arroz
 fi:riisit
 fr:Riz
 hu:Rizsek
-it:Riso
+it:Risi
 la:Oryza sativa
 nl:Rijst
 pl:Ryże
@@ -21341,7 +21350,7 @@ de:Brauner Reis
 es:Arroces integrales, Arroces cargo
 fi:ruskeat riisit
 fr:Riz complet, riz cargo, riz brun, riz semi-complet
-it:Riso integrale
+it:Risi integrali
 nl:Volkoren rijst
 wikidata:en:Q1066624
 
@@ -21350,6 +21359,7 @@ en:Paddy rices
 de:Ungedroschener Reis
 es:Arroces en cáscara, Arroces con cáscara, Arroces cáscara, Arroces paddy
 fr:Riz paddy
+it:Risoni, 
 
 <en:Rices
 en:Parboiled rices
@@ -21357,6 +21367,7 @@ de:Gekochter Reis
 es:Arroces vaporizados, Arroces sancochados, Arroces parboiled
 fi:parboiled riisit
 fr:Riz étuvé
+it:Risi parboilizzati, Risi parboiled
 nl:Parboiled rijst, Inkaf gekookte rijst
 wikidata:en:Q732925
 
@@ -21366,6 +21377,7 @@ de:Weißer Reis
 es:Arroces blancos
 fi:valkoiset riisit
 fr:Riz blanc, riz usiné, riz blancho
+it:Risi bianchi
 nl:Witte rijst
 pl:Ryż biały
 wikidata:en:Q2674257
@@ -21375,6 +21387,7 @@ en:Aromatic rices
 de:Aromatischer Reis
 es:Arroces aromáticos
 fr:Riz parfumés, Riz parfumé
+it:Risotti aromatizzati, Risotti con aromi
 nl:Geparfumeerde rijst
 wikidata:en:Q4795514
 
@@ -21383,6 +21396,7 @@ en:Glutinous rices, Sticky rices
 de:Klebreis
 es:Arroces glutinosos
 fr:Riz gluant, riz glutineux, riz collant, riz doux
+it:Risi glutinosi, Risi cerosi, Risi appiccicosi, Risi dolci
 nl:Plakrijst
 wikidata:en:Q115443
 
@@ -21392,6 +21406,7 @@ de:Indica Reis
 es:Arroces de la variedad índica
 fi:indica-riisit
 fr:Riz de variété indica
+it:Risi di tipo indica
 nl:Indica rijst
 wikidata:en:Q5360953
 
@@ -21400,6 +21415,7 @@ en:Japonica rices
 de:Japonica Reis
 es:Arroces de la variedad japónica
 fr:Riz de variété japonica
+it:Risi di tipo japonica
 nl:Japonica rijst
 
 <en:Rices
@@ -21409,6 +21425,7 @@ de:Langkornreis
 es:Arroces de grano largo
 fi:pitkäjyväiset riisit
 fr:Riz long grain, riz longs grains, Riz long
+it:Risi a chicco lungo
 nl:Langgraanrijst
 
 <en:Rices
@@ -21416,6 +21433,7 @@ en:Medium grain rices
 de:Mittelkornreis
 es:Arroces de grano medio, Arroces de grano semilargo
 fr:Riz à grain médium, Riz à grain moyen
+it:Risi a chicco medio
 nl:Mediumgraanrijst
 
 <en:Rices
@@ -21424,6 +21442,7 @@ de:Rundkornreise
 es:Arroces de grano corto, Arroces de grano redondo
 fi:lyhytjyväiset riisit
 fr:Riz à grain court, Riz rond, Riz à grain ovale
+it:Risi a chicco corto, Risi a chicco tondo
 nl:Korrelrijst
 
 <en:Rices
@@ -21431,6 +21450,7 @@ en:Rices for paella
 de:Paella Reis
 es:Arroces para paella
 fr:Riz pour paellas
+it:Risi per paella
 nl:Paellarijst
 
 <en:Rices
@@ -21439,6 +21459,7 @@ de:Risotto Reis
 es:Arroces para risotto
 fi:risottoriisit
 fr:Riz pour risotto
+it:Risi per risotto
 nl:Risottorijsten
 
 <en:Rices
@@ -21446,6 +21467,7 @@ en:Sushi rice, Rices for sushi
 de:Sushi Reis
 es:Arroces para sushi
 fr:Riz pour sushi
+it:Risi per sushi
 nl:Sushirijsten
 zh:寿司米
 
@@ -21456,6 +21478,7 @@ en:Arborio rices
 de:Arborio Reis
 es:Arroces Arborio
 fr:Riz arborio
+it:Risi Arborio
 nl:Arboriorijsten
 wikidata:en:Q2615884
 
@@ -21465,6 +21488,7 @@ wikidata:en:Q2615884
 en:Bahía rices, Bahia rices
 es:Arroces Bahía
 fr:Riz Bahía
+it:Risi Bahía, Risi Bahia
 nl:Bahiarijsten
 wikidata:en:Q5706293
 
@@ -21474,6 +21498,7 @@ wikidata:en:Q5706293
 en:Balilla x Sollana rices
 es:Arroces Balilla x Sollana
 fr:Riz Balilla x Sollana
+it:Risi Balilla x Sollana
 
 <en:Long grain rices
 <en:Indica rices
@@ -21483,7 +21508,7 @@ de:Basmati Reis
 es:Arroces Basmati
 fi:basmatiriisit
 fr:Riz Basmati, Basmati
-it:Riso Basmati
+it:Risi Basmati
 nl:Basmatirijsten, Basmatirijst
 pl:Ryż Basmati, ryż siewny indyjski
 wikidata:en:Q1649635
@@ -21494,7 +21519,7 @@ en:Brown Basmati rices
 de:Brauner Basmati Reis
 es:Arroces Basmati integrales
 fr:Riz Basmati bruns
-it:Riso Basmati integrale
+it:Risi Basmati integrali
 nl:Zilvervlies basmatirijsten, Zilvervlies basmatirijst
 
 <en:Basmati rices
@@ -21504,6 +21529,7 @@ de:Weißer Basmati Reis
 es:Arroces Basmati blancos
 fi:valkoiset basmatiriisit
 fr:Riz Basmati blancs
+it:Risi Basmati bianchi
 nl:Witte basmatirijsten, Witte basmatirijst
 
 <en:Short grain rices
@@ -21513,6 +21539,7 @@ en:Bomba rices
 de:Bomba Reis
 es:Arroces Bomba
 fr:Riz Bomba
+it:Risi Bomba
 nl:Bombarijsten, Bombarijst
 wikidata:en:Q5706296
 
@@ -21521,6 +21548,7 @@ en:Camargue rices
 de:Camargue Reis
 es:Arroces de Camarga
 fr:Riz de Camargue
+it:Risi di Camarga, Risi di Camargue, Risi della Camarga, Risi della Camargue
 nl:Camarguerijsten, Camargue rijst, Camarguerijst
 wikidata:en:Q18745430
 
@@ -21531,6 +21559,7 @@ en:Carnaroli rices
 de:Carnaroli Reis
 es:Arroces Carnaroli
 fr:Riz Carnaroli
+it:Risi Carnaroli
 nl:Carnarolirijsten, Carnarolirijst
 wikidata:en:Q1043890
 
@@ -21542,6 +21571,7 @@ de:Jasmin Reis
 es:Arroces Jazmín
 fi:jasmiiniriisi
 fr:Riz thaï, Riz Jasmin
+it:Risi Jasmine
 nl:Thaise rijsten, Thaise rijst, Jasmijnrijst
 wikidata:en:Q2733021
 
@@ -21551,6 +21581,7 @@ en:Brown Jasmine rices
 de:Brauner Jasmin Reis
 es:Arroces Jazmín integrales
 fr:Riz thaï noir
+it:Risi Jasmine integrali
 nl:Zwarte thaise rijsten, Zwarte thaise rijst
 
 <en:Jasmine rice
@@ -21559,6 +21590,7 @@ en:White Jasmine rices
 de:Weißer Jasmin Reis
 es:Arroces Jazmín blancos
 fr:Riz thaï blanc
+it:Risi Jasmine bianchi
 nl:Witte thaise rijsten, Witte thaise rijst
 
 <en:Short grain rices
@@ -21568,6 +21600,7 @@ en:Koshihikari rices, Koshihikari
 de:Koshihikari Reis
 es:Arroces Koshihikari, Koshihikari
 fr:Riz Koshihikari, Koshihikari
+it:Risi Koshihikari, Koshihikari
 nl:Koshihikaririjsten, Koshihikaririjst
 wikidata:en:Q1204670
 
@@ -21577,6 +21610,7 @@ wikidata:en:Q1204670
 en:Sénia rices, Senia rices
 es:Arroces Sénia
 fr:Riz Sénia
+it:Risi Senia, Risi Sénia
 nl:Séniarijsten, Séniarijst, Sénia-rijst, Sénia rijst
 wikidata:en:Q5706352
 
@@ -21584,6 +21618,7 @@ wikidata:en:Q5706352
 en:Surinam rices
 es:Arroces de Surinam
 fr:Riz Surinam
+it:Risi surinamesi, Risi del Suriname
 nl:Surinaamse rijsten, Surinaamse rijst
 
 <en:Long grain rices
@@ -21591,6 +21626,7 @@ nl:Surinaamse rijsten, Surinaamse rijst
 en:Tahibonet rices
 es:Arroces Tahibonet
 fr:Riz Tahibonet
+it:Risi Tahibonet
 nl:Tahibonetrijsten, Tahibonetrijst, Tahibonet-rijst, Tahibonet rijst
 
 <en:Medium grain rices
@@ -21600,6 +21636,7 @@ en:Vialone Nano rices
 de:Vialone Reis
 es:Arroces Vialone Nano
 fr:Riz Vialone Nano
+it:Risi Vialone Nano, Vialone Nano
 nl:Vialone Nanorijsten, Vialone Nanorijst, Vialone Nano rijst
 wikidata:en:Q3937029
 
@@ -21608,6 +21645,7 @@ en:Mixed rices
 de:Gemischter Reis
 es:Mezclas de arroces, Mezcla de arroces
 fr:Mélanges de riz
+it:Miscele di riso
 nl:Gemengde rijsten, Rijstmelanges, Gemengde rijst, Rijstmelange
 
 <en:Cereal grains
@@ -21615,6 +21653,7 @@ en:Secale
 de:Secale, Roggenarten
 es:Secale
 fr:Secale
+it:Secale
 la:Secale
 nl:Secale
 zh:黑麦属
@@ -21625,7 +21664,7 @@ en:Rye
 de:Roggen
 es:Centeno
 fr:Seigle
-it:Segale
+it:Segale, Segala
 la:Secale cereale
 nl:Rogge, Rogges
 zh:裸麦
@@ -21637,6 +21676,7 @@ de:Sesam
 es:Sésamo, Ajonjolí, Semillas de sésamo
 fi:seesami
 fr:Sésame, Graines de sésame
+it:Sesamo
 la:Sesamum indicum
 nl:Sesamzaden, Sesamzaad
 zh:芝麻
@@ -21647,6 +21687,7 @@ en:Raw sesame
 de:Ungerösteter Sesam
 es:Semillas de sésamo crudas
 fr:Graines de sésame crues
+it:Semi di sesamo crudi
 nl:Ongeroosterde sesamzaden, Ongeroosterde sesamzaad, Rauwe sesamzaad
 zh:生芝麻
 
@@ -21655,6 +21696,7 @@ en:Toasted sesame
 de:Gerösteter Sesam
 es:Semillas de sésamo tostadas
 fr:Sésame toasté, Graines de sésame toastées
+it:Semi di sesamo tostati, Sesamo tostato
 nl:Geroosterde sesamzaden, Geroosterde sesamzaad
 zh:烤芝麻
 
@@ -21674,7 +21716,7 @@ en:Teff, Eragrostis tef
 de:Teff
 es:Teff, Tef
 fr:Teff
-it:Teff
+it:Teff, Tef
 la:Eragrostis tef
 nl:Teff
 zh:苔麸
@@ -21685,6 +21727,7 @@ en:Triticale
 de:Triticale
 es:Triticale
 fr:Triticale
+it:Triticale
 la:x Triticosecale
 nl:Triticale
 wikidata:en:Q380329
@@ -21715,6 +21758,7 @@ en:Norin 10 wheats
 de:Norin 10 Weizen
 es:Trigos Norin 10
 fr:Blés Norin 10
+it:Grano Norin 10
 wikidata:en:Q2907437
 
 <en:Wheats
@@ -21732,7 +21776,7 @@ en:Einkorn wheats
 de:Einkorn
 es:Trigos escaña cultivada, Escañas
 fr:Petits épeautres, Engrains, Engrain
-it:Farro piccolo
+it:Monococco, Piccolo farro
 la:Triticum monococcum
 nl:Eenkoorn, Eenkoren
 wikidata:en:Q161397
@@ -21742,7 +21786,7 @@ en:Emmer wheats
 de:Emmer, Sommerdinkel
 es:Escandas, Povia
 fr:Amidonniers
-it:Farro, farro medio, farro dicocco
+it:Farro, Farro medio, Farro dicocco
 la:Triticum dicoccum, Triticum turgidum subsp. dicoccum, Triticum turgidum subsp. dicoccon
 nl:Emmertarwe, tweekoren
 wikidata:en:Q167339
